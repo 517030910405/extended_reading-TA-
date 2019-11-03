@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" lang="en"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en"><!--<![endif]-->
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.cs.cornell.edu/events/50years/speakers" />
+<link rel="shortlink" href="/node/1006" />
+<link rel="shortcut icon" href="https://www.cs.cornell.edu/profiles/cu_cs/themes/awp_cs/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>50th Anniversary Symposium Speaker Bios | Department of Computer Science</title>
+  <link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_EPsgvacVXxxhwhLr4DGj8P1D4es4L_QnnRJPHn_TJHE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_xfVTEOnd6ViwoVCLsQuTjNv7zrf-KSi-vmQ9jeRnH8A.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_MO9SZDHEEo6xDKFoCg3L1ZH1jaFg7DSCG9fp_s9Y3Nc.css" media="all" />
+  <script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js"></script>
+<script type="text/javascript" src="https://embanner.univcomm.cornell.edu/OWC-emergency-banner.js"></script>
+<script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_rsGiM5M1ffe6EhN-RnhM5f3pDyJ8ZAPFJNKpfjtepLk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-42834021-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://use.typekit.net/sib4uwp.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load({ async: true });}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_mk2BZ4FJSGMod1wMQ3Ta37-dGpMuJIDYxJe17LhcUwQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"awp_cs","theme_token":"1eYKWn3evRpMHYaZ06hxy-N-tl2kmjrrVbf0d-nYp0Q","js":{"profiles\/cu_cs\/edit_protection.js":1,"profiles\/cu_cs\/proxy_workarounds.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"https:\/\/embanner.univcomm.cornell.edu\/OWC-emergency-banner.js":1,"profiles\/cu_cs\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"https:\/\/use.typekit.net\/sib4uwp.js":1,"1":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/vendor\/jquery.flexslider.min.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/admin.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/awards.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/caption.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/course_filter.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/events.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/header.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/listing.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/main_menu.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/research_area.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/search.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/search_results.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/slideshow.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/cu_cs\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/cu_cs\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/cu_cs\/modules\/contrib\/views\/css\/views.css":1,"profiles\/cu_cs\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/cu_cs\/themes\/awp_cs\/css\/default.css":1,"profiles\/cu_cs\/themes\/awp_cs\/css\/home.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/events\/50years\/speakers":true}});
+//--><!]]>
+</script>
+  <script src="//use.fontawesome.com/fe8372e268.js"></script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1006 node-type-page" >
+  <nav class="skiplink" id="skip-link" aria-label="Skip to Content">
+	  			<a href="#main-content" class="element-invisible element-focusable">Skip to Content</a>
+			</nav>
+    
+<header aria-label="Site Header">
+    <div class="container">
+      <a href="/" class="site-logo">
+        <img alt="Cornell Computer Science" src="https://www.cs.cornell.edu/profiles/cu_cs/themes/awp_cs/logo.png" class="desktop-logo img-responsive">
+        <img alt="Cornell Computer Science" src="/profiles/cu_cs/themes/awp_cs/logo_mobile.png" class="mobile-logo img-responsive">
+      </a>
+        <div class="region region-header">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-275"><a href="/information/about">About</a><ul class="menu"><li class="first expanded menu-mlid-175"><a href="/information/news">News</a><ul class="menu"><li class="first last leaf menu-mlid-3512"><a href="http://www.cs.cornell.edu/sites/default/files/shared/cs_newsletter_spring_summer_2019.pdf">CS Newsletter Spring/Summer 2019</a></li>
+</ul></li>
+<li class="leaf menu-mlid-736"><a href="/information/research-news">Research News</a></li>
+<li class="leaf menu-mlid-320"><a href="/information/departmentlife">Department Life</a></li>
+<li class="expanded menu-mlid-325"><a href="/information/awards">Awards</a><ul class="menu"><li class="first leaf menu-mlid-961"><a href="/information/awards-by-recipient">Listed by Recipient</a></li>
+<li class="last leaf menu-mlid-966"><a href="/information/awards-by-category">Listed by Category</a></li>
+</ul></li>
+<li class="leaf menu-mlid-681"><a href="https://ecommons.cornell.edu/bitstream/handle/1813/44201/CS_Oral_History_Directory_v10Jun16.pdf?sequence=2&amp;isAllowed=y">Oral History of Cornell CS</a></li>
+<li class="expanded menu-mlid-245"><a href="/information/pubs">Publications</a><ul class="menu"><li class="first leaf menu-mlid-971"><a href="/information/publications-by-author">Books by Author</a></li>
+<li class="last leaf menu-mlid-976"><a href="/information/publications-by-year">Books Chronologically</a></li>
+</ul></li>
+<li class="expanded menu-mlid-571"><a href="/information/timeline">Department Timeline</a><ul class="menu"><li class="first leaf menu-mlid-586"><a href="http://www.cs.cornell.edu/information/timeline#60">The 60&#039;s</a></li>
+<li class="leaf menu-mlid-591"><a href="http://www.cs.cornell.edu/information/timeline#70">The 70&#039;s</a></li>
+<li class="leaf menu-mlid-596"><a href="http://www.cs.cornell.edu/information/timeline#80">The 80&#039;s</a></li>
+<li class="leaf menu-mlid-601"><a href="http://www.cs.cornell.edu/information/timeline#90">The 90&#039;s</a></li>
+<li class="leaf menu-mlid-606"><a href="http://www.cs.cornell.edu/information/timeline#00">The 00&#039;s</a></li>
+<li class="last leaf menu-mlid-611"><a href="http://www.cs.cornell.edu/information/timeline#10">The 2010&#039;s</a></li>
+</ul></li>
+<li class="leaf menu-mlid-277"><a href="/information/annualreports">Annual Reports</a></li>
+<li class="expanded menu-mlid-299"><a href="/information/jobpostings">Job Postings</a><ul class="menu"><li class="first leaf menu-mlid-323"><a href="/information/jobpostings/facultypositionsithaca">Faculty Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-2890"><a href="/information/jobpostings/lecturer-positions-ithaca">Lecturer Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-327"><a href="/information/jobpostings/facultypositionsnyctech">Faculty Positions: New York City</a></li>
+<li class="leaf menu-mlid-2500"><a href="/information/jobpostings/postdocpositionsithaca">Post-doc Position: Ithaca</a></li>
+<li class="leaf menu-mlid-343"><a href="https://www.hr.cornell.edu/jobs/positions.html" class="outlink">Staff/Technical Positions</a></li>
+<li class="last leaf menu-mlid-661"><a href="https://www.cs.cornell.edu/undergrad/ugradcoursestaff ">Ugrad Course Staff</a></li>
+</ul></li>
+<li class="leaf menu-mlid-246"><a href="/information/ithaca">Ithaca Info</a></li>
+<li class="last leaf menu-mlid-498"><a href="https://confluence.cornell.edu/display/csdinfo/CSD+Info+Home">Internal info</a></li>
+</ul></li>
+<li class="expanded active-trail menu-mlid-324"><a href="/events" class="active-trail">Events</a><ul class="menu"><li class="first leaf menu-mlid-986"><a href="/events/calendar">Calendar</a></li>
+<li class="leaf menu-mlid-3450"><a href="http://www.cs.cornell.edu/node/10412">Graduation Information</a></li>
+<li class="leaf menu-mlid-2499"><a href="/content/cornell-tech-colloquium-6">Cornell Tech Colloquium</a></li>
+<li class="leaf menu-mlid-2951"><a href="/content/student-colloquium">Student Colloquium</a></li>
+<li class="leaf menu-mlid-621"><a href="http://boom.cornell.edu/">BOOM</a></li>
+<li class="collapsed menu-mlid-3638"><a href="/content/fall-2019-colloquium">CS Colloquium</a></li>
+<li class="expanded menu-mlid-2502"><a href="/content/workshop/sonic">SoNIC Workshop</a><ul class="menu"><li class="first leaf menu-mlid-2503"><a href="http://www.cornell.edu/visiting/">Visiting Cornell University</a></li>
+<li class="leaf menu-mlid-2504"><a href="http://www.cs.cornell.edu">Cornell Computer Science</a></li>
+<li class="leaf menu-mlid-2505"><a href="http://www.visitithaca.com/group-attractions/">Ithaca Attractions</a></li>
+<li class="leaf menu-mlid-2507"><a href="http://www.ithacamenus.com/">Area Restaurants</a></li>
+<li class="leaf menu-mlid-2506"><a href="http://www.cs.cornell.edu/information/ithaca">Things to do in Ithaca</a></li>
+<li class="leaf menu-mlid-2508"><a href="https://www.cornell.edu/about/maps/">Campus Map</a></li>
+<li class="last leaf menu-mlid-2574"><a href="http://www.cs.cornell.edu/sites/default/files/shared/sonic_flyer_2019.pdf">SoNIC Flyer</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1711"><a href="/events/conway">Conway-Walker Lecture Series</a></li>
+<li class="leaf menu-mlid-1706"><a href="/events/saltonseries">Salton Lecture Series</a></li>
+<li class="expanded menu-mlid-292"><a href="/events/sems">Seminars / Lectures</a><ul class="menu"><li class="first leaf menu-mlid-3640"><a href="/content/fall-2019-artificial-intelligence-seminar">AI (Artificial Intelligence) Seminar</a></li>
+<li class="last leaf menu-mlid-3641"><a href="/content/fall-2019-theory-seminar">Theory Seminar</a></li>
+</ul></li>
+<li class="leaf menu-mlid-546"><a href="http://www.bigredhacks.com/">Big Red Hacks</a></li>
+<li class="expanded active-trail menu-mlid-516"><a href="/events/50years" class="active-trail">50th Anniversary Symposium</a><ul class="menu"><li class="first leaf active-trail active menu-mlid-551"><a href="/events/50years/speakers" class="active-trail active">Speaker Bios</a></li>
+<li class="leaf menu-mlid-561"><a href="/events/50years/abstracts">Titles/Abstracts</a></li>
+<li class="leaf menu-mlid-2434"><a href="https://www.flickr.com/gp/138617394@N06/L93xc4 ">Photos</a></li>
+<li class="last leaf menu-mlid-2433"><a href="http://www.cs.cornell.edu/events/50years/schedule">Schedule of talks with videos</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-507"><a href="/events/cornell-high-school-programming-contest">Cornell University High School Programming Contest</a></li>
+<li class="last leaf menu-mlid-459"><a href="http://gdiac.cis.cornell.edu/" class="outlink">Game Design Initiative</a></li>
+</ul></li>
+<li class="expanded menu-mlid-261"><a href="/people">People</a><ul class="menu"><li class="first leaf menu-mlid-262"><a href="/people/chair">Chair</a></li>
+<li class="leaf menu-mlid-766"><a href="/people/faculty">Faculty</a></li>
+<li class="leaf menu-mlid-771"><a href="/people/researchers">Researchers</a></li>
+<li class="expanded menu-mlid-776"><a href="/people/staff">Staff</a><ul class="menu"><li class="first last leaf menu-mlid-271"><a href="https://www.cs.cornell.edu/sites/default/files/shared/faculty_support_2019-2020.pdf">Faculty Admin Support</a></li>
+</ul></li>
+<li class="leaf menu-mlid-781"><a href="/people/phdstudents">Ph.D. Students</a></li>
+<li class="leaf menu-mlid-791"><a href="/people/msstudents">M.S. Students</a></li>
+<li class="leaf menu-mlid-786"><a href="/people/mengstudents">M.Eng. Students</a></li>
+<li class="last leaf menu-mlid-796"><a href="/people/phdalumni">Ph.D. Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-252"><a href="/courseinfo">Courses</a><ul class="menu"><li class="first leaf menu-mlid-295"><a href="/courseinfo/listofcscourses">List of Courses</a></li>
+<li class="leaf menu-mlid-581"><a href="/courseinfo/enrollment">Enrollment</a></li>
+<li class="leaf menu-mlid-312"><a href="/courseinfo/examschedules">Exams</a></li>
+<li class="leaf menu-mlid-308"><a href="/courseinfo/courseandroomroster">Course and Room Roster</a></li>
+<li class="leaf menu-mlid-2437"><a href="/courseinfo/homework-hand-back-room">Homework Hand Back Room</a></li>
+<li class="last leaf menu-mlid-3637"><a href="/courseinfo/placement">CS Advanced Standing Exam</a></li>
+</ul></li>
+<li class="expanded menu-mlid-257"><a href="/research">Research</a><ul class="menu"><li class="first leaf menu-mlid-243"><a href="/research/architecture">Architecture</a></li>
+<li class="leaf menu-mlid-274"><a href="/research/ai">Artificial Intelligence</a></li>
+<li class="leaf menu-mlid-248"><a href="/research/compbio">Computational Biology</a></li>
+<li class="leaf menu-mlid-285"><a href="/research/datasystems">Database Systems</a></li>
+<li class="leaf menu-mlid-298"><a href="/research/graphics">Graphics</a></li>
+<li class="leaf menu-mlid-631"><a href="/research/humaninteraction">Human Interaction</a></li>
+<li class="leaf menu-mlid-247"><a href="/research/lang">Programming Languages</a></li>
+<li class="leaf menu-mlid-283"><a href="http://robotics.cornell.edu">Robotics</a></li>
+<li class="leaf menu-mlid-303"><a href="/research/scientif">Scientific Computing</a></li>
+<li class="leaf menu-mlid-335"><a href="/research/security">Security</a></li>
+<li class="leaf menu-mlid-251"><a href="/research/systems">Systems and Networking</a></li>
+<li class="last leaf menu-mlid-270"><a href="/research/theory">Theory of Computing</a></li>
+</ul></li>
+<li class="expanded menu-mlid-291 student-menu-link"><a href="/undergrad">Undergraduate</a><ul class="menu"><li class="first expanded menu-mlid-306"><a href="/undergrad/uadmis">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-1691"><a href="/undergrad/uadmis/becoming-cs-major">Becoming a CS Major</a></li>
+</ul></li>
+<li class="expanded menu-mlid-250"><a href="/undergrad/ustaff">Contact Us</a><ul class="menu"><li class="first last leaf menu-mlid-3208"><a href="/undergrad/ustaff/contact-academic-advisor">Contact Academic Advisor</a></li>
+</ul></li>
+<li class="leaf menu-mlid-272"><a href="/undergrad/firstcscourse">Your First CS Course</a></li>
+<li class="expanded menu-mlid-290"><a href="/undergrad/csmajor">CS Major</a><ul class="menu"><li class="first leaf menu-mlid-255"><a href="/undergrad/csmajor/usefulforms">Useful Forms</a></li>
+<li class="leaf menu-mlid-284"><a href="/undergrad/rulesandproceduresengineering/choosingyourelectives">Electives</a></li>
+<li class="leaf menu-mlid-307"><a href="/undergrad/csmajor/technicalelectives">Technical Electives</a></li>
+<li class="leaf menu-mlid-326"><a href="/undergrad/csmajor/quickchart">Quick Chart</a></li>
+<li class="leaf menu-mlid-333"><a href="/undergrad/csmajor/cswithothermajorsareas">CS with Other Majors/Areas</a></li>
+<li class="leaf menu-mlid-266"><a href="/undergrad/csmajor/transfercredits">Transfer Credits</a></li>
+<li class="leaf menu-mlid-496"><a href="/undergrad/csmajor/cs-honors-program">CS Honors Program</a></li>
+<li class="last leaf menu-mlid-3707"><a href="/undergrad/csmajor/cpt-procedure">CPT for International CS Undergrads</a></li>
+</ul></li>
+<li class="expanded menu-mlid-286"><a href="/undergrad/rulesandproceduresengineering">CS Engineering</a><ul class="menu"><li class="first last leaf menu-mlid-287"><a href="/undergrad/rulesandproceduresengineering/engineeringchecklist">Checklist</a></li>
+</ul></li>
+<li class="expanded menu-mlid-249"><a href="/undergrad/rulesandproceduresarts">CS Arts &amp; Sciences</a><ul class="menu"><li class="first last leaf menu-mlid-315"><a href="/undergrad/rulesandproceduresarts/artschecklist">Checklist</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-497"><a href="/undergrad/graduation-information">Graduation Information</a></li>
+<li class="expanded menu-mlid-475"><a href="/undergrad/minors">Minors</a><ul class="menu"><li class="first leaf menu-mlid-279"><a href="/undergrad/csminor">CS Minor</a></li>
+<li class="last leaf menu-mlid-340"><a href="/undergrad/minors/game-design-minor">Game Design Minor</a></li>
+</ul></li>
+<li class="expanded menu-mlid-322"><a href="/undergrad/cscareers">Career Information</a><ul class="menu"><li class="first leaf menu-mlid-297"><a href="/undergrad/cscareers/co-opexperiences">Co-op Program</a></li>
+<li class="last leaf menu-mlid-338"><a href="/undergrad/cscareers/placementreport">Placement Report</a></li>
+</ul></li>
+<li class="expanded menu-mlid-256"><a href="/undergrad/uresch">Undergrad Research</a><ul class="menu"><li class="first last leaf menu-mlid-288"><a href="/undergrad/uresch/registeringforcs4999">Independent Research (CS 4999)</a></li>
+</ul></li>
+<li class="leaf menu-mlid-278"><a href="/undergrad/ugroups">Student Groups</a></li>
+<li class="leaf menu-mlid-316"><a href="/undergrad/uevents">Events</a></li>
+<li class="leaf menu-mlid-242"><a href="/undergrad/computerlab">Undergraduate Learning Center</a></li>
+<li class="last leaf menu-mlid-651"><a href="/undergrad/ugradcoursestaff">UGrad Course Staff Info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-328 student-menu-link"><a href="/masters">M Eng</a><ul class="menu"><li class="first expanded menu-mlid-300"><a href="/masters/apply">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-384"><a href="/masters/apply/prerequisites">Prerequisites</a></li>
+<li class="leaf menu-mlid-385"><a href="/masters/apply/application">The Application Process</a></li>
+<li class="leaf menu-mlid-386"><a href="/masters/apply/applicationreview">The Review Process</a></li>
+<li class="leaf menu-mlid-392"><a href="/masters/apply/earlyadmission">Early Admission</a></li>
+<li class="leaf menu-mlid-387"><a href="/masters/apply/financialaid">Financial Aid</a></li>
+<li class="last leaf menu-mlid-388"><a href="/masters/apply/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-477"><a href="/masters/academics">Academics</a><ul class="menu"><li class="first leaf menu-mlid-282"><a href="/masters/academics/degreerequirements">Degree Requirements</a></li>
+<li class="leaf menu-mlid-318"><a href="/masters/academics/preapprovedcourses">Pre-approved Electives</a></li>
+<li class="leaf menu-mlid-305"><a href="/masters/academics/projectinformation">The Project</a></li>
+<li class="last leaf menu-mlid-476"><a href="/masters/academics/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-455"><a href="/masters/current">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-310"><a href="/masters/current/courseenrollment">The Course Enrollment Process</a></li>
+<li class="leaf menu-mlid-479"><a href="/masters/current/advising-tips">Advising Tips</a></li>
+<li class="leaf menu-mlid-304"><a href="/masters/current/graduation-information">Graduation Information</a></li>
+<li class="leaf menu-mlid-244"><a href="/masters/current/faq">FAQ</a></li>
+<li class="leaf menu-mlid-506"><a href="/masters/current/meng-lab">M.Eng Lab</a></li>
+<li class="last leaf menu-mlid-510"><a href="/masters/current/meng-forms">MEng Forms</a></li>
+</ul></li>
+<li class="leaf menu-mlid-473"><a href="/masters/entrepreneurism">Entrepreneurship</a></li>
+<li class="leaf menu-mlid-472"><a href="/masters/nyc">Cornell Tech Programs</a></li>
+<li class="leaf menu-mlid-504"><a href="/masters/professional-development">Professional Development</a></li>
+<li class="leaf menu-mlid-616"><a href="/masters/contact-us">Contact Us</a></li>
+<li class="last leaf menu-mlid-2061"><a href="/masters/cs-meng-alumni">CS MEng Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-503 student-menu-link"><a href="/ms">MS</a><ul class="menu"><li class="first expanded menu-mlid-500"><a href="/ms/admissions" target="_parent">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-501"><a href="/ms/admissions/applicant-faq" target="_parent">Applicant FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2571"><a href="/ms/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-1686"><a href="http://test.cs.cornell.edu/sites/default/files/shared/MS%20Checklist.pdf">MS Degree Checklist</a></li>
+<li class="leaf menu-mlid-1681"><a href="/ms/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="last leaf menu-mlid-502"><a href="/ms/degree-requirements" target="_parent">Degree Requirements</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2821"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-1371"><a href="/ms/graduation-information">Graduation Information</a></li>
+<li class="last leaf menu-mlid-1361"><a href="/ms/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-269 student-menu-link"><a href="/phd">PhD</a><ul class="menu"><li class="first expanded menu-mlid-253"><a href="/phd/admissions">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-329"><a href="/phd/faq">Ph.D. Applicant FAQ</a></li>
+<li class="leaf menu-mlid-1301"><a href="/phd/admissions/non-degree-application-guidelines">Non-Degree Application Guidelines</a></li>
+<li class="leaf menu-mlid-489"><a href="https://gradschool.cornell.edu/admissions/admitted-students/living-in-ithaca/housing/" class="outlink">Graduate Housing</a></li>
+<li class="last leaf menu-mlid-487"><a href="http://www.cs.cornell.edu/projects/phdvisit/" class="outlink divider">Ph. D. Visit Day</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2570"><a href="/phd/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-2888"><a href="/phd/current-students/phd-requirements">Ph.D. Requirements</a></li>
+<li class="leaf menu-mlid-2051"><a href="/phd/current-students/special-committee-selection">Special Committee Selection</a></li>
+<li class="leaf menu-mlid-1306"><a href="/phd/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="leaf menu-mlid-491"><a href="http://www.cs.cornell.edu/grad/GradForms/A%20Exam%20Summary%20Form.pdf">Field A Exam Summary Form</a></li>
+<li class="leaf menu-mlid-1366"><a href="/phd/current-students/cornelltech">CornellTech</a></li>
+<li class="leaf menu-mlid-3204"><a href="/phd/current-students/travel-funding-opportunities">Travel Funding Opportunities</a></li>
+<li class="leaf menu-mlid-488"><a href="http://www.gradschool.cornell.edu/forms" class="outlink">Graduate School Forms</a></li>
+<li class="last leaf menu-mlid-3706"><a href="/phd/current-students/fellowship-opportunities">Fellowship Opportunities</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2820"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-336"><a href="/phd/graduation">Graduation Information</a></li>
+<li class="leaf menu-mlid-317"><a href="/phd/minor">Graduate Minor</a></li>
+<li class="leaf menu-mlid-3516"><a href="/phd/outreach-programs">Outreach Opportunities</a></li>
+<li class="leaf menu-mlid-1731"><a href="http://studentswithfamilies.cornell.edu/policies/parental-accommodation-policy/">Parental Accommodation Policy</a></li>
+<li class="leaf menu-mlid-273"><a href="/phd/specialmasters">Special Masters</a></li>
+<li class="last leaf menu-mlid-1356"><a href="/phd/contact-us">Contact Us</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/events/50years/speakers" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-TAzEXRpDamYhlv_CkU4nxZ134b8Y3E3PKrseaL1NXPs" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+    </div>
+</header>
+<div class="modal-bg"></div>
+
+    <div role="banner" id="banner" class="warm">
+            <!-- If no banner image, title banner is full width with inner container -->
+        <div class="title-banner">
+            <div class="container">
+                                <h1>50th Anniversary Symposium Speaker Bios</h1>
+                <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> < <a href="/events">Events</a> < <a href="/events/50years">50th Anniversary Symposium</a></div>                                    </div> <!-- close inner container -->
+            </div> <!-- close title banner -->
+    <div class="container">
+            </div>
+</div>
+
+  <main id="main-content" class="container">
+        <div class="row">
+      <div class="col-sm-9 col-sm-push-3 main-content">
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1006" class="node node-page clearfix">
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div class="person"><img src="/sites/default/files/shared/people/50th/scott_aaronson.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Scott Aaronson" name="Scott Aaronson"></a>Scott Aaronson (BS Cornell, 2000)</h2>
+
+		<p>Scott Aaronson is Associate Professor of Electrical Engineering and Computer Science at MIT. He was a CS major at Cornell; he also did graduate work at UC Berkeley, and postdocs at the Institute for Advanced Study and University of Waterloo. His research focuses on the capabilities and limits of quantum computers, and more generally on computational complexity theory and its relationship to physics. His first book, <em>Quantum Computing Since Democritus</em>, was published in 2013 by Cambridge University Press. Scott has written about quantum computing for <em>Scientific American</em> and the <em>New York Times</em>, and writes a popular blog. He has received the National Science Foundation&rsquo;s Alan T. Waterman Award, the United States PECASE Award, and MIT&rsquo;s Junior Bose Award for Excellence in Teaching</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/alex_aiken.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Alex Aiken" name="Alex Aiken"></a>Alex Aiken (PhD Cornell, 1988)</h2>
+
+		<p>The Alcatel-Lucent Professor and Department Chair in Computer Science at Stanford University, Alex Aiken received his bachelor&rsquo;s degree in Computer Science and Music from Bowling Green State University in 1983 and his PhD from Cornell University in 1988. Alex was a Research Staff Member at the IBM Almaden Research Center (1988-1993) and a Professor in the EECS department at UC Berkeley (1993-2003) before joining the Stanford faculty in 2003. He is an ACM Fellow, a recipient of Phi Beta Kappa&rsquo;s Teaching Award, and a former National Young Investigator. His research focuses on developing reliable, high-performance software systems, which often involves improving performance or correctness or both.&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/Lorenzo_Alvisi-closer.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Lorenzo Alvisi" name="Lorenzo Alvisi"></a>Lorenzo Alvisi (PhD Cornell, 1996; MS, 1994)</h2>
+
+		<p>Lorenzo Alvisi is a Professor of Computer Science at the University of Texas at Austin, where he co-leads the Laboratory for Advanced Systems Research (LASR). He received a PhD in Computer Science from Cornell University, which he joined after earning a Laurea degree Summa cum Laude in Physics from the University of Bologna, Italy. His research interests are in the theory and practice of distributed computing, with a particular focus on dependability. He is an ACM Fellow, an Alfred P. Sloan Foundation Fellow, and the recipient of a Humboldt Research Award, an NSF Career Award, and several teaching awards, including the UT System Regents&rsquo; Outstanding Teaching Award. In 2011, he was appointed Visiting Chair Professor at Shanghai Jiao Tong University.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/lars%20backstrom.png" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Lars Backstrom" name="Lars Backstrom"></a>Lars Backstrom (PhD Cornell, 2009; BS, 2004)</h2>
+
+		<p>Lars Backstrom is the Director of News Feed Ranking and Infrastructure at Facebook. After joining Facebook in 2009, he led the evolution of the friend suggestion ranking system, including the initial backend service that held the entire Facebook social graph in memory, sharded across many machines. In 2011, he moved to direct News Feed ranking; over the past three years, his group has developed algorithms and features for ranking News Feed that have enabled Facebook to make dramatic improvements in the billion personalized newspapers it publishes every day. Before joining Facebook, Lars received his PhD from Cornell University, where he focused on data mining and machine learning using large-scale datasets, with an emphasis on Web information, social computing applications, and on-line social networks.&nbsp;</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/edmund_M_Clarke_Photo%202013.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Edmund M. Clarke" name="Edmund M. Clarke"></a>Edmund M. Clarke (PhD Cornell, 1976)</h2>
+
+		<p>Edmund Clarke is the FORE Systems University Professor of Computer Science at Carnegie Mellon University. He received his PhD from Cornell University and taught at Duke and Harvard universities before joining CMU in 1982. His research interests include hardware and software verification and automatic theorem proving. His research group developed Symbolic Model Checking using BDDs and Bounded Model Checking using fast CNF satisfiability solvers, and pioneered the use of CounterExample-Guided-Abstraction-Refinement (CEGAR). Ed is a co-founder of the conference on Computer Aided Verification (CAV). He has received numerous awards for his contributions, including the IEEE Goode Award, ACM Kanellakis Award, ACM Turing Award, CADE Herbrand Award, and the 2014 Franklin Institute Bower Award and Prize for Achievement in Science. He is a member of the National Academy of Engineering and the American Academy of Arts and Sciences.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/Michael_Cohen-BW2.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Michael F. Cohen" name="Michael F. Cohen"></a>Michael F. Cohen (PhD University of Utah, 1992; MS Cornell, 1985)</h2>
+
+		<p>Principal Researcher at Microsoft Research, Michael Cohen served on the faculty of Computer Science at Princeton University until 1994, and previously on Architecture faculty at Cornell. He received the 1998 SIGGRAPH Computer Graphics Achievement Award for his contributions to the Radiosity method for image synthesis and also served as the paper&rsquo;s chair for SIGGRAPH &lsquo;98. He holds a PhD from the University of Utah, an MS in Computer Graphics from Cornell and undergraduate degrees in Art and Civil Engineering from Beloit College and Rutgers University, respectively. His early work at Cornell and Princeton on the radiosity method for realistic image synthesis is discussed in his book Radiosity and Image Synthesis (co-authored with John R. Wallace). His work at Microsoft has included computational photography, image-based rendering, animation, camera control and non-photorealistic rendering.&nbsp;</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/Rob%20Cook%20portrait.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Robert Cook" name="Robert Cook"></a>Robert Cook (MS Cornell, 1982)</h2>
+
+		<p>Robert Cook was the co-architect and primary author of Pixar&rsquo;s RenderMan software, which creates photo-realistic computer images. For the last 20 years, almost every film nominated for a Visual Effects Academy Award has used RenderMan. In 2001, Cook and two colleagues received Oscars for their contributions, the first ever given for software. He has a bachelor&rsquo;s degree in physics from Duke University and a master&rsquo;s degree in Computer Graphics from Cornell University. At Cornell, he worked on simulating realistic surfaces, taking computer-generated images beyond the distinctive&nbsp;plastic look they had at the&nbsp;time. In 1981, he joined Lucasfilm/Pixar, where he invented programmable shading, which is essential to GPUs and game engines as well as high-end renderers. As VP of Software Development at Pixar, he led their 100-person internal software R&amp;D team. He was also CEO of two successful startup companies, Light Source and Numinous. In 2009, Cook received the ACM SIGGRAPH Stephen A. Coons Award for his lifetime contributions to the field. In 1999, he was named a Fellow of the Association for Computing Machinery. He has been honored with membership in both the Academy of Motion Picture Arts and Sciences and the National Academy of Engineering.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/Cynthia_Dwork.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Cynthia Dwork" name="Cynthia Dwork"></a>Cynthia Dwork (PhD Cornell, 1983; MS, 1982)</h2>
+
+		<p>Cynthia Dwork, Distinguished Scientist at Microsoft Research, is renowned for placing privacy-preserving data analysis on a mathematically rigorous foundation. A cornerstone of this work is differential privacy, a strong privacy guarantee frequently permitting highly accurate data analysis. She also has made seminal contributions in cryptography and distributed computing, and is a recipient of the Edsger W. Dijkstra Prize, recognizing some of her earliest work establishing the pillars on which every fault-tolerant system has been built for decades. She is a member of the National Academy of Sciences and the National Academy of Engineering, and a Fellow of the American Academy of Arts and Sciences.</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/baining-guo75x108.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Baining Guo" name="Baining Guo"></a>Baining Guo (PhD Cornell, 1991; MS, 1989)</h2>
+
+		<p>Baining Guo is Assistant Managing Director of Microsoft Research Asia, where he also leads the graphics lab. Prior to joining Microsoft Research in 1999, he was a senior staff researcher with the Microcomputer Research Labs of Intel Corporation in Santa Clara, California. Guo graduated from Beijing University with a BS in mathematics and received his MS and PhD degrees in Computer Science and Applied Mathematics from Cornell University. His research interests include computer graphics, visualization, and natural user interface. Guo is a fellow of IEEE and was on the editorial boards of&nbsp;IEEE Transactions on Visualization and Computer Graphics&nbsp;(2006&ndash;2010) and&nbsp;Computer and Graphics&nbsp;(2007&ndash;2011). He is currently an associate editor of IEEE Computer Graphics and Applications. He has been on the program committees of numerous conferences in graphics and visualization, and serves as the papers chair for the 2014 ACM SIGGRAPH Asia conference. Guo holds over 50 US patents.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/Robert_Harper%20in%202006.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Robert Harper" name="Robert Harper"></a>Robert Harper (PhD Cornell, 1985)</h2>
+
+		<p>Robert Harper is a professor of Computer Science at Carnegie Mellon University, where he has been a faculty member since 1988. He received his PhD in CS from Cornell in 1985 and did post-doctoral research at the Lab for Foundations of CS at Edinburgh University from 1985&ndash;88. He is best known for his work on the design, definition, and implementation of Standard ML; the LF logical framework; type-theoretic foundations of modularity in programming languages; the use of typed intermediate languages for certified compilation; the co-invention of self-adjusting computation for dynamic algorithms; and the development of cost semantics for reasoning about the complexity of programs written in high-level languages. His recent work is concerned with homotopy type theory, especially its computational interpretation. He co-authored several books and received two awards for the most influential paper ten and twenty years after publication. He is a Fellow of the ACM. At CMU, he was honored with the Allen Newell Medal for Research Excellence and the Herbert A. Simon Award for Teaching Excellence. He is well known for his role in the creation and evolution of the Oregon Programming Languages Summer School.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/Juris_Hartmanis.gif" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Juris Hartmanis" name="Juris Hartmanis"></a>Juris Hartmanis (PhD Cal Tech, 1955)</h2>
+
+		<p>Juris Hartmanis is Emeritus Walter R. Read Professor of Computer Science and Engineering at Cornell University. He obtained his Ph.D. in 1955 from the California Institute of Technology and served as the first chairman of the Cornell computer Science Department. He is also the founder of the field of computational complexity theory. He believes that computational complexity &ndash; the study of the quantitative laws that govern computation &ndash; is an essential part of the science base needed to guide, harness and exploit the explosively growing computer technology. He was named a Fellow of the American Academy of Arts and Sciences in 1992 and received the ACM Turing Award in 1993. He has received numerous other honors and awards, including the Grand Medal from the Latvian Academy of Science, membership in the National Academy of Engineering and National Academy of Science.&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/thomas_henzinger.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Thomas Henzinger" name="Thomas Henzinger"></a>Thomas Henzinger (PhD Stanford, 1991)</h2>
+
+		<p>Thomas A. Henzinger is president of Institute of Science and Technology Austria. He holds a Dipl.-Ing. degree in Computer Science from Kepler University in Linz, Austria, an MS degree in Computer and Information Sciences from the University of Delaware, a PhD degree in Computer Science from Stanford University, and an honorary doctorate from Fourier University in Grenoble, France. He was Assistant Professor of Computer Science at Cornell University from 1992&ndash;95 and Professor of Electrical Engineering and Computer Science at the University of California, Berkeley. He was also Director at the Max-Planck Institute for Computer Science in Saarbruecken, Germany, and Professor of Computer and Communication Sciences at EPFL in Lausanne, Switzerland. His research focuses on modern systems theory, especially models, algorithms, and tools for the design and verification of reliable software, hardware, and embedded systems. He has received the Wittgenstein Award of the Austrian Science Fund and an ERC Advanced Investigator Grant.</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/John_Hopcroft.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="John Hopcroft" name="John Hopcroft"></a>John Hopcroft (PhD Stanford, 1964)</h2>
+
+		<p>John E. Hopcroft is the IBM Professor of Engineering and Applied Mathematics in Computer Science at Cornell University. From January 1994 until June 2001, he was the Joseph Silbert Dean of Engineering. After receiving both his MS and PhD degrees in electrical engineering from Stanford University, he spent three years on the faculty of Princeton University. He joined the Cornell faculty in 1967, served as chairman of the Department of Computer Science from 1987 to 1992, and was the associate dean for college affairs in 1993. Hopcroft&rsquo;s research centers on theoretical aspects of computing, especially analysis of algorithms, automata theory, and graph algorithms. He has coauthored four books on formal languages and algorithms with Jeffrey D. Ullman and Alfred V. Aho. His most recent work is on the study of information capture and access. He was honored with the A. M. Turing Award in 1986. He is a member of the National Academy of Sciences, the National Academy of Engineering, and a Fellow of the American Academy of Arts and Science, American Association for the Advancement of Science, IEEE, and the ACM.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/marc-levoy.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Marc Levoy" name="Marc Levoy"></a>Marc Levoy (PhD UNC-Chapel Hill, 1989; MS Cornell, 1978; BS, 1976)</h2>
+
+		<p>Marc Levoy is the VMware Founders Professor of Computer Science and Electrical Engineering, Emeritus, at Stanford University, where he taught computer graphics and the science of art, and still teaches digital photography. Levoy co-designed the Google book scanner, launched Google&rsquo;s Street View project, and currently leads a team in GoogleX that has worked on Project Glass and the Nexus 5 HDR+ mode. He received degrees in Architecture from Cornell University and a PhD in Computer Science from the University of North Carolina at Chapel Hill. His career has included computer animation, developing a cartoon animation system that was used by Hanna-Barbera Productions to make The Flintstones and Scooby Doo; volume rendering, a technique for displaying three-dimensional functions; and 3D laser scanning, culminating in the Digital Michelangelo Project. Awards include the National Science Foundation Presidential Young Investigator in 1991, ACM SIGGRAPH Computer Graphics Achievement Award in 1996, and ACM Fellow in 2007.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/rohan%20murty.png" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Rohan Murty" name="Rohan Murty"></a>Rohan Murty (PhD Harvard, 2011; BS Cornell, 2005)</h2>
+
+		<p>Rohan Murty is a junior fellow at the Harvard Society of Fellows. He received his PhD in computer science from Harvard in 2011 and a BS from Cornell in 2005. His research interests span networked systems, distributed systems, and software engineering. His thesis work, which focused on architectures for dynamic spectrum access in wireless networks, won a best paper award at SIGCOMM and was rated as the highest ranked paper at DySpan. Rohan&rsquo;s research work has been supported by fellowships from Microsoft Research, the Siebel Foundation, and the Computing Innovations Fellows program at the Computing Research Association (CRA). Over the last year, Rohan has been on leave from Harvard, working on software engineering-related problems at Infosys, Ltd., in Bangalore, India.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/Mike_Reiter.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Michael Reiter" name="Michael Reiter"></a>Michael Reiter (PhD Cornell, 1993; MS, 1991)</h2>
+
+		<p>Michael Reiter is the Lawrence M. Slifkin Distinguished Professor at the University of North Carolina (UNC) at Chapel Hill. He received his BS degree in mathematical sciences from UNC in 1989, and his MS and PhD degrees in computer science from Cornell University. He joined AT&amp;T Bell Labs in 1993 and became a founding member of AT&amp;T Labs &ndash; Research when NCR and Lucent Technologies (including Bell Labs) were split away from AT&amp;T in 1996. He then returned to Bell Labs in 1998 as Director of Secure Systems Research. In 2001, he joined Carnegie Mellon University as a Professor of Electrical &amp; Computer Engineering and Computer Science, where he was also the founding Technical Director of CyLab. He joined the UNC faculty in 2007. Reiter&rsquo;s research interests include all areas of computer and communications security and distributed computing. His present research focuses primarily on security of cloud computing and networks, as well as usable security. Reiter was named an ACM Fellow in 2008 and an IEEE Fellow in 2014.</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/daniela_rus.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Daniela Rus" name="Daniela Rus"></a>Daniela Rus (PhD Cornell, 1992; MS, 1990)</h2>
+
+		<p>Daniela Rus is the Andrew (1956) and Erna Viterbi Professor of Electrical Engineering and Computer Science and Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. She also leads CSAIL&rsquo;s Distributed Robotics Laboratory. Rus&rsquo; research interests are in robotics, mobile computing, and big data. At CSAIL, she has led numerous groundbreaking research projects in the areas of distributed robotics and self-reconfiguring robotics, with applications including transportation, manufacturing, security, underwater exploration, and agriculture. Rus is the recipient of the NSF Career Award and an Alfred P. Sloan Foundation Fellow. She is a Class of 2002 MacArthur Fellow and a fellow of AAAI and IEEE. Rus earned her PhD in Computer Science from Cornell University. Prior to coming to MIT, Rus was Assistant Professor, Associate Professor, and Professor in the Computer Science Department at Dartmouth College.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/holly_rushmeier_5_2013.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Holly Rushmeier" name="Holly Rushmeier"></a>Holly Rushmeier (PhD Cornell, 1988; MS, 1986; BS 1977)&nbsp;</h2>
+
+		<p>Holly Rushmeier is a Professor of Computer Science at Yale University, where she served as Department Chair from 2011 to 2014. Her research interests include shape and appearance capture, applications of perception in computer graphics, modeling material appearance, and developing computational tools for cultural heritage. She received her BS, MS, and PhD degrees in Mechanical Engineering from Cornell University. She worked as an engineer at the Boeing Commercial Airplane Company and at Washington Natural Gas Company (now a part of Puget Sound Energy). In 1988, she joined the Mechanical Engineering faculty at Georgia Tech, where she conducted research in computer graphics image synthesis and taught classes in heat transfer and numerical methods. In 1991, Rushmeier joined the computing and mathematics staff of the National Institute of Standards and Technology, focusing on scientific data visualization. From 1996 to 2004, she was a research staff member at the IBM T.J. Watson Research Center, working on a variety of data visualization problems. She received the National Science Foundation&#39;s Presidential Young Investigator Award in 1990 and the ACM SIGGRAPH Graphics Achievement Award in 2013, and is an ACM Distinguished Engineer and a Fellow of the Eurographics Association.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/AmitSinghal578.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Amit Singhal" name="Amit Singhal"></a>Amit Singhal (PhD Cornell, 1997)</h2>
+
+		<p>Amit Singhal is Senior Vice President and Google Fellow who is responsible for Google search. Singhal has overseen search engine ranking algorithms since 2000. From the Knowledge Graph, to Conversational Search, to Google&rsquo;s latest &ldquo;Hummingbird&rdquo; algorithm update, no one has better insight into Google&rsquo;s many methods of trying to make sense of the world&rsquo;s information than Singhal. Amit has worked in the field of search for more than 20 years and his research interests include information retrieval, its application to web search, web graph analysis, and user interfaces for search. Prior to joining Google, Amit was a senior member of technical staff at AT&amp;T Labs. He has an undergraduate degree from the Indian Institute of Technology Roorkee, a MS from the University of Minnesota, and a PhD from Cornell University, all in Computer Science. At Cornell, he studied Information Retrieval with the late Gerard Salton, one of the founders of the field. Amit has co-authored more than 30 scientific papers and numerous patents. He is a member of the National Academy of Engineering and an ACM Fellow.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/steven_strogatz.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Steven Strogatz" name="Steven Strogatz"></a>Steven Strogatz (PhD Harvard, 1986)&nbsp;</h2>
+
+		<p>Steven Strogatz is the Jacob Gould Schurman Professor of Applied Mathematics at Cornell University. After graduating summa cum laude in mathematics from Princeton in 1980, Strogatz studied at Trinity College, Cambridge, where he was a Marshall Scholar. He did his doctoral work in applied mathematics at Harvard, followed by a National Science Foundation postdoctoral fellowship at Harvard and Boston University. He taught in the Department of Mathematics at MIT (1989&ndash;94) and joined the Cornell faculty in 1994. Strogatz works in the areas of nonlinear dynamics and complex systems, often on topics inspired by the curiosities of everyday life. He has been a frequent guest on RadioLab, and wrote a weekly column on mathematics for The New York Times as well as a book, The Joy of x. He has received numerous awards for his research, teaching and public service and in 2012 was elected a Fellow of the American Academy of Arts and Sciences.</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/Duncan%20Watts_9.10.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Duncan Watts" name="Duncan Watts"></a>Duncan Watts (PhD Cornell, 1997)&nbsp;</h2>
+
+		<p>Duncan Watts is currently Principal Researcher and founding member of Microsoft Research Lab in Manhattan as well as Cornell University&rsquo;s Andrew Dickson White Professor-at-Large. Before that, he directed the Human Social Dynamics Group at Yahoo! Research and taught sociology at Columbia University. Watts&rsquo; innovative applications of network analysis and online data to the study of human behavior and social interaction have led him to become one of the most prominent and respected network scientists in the world. Watts&rsquo; scientific papers have appeared in leading journals &ndash; including Nature, Science, Physical Review Letters, American Journal of Sociology, and Harvard Business Review &ndash; and he is the author of three books. He holds a PhD from Cornell University in Theoretical and Applied Mechanics and a BS in Physics from the Australian Defence Force Academy, from which he also received his officer&rsquo;s commission in the Royal Australian Navy.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+
+<div class="person"><img src="/sites/default/files/shared/people/50th/stephanie%20weirich.jpg" style="width: 100px; height: 100px;" />
+	<div class="info">
+		<h2><a id="Stephanie Weirich" name="Stephanie Weirich"></a>Stephanie Weirich (PhD Cornell, 2002; MS 2000)&nbsp;</h2>
+
+		<p>Stephanie Weirich is an Associate Professor of Computer and Information Science at the University of Pennsylvania. Her research centers on programming languages, type theory, and machine-assisted reasoning. In particular, she studies generic programming, metaprogramming, dependent type systems, and type inference in the context of functional programming languages. She is currently an Editor of the Journal of Functional Programming and served as the program chair for ICFP in 2010 and the Haskell Symposium in 2009.</p>
+
+		<p>&nbsp;</p>
+	</div>
+</div>
+</div></div></div>  </div>
+</div>
+  </div>
+</div>
+  </div>
+      </div>
+      <nav class="col-sm-3 col-sm-pull-9 sidebar" aria-label="Sidebar">
+          <div class="region region-sidebar">
+    <div id="block-menu-block-1--2" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-275"><a href="/information/about">About</a><ul class="menu"><li class="first expanded menu-mlid-175"><a href="/information/news">News</a><ul class="menu"><li class="first last leaf menu-mlid-3512"><a href="http://www.cs.cornell.edu/sites/default/files/shared/cs_newsletter_spring_summer_2019.pdf">CS Newsletter Spring/Summer 2019</a></li>
+</ul></li>
+<li class="leaf menu-mlid-736"><a href="/information/research-news">Research News</a></li>
+<li class="leaf menu-mlid-320"><a href="/information/departmentlife">Department Life</a></li>
+<li class="expanded menu-mlid-325"><a href="/information/awards">Awards</a><ul class="menu"><li class="first leaf menu-mlid-961"><a href="/information/awards-by-recipient">Listed by Recipient</a></li>
+<li class="last leaf menu-mlid-966"><a href="/information/awards-by-category">Listed by Category</a></li>
+</ul></li>
+<li class="leaf menu-mlid-681"><a href="https://ecommons.cornell.edu/bitstream/handle/1813/44201/CS_Oral_History_Directory_v10Jun16.pdf?sequence=2&amp;isAllowed=y">Oral History of Cornell CS</a></li>
+<li class="expanded menu-mlid-245"><a href="/information/pubs">Publications</a><ul class="menu"><li class="first leaf menu-mlid-971"><a href="/information/publications-by-author">Books by Author</a></li>
+<li class="last leaf menu-mlid-976"><a href="/information/publications-by-year">Books Chronologically</a></li>
+</ul></li>
+<li class="expanded menu-mlid-571"><a href="/information/timeline">Department Timeline</a><ul class="menu"><li class="first leaf menu-mlid-586"><a href="http://www.cs.cornell.edu/information/timeline#60">The 60&#039;s</a></li>
+<li class="leaf menu-mlid-591"><a href="http://www.cs.cornell.edu/information/timeline#70">The 70&#039;s</a></li>
+<li class="leaf menu-mlid-596"><a href="http://www.cs.cornell.edu/information/timeline#80">The 80&#039;s</a></li>
+<li class="leaf menu-mlid-601"><a href="http://www.cs.cornell.edu/information/timeline#90">The 90&#039;s</a></li>
+<li class="leaf menu-mlid-606"><a href="http://www.cs.cornell.edu/information/timeline#00">The 00&#039;s</a></li>
+<li class="last leaf menu-mlid-611"><a href="http://www.cs.cornell.edu/information/timeline#10">The 2010&#039;s</a></li>
+</ul></li>
+<li class="leaf menu-mlid-277"><a href="/information/annualreports">Annual Reports</a></li>
+<li class="expanded menu-mlid-299"><a href="/information/jobpostings">Job Postings</a><ul class="menu"><li class="first leaf menu-mlid-323"><a href="/information/jobpostings/facultypositionsithaca">Faculty Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-2890"><a href="/information/jobpostings/lecturer-positions-ithaca">Lecturer Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-327"><a href="/information/jobpostings/facultypositionsnyctech">Faculty Positions: New York City</a></li>
+<li class="leaf menu-mlid-2500"><a href="/information/jobpostings/postdocpositionsithaca">Post-doc Position: Ithaca</a></li>
+<li class="leaf menu-mlid-343"><a href="https://www.hr.cornell.edu/jobs/positions.html" class="outlink">Staff/Technical Positions</a></li>
+<li class="last leaf menu-mlid-661"><a href="https://www.cs.cornell.edu/undergrad/ugradcoursestaff ">Ugrad Course Staff</a></li>
+</ul></li>
+<li class="leaf menu-mlid-246"><a href="/information/ithaca">Ithaca Info</a></li>
+<li class="last leaf menu-mlid-498"><a href="https://confluence.cornell.edu/display/csdinfo/CSD+Info+Home">Internal info</a></li>
+</ul></li>
+<li class="expanded active-trail menu-mlid-324"><a href="/events" class="active-trail active-trail">Events</a><ul class="menu"><li class="first leaf menu-mlid-986"><a href="/events/calendar">Calendar</a></li>
+<li class="leaf menu-mlid-3450"><a href="http://www.cs.cornell.edu/node/10412">Graduation Information</a></li>
+<li class="leaf menu-mlid-2499"><a href="/content/cornell-tech-colloquium-6">Cornell Tech Colloquium</a></li>
+<li class="leaf menu-mlid-2951"><a href="/content/student-colloquium">Student Colloquium</a></li>
+<li class="leaf menu-mlid-621"><a href="http://boom.cornell.edu/">BOOM</a></li>
+<li class="collapsed menu-mlid-3638"><a href="/content/fall-2019-colloquium">CS Colloquium</a></li>
+<li class="expanded menu-mlid-2502"><a href="/content/workshop/sonic">SoNIC Workshop</a><ul class="menu"><li class="first leaf menu-mlid-2503"><a href="http://www.cornell.edu/visiting/">Visiting Cornell University</a></li>
+<li class="leaf menu-mlid-2504"><a href="http://www.cs.cornell.edu">Cornell Computer Science</a></li>
+<li class="leaf menu-mlid-2505"><a href="http://www.visitithaca.com/group-attractions/">Ithaca Attractions</a></li>
+<li class="leaf menu-mlid-2507"><a href="http://www.ithacamenus.com/">Area Restaurants</a></li>
+<li class="leaf menu-mlid-2506"><a href="http://www.cs.cornell.edu/information/ithaca">Things to do in Ithaca</a></li>
+<li class="leaf menu-mlid-2508"><a href="https://www.cornell.edu/about/maps/">Campus Map</a></li>
+<li class="last leaf menu-mlid-2574"><a href="http://www.cs.cornell.edu/sites/default/files/shared/sonic_flyer_2019.pdf">SoNIC Flyer</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1711"><a href="/events/conway">Conway-Walker Lecture Series</a></li>
+<li class="leaf menu-mlid-1706"><a href="/events/saltonseries">Salton Lecture Series</a></li>
+<li class="expanded menu-mlid-292"><a href="/events/sems">Seminars / Lectures</a><ul class="menu"><li class="first leaf menu-mlid-3640"><a href="/content/fall-2019-artificial-intelligence-seminar">AI (Artificial Intelligence) Seminar</a></li>
+<li class="last leaf menu-mlid-3641"><a href="/content/fall-2019-theory-seminar">Theory Seminar</a></li>
+</ul></li>
+<li class="leaf menu-mlid-546"><a href="http://www.bigredhacks.com/">Big Red Hacks</a></li>
+<li class="expanded active-trail menu-mlid-516"><a href="/events/50years" class="active-trail active-trail">50th Anniversary Symposium</a><ul class="menu"><li class="first leaf active-trail active menu-mlid-551"><a href="/events/50years/speakers" class="active-trail active-trail active">Speaker Bios</a></li>
+<li class="leaf menu-mlid-561"><a href="/events/50years/abstracts">Titles/Abstracts</a></li>
+<li class="leaf menu-mlid-2434"><a href="https://www.flickr.com/gp/138617394@N06/L93xc4 ">Photos</a></li>
+<li class="last leaf menu-mlid-2433"><a href="http://www.cs.cornell.edu/events/50years/schedule">Schedule of talks with videos</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-507"><a href="/events/cornell-high-school-programming-contest">Cornell University High School Programming Contest</a></li>
+<li class="last leaf menu-mlid-459"><a href="http://gdiac.cis.cornell.edu/" class="outlink">Game Design Initiative</a></li>
+</ul></li>
+<li class="expanded menu-mlid-261"><a href="/people">People</a><ul class="menu"><li class="first leaf menu-mlid-262"><a href="/people/chair">Chair</a></li>
+<li class="leaf menu-mlid-766"><a href="/people/faculty">Faculty</a></li>
+<li class="leaf menu-mlid-771"><a href="/people/researchers">Researchers</a></li>
+<li class="expanded menu-mlid-776"><a href="/people/staff">Staff</a><ul class="menu"><li class="first last leaf menu-mlid-271"><a href="https://www.cs.cornell.edu/sites/default/files/shared/faculty_support_2019-2020.pdf">Faculty Admin Support</a></li>
+</ul></li>
+<li class="leaf menu-mlid-781"><a href="/people/phdstudents">Ph.D. Students</a></li>
+<li class="leaf menu-mlid-791"><a href="/people/msstudents">M.S. Students</a></li>
+<li class="leaf menu-mlid-786"><a href="/people/mengstudents">M.Eng. Students</a></li>
+<li class="last leaf menu-mlid-796"><a href="/people/phdalumni">Ph.D. Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-252"><a href="/courseinfo">Courses</a><ul class="menu"><li class="first leaf menu-mlid-295"><a href="/courseinfo/listofcscourses">List of Courses</a></li>
+<li class="leaf menu-mlid-581"><a href="/courseinfo/enrollment">Enrollment</a></li>
+<li class="leaf menu-mlid-312"><a href="/courseinfo/examschedules">Exams</a></li>
+<li class="leaf menu-mlid-308"><a href="/courseinfo/courseandroomroster">Course and Room Roster</a></li>
+<li class="leaf menu-mlid-2437"><a href="/courseinfo/homework-hand-back-room">Homework Hand Back Room</a></li>
+<li class="last leaf menu-mlid-3637"><a href="/courseinfo/placement">CS Advanced Standing Exam</a></li>
+</ul></li>
+<li class="expanded menu-mlid-257"><a href="/research">Research</a><ul class="menu"><li class="first leaf menu-mlid-243"><a href="/research/architecture">Architecture</a></li>
+<li class="leaf menu-mlid-274"><a href="/research/ai">Artificial Intelligence</a></li>
+<li class="leaf menu-mlid-248"><a href="/research/compbio">Computational Biology</a></li>
+<li class="leaf menu-mlid-285"><a href="/research/datasystems">Database Systems</a></li>
+<li class="leaf menu-mlid-298"><a href="/research/graphics">Graphics</a></li>
+<li class="leaf menu-mlid-631"><a href="/research/humaninteraction">Human Interaction</a></li>
+<li class="leaf menu-mlid-247"><a href="/research/lang">Programming Languages</a></li>
+<li class="leaf menu-mlid-283"><a href="http://robotics.cornell.edu">Robotics</a></li>
+<li class="leaf menu-mlid-303"><a href="/research/scientif">Scientific Computing</a></li>
+<li class="leaf menu-mlid-335"><a href="/research/security">Security</a></li>
+<li class="leaf menu-mlid-251"><a href="/research/systems">Systems and Networking</a></li>
+<li class="last leaf menu-mlid-270"><a href="/research/theory">Theory of Computing</a></li>
+</ul></li>
+<li class="expanded menu-mlid-291 student-menu-link"><a href="/undergrad">Undergraduate</a><ul class="menu"><li class="first expanded menu-mlid-306"><a href="/undergrad/uadmis">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-1691"><a href="/undergrad/uadmis/becoming-cs-major">Becoming a CS Major</a></li>
+</ul></li>
+<li class="expanded menu-mlid-250"><a href="/undergrad/ustaff">Contact Us</a><ul class="menu"><li class="first last leaf menu-mlid-3208"><a href="/undergrad/ustaff/contact-academic-advisor">Contact Academic Advisor</a></li>
+</ul></li>
+<li class="leaf menu-mlid-272"><a href="/undergrad/firstcscourse">Your First CS Course</a></li>
+<li class="expanded menu-mlid-290"><a href="/undergrad/csmajor">CS Major</a><ul class="menu"><li class="first leaf menu-mlid-255"><a href="/undergrad/csmajor/usefulforms">Useful Forms</a></li>
+<li class="leaf menu-mlid-284"><a href="/undergrad/rulesandproceduresengineering/choosingyourelectives">Electives</a></li>
+<li class="leaf menu-mlid-307"><a href="/undergrad/csmajor/technicalelectives">Technical Electives</a></li>
+<li class="leaf menu-mlid-326"><a href="/undergrad/csmajor/quickchart">Quick Chart</a></li>
+<li class="leaf menu-mlid-333"><a href="/undergrad/csmajor/cswithothermajorsareas">CS with Other Majors/Areas</a></li>
+<li class="leaf menu-mlid-266"><a href="/undergrad/csmajor/transfercredits">Transfer Credits</a></li>
+<li class="leaf menu-mlid-496"><a href="/undergrad/csmajor/cs-honors-program">CS Honors Program</a></li>
+<li class="last leaf menu-mlid-3707"><a href="/undergrad/csmajor/cpt-procedure">CPT for International CS Undergrads</a></li>
+</ul></li>
+<li class="expanded menu-mlid-286"><a href="/undergrad/rulesandproceduresengineering">CS Engineering</a><ul class="menu"><li class="first last leaf menu-mlid-287"><a href="/undergrad/rulesandproceduresengineering/engineeringchecklist">Checklist</a></li>
+</ul></li>
+<li class="expanded menu-mlid-249"><a href="/undergrad/rulesandproceduresarts">CS Arts &amp; Sciences</a><ul class="menu"><li class="first last leaf menu-mlid-315"><a href="/undergrad/rulesandproceduresarts/artschecklist">Checklist</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-497"><a href="/undergrad/graduation-information">Graduation Information</a></li>
+<li class="expanded menu-mlid-475"><a href="/undergrad/minors">Minors</a><ul class="menu"><li class="first leaf menu-mlid-279"><a href="/undergrad/csminor">CS Minor</a></li>
+<li class="last leaf menu-mlid-340"><a href="/undergrad/minors/game-design-minor">Game Design Minor</a></li>
+</ul></li>
+<li class="expanded menu-mlid-322"><a href="/undergrad/cscareers">Career Information</a><ul class="menu"><li class="first leaf menu-mlid-297"><a href="/undergrad/cscareers/co-opexperiences">Co-op Program</a></li>
+<li class="last leaf menu-mlid-338"><a href="/undergrad/cscareers/placementreport">Placement Report</a></li>
+</ul></li>
+<li class="expanded menu-mlid-256"><a href="/undergrad/uresch">Undergrad Research</a><ul class="menu"><li class="first last leaf menu-mlid-288"><a href="/undergrad/uresch/registeringforcs4999">Independent Research (CS 4999)</a></li>
+</ul></li>
+<li class="leaf menu-mlid-278"><a href="/undergrad/ugroups">Student Groups</a></li>
+<li class="leaf menu-mlid-316"><a href="/undergrad/uevents">Events</a></li>
+<li class="leaf menu-mlid-242"><a href="/undergrad/computerlab">Undergraduate Learning Center</a></li>
+<li class="last leaf menu-mlid-651"><a href="/undergrad/ugradcoursestaff">UGrad Course Staff Info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-328 student-menu-link"><a href="/masters">M Eng</a><ul class="menu"><li class="first expanded menu-mlid-300"><a href="/masters/apply">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-384"><a href="/masters/apply/prerequisites">Prerequisites</a></li>
+<li class="leaf menu-mlid-385"><a href="/masters/apply/application">The Application Process</a></li>
+<li class="leaf menu-mlid-386"><a href="/masters/apply/applicationreview">The Review Process</a></li>
+<li class="leaf menu-mlid-392"><a href="/masters/apply/earlyadmission">Early Admission</a></li>
+<li class="leaf menu-mlid-387"><a href="/masters/apply/financialaid">Financial Aid</a></li>
+<li class="last leaf menu-mlid-388"><a href="/masters/apply/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-477"><a href="/masters/academics">Academics</a><ul class="menu"><li class="first leaf menu-mlid-282"><a href="/masters/academics/degreerequirements">Degree Requirements</a></li>
+<li class="leaf menu-mlid-318"><a href="/masters/academics/preapprovedcourses">Pre-approved Electives</a></li>
+<li class="leaf menu-mlid-305"><a href="/masters/academics/projectinformation">The Project</a></li>
+<li class="last leaf menu-mlid-476"><a href="/masters/academics/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-455"><a href="/masters/current">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-310"><a href="/masters/current/courseenrollment">The Course Enrollment Process</a></li>
+<li class="leaf menu-mlid-479"><a href="/masters/current/advising-tips">Advising Tips</a></li>
+<li class="leaf menu-mlid-304"><a href="/masters/current/graduation-information">Graduation Information</a></li>
+<li class="leaf menu-mlid-244"><a href="/masters/current/faq">FAQ</a></li>
+<li class="leaf menu-mlid-506"><a href="/masters/current/meng-lab">M.Eng Lab</a></li>
+<li class="last leaf menu-mlid-510"><a href="/masters/current/meng-forms">MEng Forms</a></li>
+</ul></li>
+<li class="leaf menu-mlid-473"><a href="/masters/entrepreneurism">Entrepreneurship</a></li>
+<li class="leaf menu-mlid-472"><a href="/masters/nyc">Cornell Tech Programs</a></li>
+<li class="leaf menu-mlid-504"><a href="/masters/professional-development">Professional Development</a></li>
+<li class="leaf menu-mlid-616"><a href="/masters/contact-us">Contact Us</a></li>
+<li class="last leaf menu-mlid-2061"><a href="/masters/cs-meng-alumni">CS MEng Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-503 student-menu-link"><a href="/ms">MS</a><ul class="menu"><li class="first expanded menu-mlid-500"><a href="/ms/admissions" target="_parent">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-501"><a href="/ms/admissions/applicant-faq" target="_parent">Applicant FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2571"><a href="/ms/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-1686"><a href="http://test.cs.cornell.edu/sites/default/files/shared/MS%20Checklist.pdf">MS Degree Checklist</a></li>
+<li class="leaf menu-mlid-1681"><a href="/ms/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="last leaf menu-mlid-502"><a href="/ms/degree-requirements" target="_parent">Degree Requirements</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2821"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-1371"><a href="/ms/graduation-information">Graduation Information</a></li>
+<li class="last leaf menu-mlid-1361"><a href="/ms/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-269 student-menu-link"><a href="/phd">PhD</a><ul class="menu"><li class="first expanded menu-mlid-253"><a href="/phd/admissions">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-329"><a href="/phd/faq">Ph.D. Applicant FAQ</a></li>
+<li class="leaf menu-mlid-1301"><a href="/phd/admissions/non-degree-application-guidelines">Non-Degree Application Guidelines</a></li>
+<li class="leaf menu-mlid-489"><a href="https://gradschool.cornell.edu/admissions/admitted-students/living-in-ithaca/housing/" class="outlink">Graduate Housing</a></li>
+<li class="last leaf menu-mlid-487"><a href="http://www.cs.cornell.edu/projects/phdvisit/" class="outlink divider">Ph. D. Visit Day</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2570"><a href="/phd/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-2888"><a href="/phd/current-students/phd-requirements">Ph.D. Requirements</a></li>
+<li class="leaf menu-mlid-2051"><a href="/phd/current-students/special-committee-selection">Special Committee Selection</a></li>
+<li class="leaf menu-mlid-1306"><a href="/phd/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="leaf menu-mlid-491"><a href="http://www.cs.cornell.edu/grad/GradForms/A%20Exam%20Summary%20Form.pdf">Field A Exam Summary Form</a></li>
+<li class="leaf menu-mlid-1366"><a href="/phd/current-students/cornelltech">CornellTech</a></li>
+<li class="leaf menu-mlid-3204"><a href="/phd/current-students/travel-funding-opportunities">Travel Funding Opportunities</a></li>
+<li class="leaf menu-mlid-488"><a href="http://www.gradschool.cornell.edu/forms" class="outlink">Graduate School Forms</a></li>
+<li class="last leaf menu-mlid-3706"><a href="/phd/current-students/fellowship-opportunities">Fellowship Opportunities</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2820"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-336"><a href="/phd/graduation">Graduation Information</a></li>
+<li class="leaf menu-mlid-317"><a href="/phd/minor">Graduate Minor</a></li>
+<li class="leaf menu-mlid-3516"><a href="/phd/outreach-programs">Outreach Opportunities</a></li>
+<li class="leaf menu-mlid-1731"><a href="http://studentswithfamilies.cornell.edu/policies/parental-accommodation-policy/">Parental Accommodation Policy</a></li>
+<li class="leaf menu-mlid-273"><a href="/phd/specialmasters">Special Masters</a></li>
+<li class="last leaf menu-mlid-1356"><a href="/phd/contact-us">Contact Us</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+      </nav>
+    </div>
+  </main>
+
+<section id="bottom-content" class="container">
+  </section>
+
+<footer>
+    <div class="tint">
+        <div class="container">
+            <div class="footer row">
+                <div class="col-sm-4">
+                      <div class="region region-footer">
+    <div id="block-menu-menu-footer" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/saml_login?destination=home">NetID Login (internal use only)</a></li>
+<li class="last leaf"><a href="/information/contactus">Contact Us</a></li>
+</ul>  </div>
+</div>
+  </div>
+                </div>
+                <div class="col-sm-4 footer-logo">
+                    <a href="http://cis.cornell.edu/">
+                        <img alt="Cornell Computing and Information Science" src="/profiles/cu_cs/themes/awp_cs/images/cis_mark.png">
+                    </a>
+                </div>
+                <div class="col-sm-4 footer-logo footer-right">
+                    <a href="http://tech.cornell.edu/">
+                        <img alt=Cornell Tech" src="/profiles/cu_cs/themes/awp_cs/images/cornell_tech_mark.png">
+                    </a>
+                </div>
+            </div>
+            <div class="subfooter">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="footer-divider"></div>
+                    </div>
+                    <div class="col-sm-3">
+                        &copy; 2019                                                    Cornell University                                            </div>
+                    <div class="col-sm-6 footer-center">
+                                                    402 Gates Hall, Cornell University, Ithaca, NY 14853                                            </div>
+                    <div class="col-sm-3 footer-right">
+                          <div class="region region-sub-footer">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="social-links">
+	<li class="twitter"><a href="http://twitter.com/cs_cornell"><span aria-hidden="true" class="fa fa-twitter"><span class="sr-only">Follow us on Twitter</span></span></a></li>
+	<li class="facebook"><a href="http://fb.me/cscornell"><span aria-hidden="true" class="fa fa-facebook"><span class="sr-only">Like us on Facebook</span></span></a></li>
+</ul>
+  </div>
+</div>
+  </div>
+                    </div>
+                </div>
+
+                <div class="accessibility-statement">
+                                            If you have a disability and are having trouble accessing information on this website or need materials in an alternate format, contact <a href="mailto:web-accessibility@cornell.edu">web-accessibility@cornell.edu</a> for assistance.                                    </div>
+            </div>
+        </div>
+    </div>
+</footer>
+  <script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_dF8gZtzerefB4ycisHf9ri4JpFPblAQigxO1qTZfP9E.js"></script>
+</body>
+</html>

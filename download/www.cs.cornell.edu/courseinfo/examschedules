@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" lang="en"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en"><!--<![endif]-->
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.cs.cornell.edu/courseinfo/examschedules" />
+<link rel="shortlink" href="/node/123" />
+<link rel="shortcut icon" href="https://www.cs.cornell.edu/profiles/cu_cs/themes/awp_cs/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Exam Schedules | Department of Computer Science</title>
+  <link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_EPsgvacVXxxhwhLr4DGj8P1D4es4L_QnnRJPHn_TJHE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_xfVTEOnd6ViwoVCLsQuTjNv7zrf-KSi-vmQ9jeRnH8A.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_MO9SZDHEEo6xDKFoCg3L1ZH1jaFg7DSCG9fp_s9Y3Nc.css" media="all" />
+  <script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js"></script>
+<script type="text/javascript" src="https://embanner.univcomm.cornell.edu/OWC-emergency-banner.js"></script>
+<script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_rsGiM5M1ffe6EhN-RnhM5f3pDyJ8ZAPFJNKpfjtepLk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-42834021-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://use.typekit.net/sib4uwp.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load({ async: true });}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_mk2BZ4FJSGMod1wMQ3Ta37-dGpMuJIDYxJe17LhcUwQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"awp_cs","theme_token":"ERHJ1JZmVqBDU63Hw5ZYik5ukgmDXyYXxCk8TAnvUuk","js":{"profiles\/cu_cs\/edit_protection.js":1,"profiles\/cu_cs\/proxy_workarounds.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"https:\/\/embanner.univcomm.cornell.edu\/OWC-emergency-banner.js":1,"profiles\/cu_cs\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"https:\/\/use.typekit.net\/sib4uwp.js":1,"1":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/vendor\/jquery.flexslider.min.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/admin.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/awards.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/caption.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/course_filter.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/events.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/header.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/listing.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/main_menu.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/research_area.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/search.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/search_results.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/slideshow.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/cu_cs\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/cu_cs\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/cu_cs\/modules\/contrib\/views\/css\/views.css":1,"profiles\/cu_cs\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/cu_cs\/themes\/awp_cs\/css\/default.css":1,"profiles\/cu_cs\/themes\/awp_cs\/css\/home.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/courseinfo\/examschedules":true}});
+//--><!]]>
+</script>
+  <script src="//use.fontawesome.com/fe8372e268.js"></script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-123 node-type-page" >
+  <nav class="skiplink" id="skip-link" aria-label="Skip to Content">
+	  			<a href="#main-content" class="element-invisible element-focusable">Skip to Content</a>
+			</nav>
+    
+<header aria-label="Site Header">
+    <div class="container">
+      <a href="/" class="site-logo">
+        <img alt="Cornell Computer Science" src="https://www.cs.cornell.edu/profiles/cu_cs/themes/awp_cs/logo.png" class="desktop-logo img-responsive">
+        <img alt="Cornell Computer Science" src="/profiles/cu_cs/themes/awp_cs/logo_mobile.png" class="mobile-logo img-responsive">
+      </a>
+        <div class="region region-header">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-275"><a href="/information/about">About</a><ul class="menu"><li class="first expanded menu-mlid-175"><a href="/information/news">News</a><ul class="menu"><li class="first last leaf menu-mlid-3512"><a href="http://www.cs.cornell.edu/sites/default/files/shared/cs_newsletter_spring_summer_2019.pdf">CS Newsletter Spring/Summer 2019</a></li>
+</ul></li>
+<li class="leaf menu-mlid-736"><a href="/information/research-news">Research News</a></li>
+<li class="leaf menu-mlid-320"><a href="/information/departmentlife">Department Life</a></li>
+<li class="expanded menu-mlid-325"><a href="/information/awards">Awards</a><ul class="menu"><li class="first leaf menu-mlid-961"><a href="/information/awards-by-recipient">Listed by Recipient</a></li>
+<li class="last leaf menu-mlid-966"><a href="/information/awards-by-category">Listed by Category</a></li>
+</ul></li>
+<li class="leaf menu-mlid-681"><a href="https://ecommons.cornell.edu/bitstream/handle/1813/44201/CS_Oral_History_Directory_v10Jun16.pdf?sequence=2&amp;isAllowed=y">Oral History of Cornell CS</a></li>
+<li class="expanded menu-mlid-245"><a href="/information/pubs">Publications</a><ul class="menu"><li class="first leaf menu-mlid-971"><a href="/information/publications-by-author">Books by Author</a></li>
+<li class="last leaf menu-mlid-976"><a href="/information/publications-by-year">Books Chronologically</a></li>
+</ul></li>
+<li class="expanded menu-mlid-571"><a href="/information/timeline">Department Timeline</a><ul class="menu"><li class="first leaf menu-mlid-586"><a href="http://www.cs.cornell.edu/information/timeline#60">The 60&#039;s</a></li>
+<li class="leaf menu-mlid-591"><a href="http://www.cs.cornell.edu/information/timeline#70">The 70&#039;s</a></li>
+<li class="leaf menu-mlid-596"><a href="http://www.cs.cornell.edu/information/timeline#80">The 80&#039;s</a></li>
+<li class="leaf menu-mlid-601"><a href="http://www.cs.cornell.edu/information/timeline#90">The 90&#039;s</a></li>
+<li class="leaf menu-mlid-606"><a href="http://www.cs.cornell.edu/information/timeline#00">The 00&#039;s</a></li>
+<li class="last leaf menu-mlid-611"><a href="http://www.cs.cornell.edu/information/timeline#10">The 2010&#039;s</a></li>
+</ul></li>
+<li class="leaf menu-mlid-277"><a href="/information/annualreports">Annual Reports</a></li>
+<li class="expanded menu-mlid-299"><a href="/information/jobpostings">Job Postings</a><ul class="menu"><li class="first leaf menu-mlid-323"><a href="/information/jobpostings/facultypositionsithaca">Faculty Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-2890"><a href="/information/jobpostings/lecturer-positions-ithaca">Lecturer Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-327"><a href="/information/jobpostings/facultypositionsnyctech">Faculty Positions: New York City</a></li>
+<li class="leaf menu-mlid-2500"><a href="/information/jobpostings/postdocpositionsithaca">Post-doc Position: Ithaca</a></li>
+<li class="leaf menu-mlid-343"><a href="https://www.hr.cornell.edu/jobs/positions.html" class="outlink">Staff/Technical Positions</a></li>
+<li class="last leaf menu-mlid-661"><a href="https://www.cs.cornell.edu/undergrad/ugradcoursestaff ">Ugrad Course Staff</a></li>
+</ul></li>
+<li class="leaf menu-mlid-246"><a href="/information/ithaca">Ithaca Info</a></li>
+<li class="last leaf menu-mlid-498"><a href="https://confluence.cornell.edu/display/csdinfo/CSD+Info+Home">Internal info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-324"><a href="/events">Events</a><ul class="menu"><li class="first leaf menu-mlid-986"><a href="/events/calendar">Calendar</a></li>
+<li class="leaf menu-mlid-3450"><a href="http://www.cs.cornell.edu/node/10412">Graduation Information</a></li>
+<li class="leaf menu-mlid-2499"><a href="/content/cornell-tech-colloquium-6">Cornell Tech Colloquium</a></li>
+<li class="leaf menu-mlid-2951"><a href="/content/student-colloquium">Student Colloquium</a></li>
+<li class="leaf menu-mlid-621"><a href="http://boom.cornell.edu/">BOOM</a></li>
+<li class="collapsed menu-mlid-3638"><a href="/content/fall-2019-colloquium">CS Colloquium</a></li>
+<li class="expanded menu-mlid-2502"><a href="/content/workshop/sonic">SoNIC Workshop</a><ul class="menu"><li class="first leaf menu-mlid-2503"><a href="http://www.cornell.edu/visiting/">Visiting Cornell University</a></li>
+<li class="leaf menu-mlid-2504"><a href="http://www.cs.cornell.edu">Cornell Computer Science</a></li>
+<li class="leaf menu-mlid-2505"><a href="http://www.visitithaca.com/group-attractions/">Ithaca Attractions</a></li>
+<li class="leaf menu-mlid-2507"><a href="http://www.ithacamenus.com/">Area Restaurants</a></li>
+<li class="leaf menu-mlid-2506"><a href="http://www.cs.cornell.edu/information/ithaca">Things to do in Ithaca</a></li>
+<li class="leaf menu-mlid-2508"><a href="https://www.cornell.edu/about/maps/">Campus Map</a></li>
+<li class="last leaf menu-mlid-2574"><a href="http://www.cs.cornell.edu/sites/default/files/shared/sonic_flyer_2019.pdf">SoNIC Flyer</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1711"><a href="/events/conway">Conway-Walker Lecture Series</a></li>
+<li class="leaf menu-mlid-1706"><a href="/events/saltonseries">Salton Lecture Series</a></li>
+<li class="expanded menu-mlid-292"><a href="/events/sems">Seminars / Lectures</a><ul class="menu"><li class="first leaf menu-mlid-3640"><a href="/content/fall-2019-artificial-intelligence-seminar">AI (Artificial Intelligence) Seminar</a></li>
+<li class="last leaf menu-mlid-3641"><a href="/content/fall-2019-theory-seminar">Theory Seminar</a></li>
+</ul></li>
+<li class="leaf menu-mlid-546"><a href="http://www.bigredhacks.com/">Big Red Hacks</a></li>
+<li class="expanded menu-mlid-516"><a href="/events/50years">50th Anniversary Symposium</a><ul class="menu"><li class="first leaf menu-mlid-551"><a href="/events/50years/speakers">Speaker Bios</a></li>
+<li class="leaf menu-mlid-561"><a href="/events/50years/abstracts">Titles/Abstracts</a></li>
+<li class="leaf menu-mlid-2434"><a href="https://www.flickr.com/gp/138617394@N06/L93xc4 ">Photos</a></li>
+<li class="last leaf menu-mlid-2433"><a href="http://www.cs.cornell.edu/events/50years/schedule">Schedule of talks with videos</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-507"><a href="/events/cornell-high-school-programming-contest">Cornell University High School Programming Contest</a></li>
+<li class="last leaf menu-mlid-459"><a href="http://gdiac.cis.cornell.edu/" class="outlink">Game Design Initiative</a></li>
+</ul></li>
+<li class="expanded menu-mlid-261"><a href="/people">People</a><ul class="menu"><li class="first leaf menu-mlid-262"><a href="/people/chair">Chair</a></li>
+<li class="leaf menu-mlid-766"><a href="/people/faculty">Faculty</a></li>
+<li class="leaf menu-mlid-771"><a href="/people/researchers">Researchers</a></li>
+<li class="expanded menu-mlid-776"><a href="/people/staff">Staff</a><ul class="menu"><li class="first last leaf menu-mlid-271"><a href="https://www.cs.cornell.edu/sites/default/files/shared/faculty_support_2019-2020.pdf">Faculty Admin Support</a></li>
+</ul></li>
+<li class="leaf menu-mlid-781"><a href="/people/phdstudents">Ph.D. Students</a></li>
+<li class="leaf menu-mlid-791"><a href="/people/msstudents">M.S. Students</a></li>
+<li class="leaf menu-mlid-786"><a href="/people/mengstudents">M.Eng. Students</a></li>
+<li class="last leaf menu-mlid-796"><a href="/people/phdalumni">Ph.D. Alumni</a></li>
+</ul></li>
+<li class="expanded active-trail menu-mlid-252"><a href="/courseinfo" class="active-trail">Courses</a><ul class="menu"><li class="first leaf menu-mlid-295"><a href="/courseinfo/listofcscourses">List of Courses</a></li>
+<li class="leaf menu-mlid-581"><a href="/courseinfo/enrollment">Enrollment</a></li>
+<li class="leaf active-trail active menu-mlid-312"><a href="/courseinfo/examschedules" class="active-trail active">Exams</a></li>
+<li class="leaf menu-mlid-308"><a href="/courseinfo/courseandroomroster">Course and Room Roster</a></li>
+<li class="leaf menu-mlid-2437"><a href="/courseinfo/homework-hand-back-room">Homework Hand Back Room</a></li>
+<li class="last leaf menu-mlid-3637"><a href="/courseinfo/placement">CS Advanced Standing Exam</a></li>
+</ul></li>
+<li class="expanded menu-mlid-257"><a href="/research">Research</a><ul class="menu"><li class="first leaf menu-mlid-243"><a href="/research/architecture">Architecture</a></li>
+<li class="leaf menu-mlid-274"><a href="/research/ai">Artificial Intelligence</a></li>
+<li class="leaf menu-mlid-248"><a href="/research/compbio">Computational Biology</a></li>
+<li class="leaf menu-mlid-285"><a href="/research/datasystems">Database Systems</a></li>
+<li class="leaf menu-mlid-298"><a href="/research/graphics">Graphics</a></li>
+<li class="leaf menu-mlid-631"><a href="/research/humaninteraction">Human Interaction</a></li>
+<li class="leaf menu-mlid-247"><a href="/research/lang">Programming Languages</a></li>
+<li class="leaf menu-mlid-283"><a href="http://robotics.cornell.edu">Robotics</a></li>
+<li class="leaf menu-mlid-303"><a href="/research/scientif">Scientific Computing</a></li>
+<li class="leaf menu-mlid-335"><a href="/research/security">Security</a></li>
+<li class="leaf menu-mlid-251"><a href="/research/systems">Systems and Networking</a></li>
+<li class="last leaf menu-mlid-270"><a href="/research/theory">Theory of Computing</a></li>
+</ul></li>
+<li class="expanded menu-mlid-291 student-menu-link"><a href="/undergrad">Undergraduate</a><ul class="menu"><li class="first expanded menu-mlid-306"><a href="/undergrad/uadmis">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-1691"><a href="/undergrad/uadmis/becoming-cs-major">Becoming a CS Major</a></li>
+</ul></li>
+<li class="expanded menu-mlid-250"><a href="/undergrad/ustaff">Contact Us</a><ul class="menu"><li class="first last leaf menu-mlid-3208"><a href="/undergrad/ustaff/contact-academic-advisor">Contact Academic Advisor</a></li>
+</ul></li>
+<li class="leaf menu-mlid-272"><a href="/undergrad/firstcscourse">Your First CS Course</a></li>
+<li class="expanded menu-mlid-290"><a href="/undergrad/csmajor">CS Major</a><ul class="menu"><li class="first leaf menu-mlid-255"><a href="/undergrad/csmajor/usefulforms">Useful Forms</a></li>
+<li class="leaf menu-mlid-284"><a href="/undergrad/rulesandproceduresengineering/choosingyourelectives">Electives</a></li>
+<li class="leaf menu-mlid-307"><a href="/undergrad/csmajor/technicalelectives">Technical Electives</a></li>
+<li class="leaf menu-mlid-326"><a href="/undergrad/csmajor/quickchart">Quick Chart</a></li>
+<li class="leaf menu-mlid-333"><a href="/undergrad/csmajor/cswithothermajorsareas">CS with Other Majors/Areas</a></li>
+<li class="leaf menu-mlid-266"><a href="/undergrad/csmajor/transfercredits">Transfer Credits</a></li>
+<li class="leaf menu-mlid-496"><a href="/undergrad/csmajor/cs-honors-program">CS Honors Program</a></li>
+<li class="last leaf menu-mlid-3707"><a href="/undergrad/csmajor/cpt-procedure">CPT for International CS Undergrads</a></li>
+</ul></li>
+<li class="expanded menu-mlid-286"><a href="/undergrad/rulesandproceduresengineering">CS Engineering</a><ul class="menu"><li class="first last leaf menu-mlid-287"><a href="/undergrad/rulesandproceduresengineering/engineeringchecklist">Checklist</a></li>
+</ul></li>
+<li class="expanded menu-mlid-249"><a href="/undergrad/rulesandproceduresarts">CS Arts &amp; Sciences</a><ul class="menu"><li class="first last leaf menu-mlid-315"><a href="/undergrad/rulesandproceduresarts/artschecklist">Checklist</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-497"><a href="/undergrad/graduation-information">Graduation Information</a></li>
+<li class="expanded menu-mlid-475"><a href="/undergrad/minors">Minors</a><ul class="menu"><li class="first leaf menu-mlid-279"><a href="/undergrad/csminor">CS Minor</a></li>
+<li class="last leaf menu-mlid-340"><a href="/undergrad/minors/game-design-minor">Game Design Minor</a></li>
+</ul></li>
+<li class="expanded menu-mlid-322"><a href="/undergrad/cscareers">Career Information</a><ul class="menu"><li class="first leaf menu-mlid-297"><a href="/undergrad/cscareers/co-opexperiences">Co-op Program</a></li>
+<li class="last leaf menu-mlid-338"><a href="/undergrad/cscareers/placementreport">Placement Report</a></li>
+</ul></li>
+<li class="expanded menu-mlid-256"><a href="/undergrad/uresch">Undergrad Research</a><ul class="menu"><li class="first last leaf menu-mlid-288"><a href="/undergrad/uresch/registeringforcs4999">Independent Research (CS 4999)</a></li>
+</ul></li>
+<li class="leaf menu-mlid-278"><a href="/undergrad/ugroups">Student Groups</a></li>
+<li class="leaf menu-mlid-316"><a href="/undergrad/uevents">Events</a></li>
+<li class="leaf menu-mlid-242"><a href="/undergrad/computerlab">Undergraduate Learning Center</a></li>
+<li class="last leaf menu-mlid-651"><a href="/undergrad/ugradcoursestaff">UGrad Course Staff Info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-328 student-menu-link"><a href="/masters">M Eng</a><ul class="menu"><li class="first expanded menu-mlid-300"><a href="/masters/apply">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-384"><a href="/masters/apply/prerequisites">Prerequisites</a></li>
+<li class="leaf menu-mlid-385"><a href="/masters/apply/application">The Application Process</a></li>
+<li class="leaf menu-mlid-386"><a href="/masters/apply/applicationreview">The Review Process</a></li>
+<li class="leaf menu-mlid-392"><a href="/masters/apply/earlyadmission">Early Admission</a></li>
+<li class="leaf menu-mlid-387"><a href="/masters/apply/financialaid">Financial Aid</a></li>
+<li class="last leaf menu-mlid-388"><a href="/masters/apply/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-477"><a href="/masters/academics">Academics</a><ul class="menu"><li class="first leaf menu-mlid-282"><a href="/masters/academics/degreerequirements">Degree Requirements</a></li>
+<li class="leaf menu-mlid-318"><a href="/masters/academics/preapprovedcourses">Pre-approved Electives</a></li>
+<li class="leaf menu-mlid-305"><a href="/masters/academics/projectinformation">The Project</a></li>
+<li class="last leaf menu-mlid-476"><a href="/masters/academics/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-455"><a href="/masters/current">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-310"><a href="/masters/current/courseenrollment">The Course Enrollment Process</a></li>
+<li class="leaf menu-mlid-479"><a href="/masters/current/advising-tips">Advising Tips</a></li>
+<li class="leaf menu-mlid-304"><a href="/masters/current/graduation-information">Graduation Information</a></li>
+<li class="leaf menu-mlid-244"><a href="/masters/current/faq">FAQ</a></li>
+<li class="leaf menu-mlid-506"><a href="/masters/current/meng-lab">M.Eng Lab</a></li>
+<li class="last leaf menu-mlid-510"><a href="/masters/current/meng-forms">MEng Forms</a></li>
+</ul></li>
+<li class="leaf menu-mlid-473"><a href="/masters/entrepreneurism">Entrepreneurship</a></li>
+<li class="leaf menu-mlid-472"><a href="/masters/nyc">Cornell Tech Programs</a></li>
+<li class="leaf menu-mlid-504"><a href="/masters/professional-development">Professional Development</a></li>
+<li class="leaf menu-mlid-616"><a href="/masters/contact-us">Contact Us</a></li>
+<li class="last leaf menu-mlid-2061"><a href="/masters/cs-meng-alumni">CS MEng Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-503 student-menu-link"><a href="/ms">MS</a><ul class="menu"><li class="first expanded menu-mlid-500"><a href="/ms/admissions" target="_parent">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-501"><a href="/ms/admissions/applicant-faq" target="_parent">Applicant FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2571"><a href="/ms/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-1686"><a href="http://test.cs.cornell.edu/sites/default/files/shared/MS%20Checklist.pdf">MS Degree Checklist</a></li>
+<li class="leaf menu-mlid-1681"><a href="/ms/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="last leaf menu-mlid-502"><a href="/ms/degree-requirements" target="_parent">Degree Requirements</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2821"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-1371"><a href="/ms/graduation-information">Graduation Information</a></li>
+<li class="last leaf menu-mlid-1361"><a href="/ms/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-269 student-menu-link"><a href="/phd">PhD</a><ul class="menu"><li class="first expanded menu-mlid-253"><a href="/phd/admissions">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-329"><a href="/phd/faq">Ph.D. Applicant FAQ</a></li>
+<li class="leaf menu-mlid-1301"><a href="/phd/admissions/non-degree-application-guidelines">Non-Degree Application Guidelines</a></li>
+<li class="leaf menu-mlid-489"><a href="https://gradschool.cornell.edu/admissions/admitted-students/living-in-ithaca/housing/" class="outlink">Graduate Housing</a></li>
+<li class="last leaf menu-mlid-487"><a href="http://www.cs.cornell.edu/projects/phdvisit/" class="outlink divider">Ph. D. Visit Day</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2570"><a href="/phd/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-2888"><a href="/phd/current-students/phd-requirements">Ph.D. Requirements</a></li>
+<li class="leaf menu-mlid-2051"><a href="/phd/current-students/special-committee-selection">Special Committee Selection</a></li>
+<li class="leaf menu-mlid-1306"><a href="/phd/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="leaf menu-mlid-491"><a href="http://www.cs.cornell.edu/grad/GradForms/A%20Exam%20Summary%20Form.pdf">Field A Exam Summary Form</a></li>
+<li class="leaf menu-mlid-1366"><a href="/phd/current-students/cornelltech">CornellTech</a></li>
+<li class="leaf menu-mlid-3204"><a href="/phd/current-students/travel-funding-opportunities">Travel Funding Opportunities</a></li>
+<li class="leaf menu-mlid-488"><a href="http://www.gradschool.cornell.edu/forms" class="outlink">Graduate School Forms</a></li>
+<li class="last leaf menu-mlid-3706"><a href="/phd/current-students/fellowship-opportunities">Fellowship Opportunities</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2820"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-336"><a href="/phd/graduation">Graduation Information</a></li>
+<li class="leaf menu-mlid-317"><a href="/phd/minor">Graduate Minor</a></li>
+<li class="leaf menu-mlid-3516"><a href="/phd/outreach-programs">Outreach Opportunities</a></li>
+<li class="leaf menu-mlid-1731"><a href="http://studentswithfamilies.cornell.edu/policies/parental-accommodation-policy/">Parental Accommodation Policy</a></li>
+<li class="leaf menu-mlid-273"><a href="/phd/specialmasters">Special Masters</a></li>
+<li class="last leaf menu-mlid-1356"><a href="/phd/contact-us">Contact Us</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/courseinfo/examschedules" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-E9lwErQpTRtJhVTWswYZm52UU5NPVtXaa0EzS_4uXEU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+    </div>
+</header>
+<div class="modal-bg"></div>
+
+    <div role="banner" id="banner" class="warm">
+            <div class="field field-name-field-banner-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://www.cs.cornell.edu/sites/default/files/styles/banner_image/public/1G3B9439.jpg?itok=PH3L6slH" width="2560" height="700" alt="" /></div></div></div>        <!-- If ther is a banner image, title banner is container-width underneath -->
+        <div class="container title-banner">
+                                <h1>Exam Schedules</h1>
+                <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> < <a href="/courseinfo">Courses</a></div>                            </div> <!-- close title banner -->
+    <div class="container">
+            </div>
+</div>
+
+  <main id="main-content" class="container">
+        <div class="row">
+      <div class="col-sm-9 col-sm-push-3 main-content">
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-123" class="node node-page clearfix">
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h4>Fall 2019</h4>
+
+<ul>
+	<li><a href="https://registrar.cornell.edu/exams/fall-prelim-exam-schedule">Prelims</a></li>
+	<li><a href="https://registrar.cornell.edu/exams/fall-final-exam-schedule">Finals</a></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p style="margin-left: 80px;"><span style="font-family: adelle, serif; font-size: 14px; font-style: italic;">Visit the </span><a href="http://registrar.sas.cornell.edu/Sched/exams.html" style="font-family: adelle, serif; font-size: 14px; font-style: italic; background-color: rgb(244, 244, 244);">registrar website</a><span style="font-family: adelle, serif; font-size: 14px; font-style: italic;"> for more info.</span></p>
+
+<p style="margin-left: 80px;"><span class="wysiwyg-caption">For more information email us at <a href="mailto:ugrad@cs.cornell.edu">ugrad@cs.cornell.edu</a>.</span></p>
+</div></div></div>  </div>
+</div>
+  </div>
+</div>
+  </div>
+      </div>
+      <nav class="col-sm-3 col-sm-pull-9 sidebar" aria-label="Sidebar">
+          <div class="region region-sidebar">
+    <div id="block-menu-block-1--2" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-275"><a href="/information/about">About</a><ul class="menu"><li class="first expanded menu-mlid-175"><a href="/information/news">News</a><ul class="menu"><li class="first last leaf menu-mlid-3512"><a href="http://www.cs.cornell.edu/sites/default/files/shared/cs_newsletter_spring_summer_2019.pdf">CS Newsletter Spring/Summer 2019</a></li>
+</ul></li>
+<li class="leaf menu-mlid-736"><a href="/information/research-news">Research News</a></li>
+<li class="leaf menu-mlid-320"><a href="/information/departmentlife">Department Life</a></li>
+<li class="expanded menu-mlid-325"><a href="/information/awards">Awards</a><ul class="menu"><li class="first leaf menu-mlid-961"><a href="/information/awards-by-recipient">Listed by Recipient</a></li>
+<li class="last leaf menu-mlid-966"><a href="/information/awards-by-category">Listed by Category</a></li>
+</ul></li>
+<li class="leaf menu-mlid-681"><a href="https://ecommons.cornell.edu/bitstream/handle/1813/44201/CS_Oral_History_Directory_v10Jun16.pdf?sequence=2&amp;isAllowed=y">Oral History of Cornell CS</a></li>
+<li class="expanded menu-mlid-245"><a href="/information/pubs">Publications</a><ul class="menu"><li class="first leaf menu-mlid-971"><a href="/information/publications-by-author">Books by Author</a></li>
+<li class="last leaf menu-mlid-976"><a href="/information/publications-by-year">Books Chronologically</a></li>
+</ul></li>
+<li class="expanded menu-mlid-571"><a href="/information/timeline">Department Timeline</a><ul class="menu"><li class="first leaf menu-mlid-586"><a href="http://www.cs.cornell.edu/information/timeline#60">The 60&#039;s</a></li>
+<li class="leaf menu-mlid-591"><a href="http://www.cs.cornell.edu/information/timeline#70">The 70&#039;s</a></li>
+<li class="leaf menu-mlid-596"><a href="http://www.cs.cornell.edu/information/timeline#80">The 80&#039;s</a></li>
+<li class="leaf menu-mlid-601"><a href="http://www.cs.cornell.edu/information/timeline#90">The 90&#039;s</a></li>
+<li class="leaf menu-mlid-606"><a href="http://www.cs.cornell.edu/information/timeline#00">The 00&#039;s</a></li>
+<li class="last leaf menu-mlid-611"><a href="http://www.cs.cornell.edu/information/timeline#10">The 2010&#039;s</a></li>
+</ul></li>
+<li class="leaf menu-mlid-277"><a href="/information/annualreports">Annual Reports</a></li>
+<li class="expanded menu-mlid-299"><a href="/information/jobpostings">Job Postings</a><ul class="menu"><li class="first leaf menu-mlid-323"><a href="/information/jobpostings/facultypositionsithaca">Faculty Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-2890"><a href="/information/jobpostings/lecturer-positions-ithaca">Lecturer Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-327"><a href="/information/jobpostings/facultypositionsnyctech">Faculty Positions: New York City</a></li>
+<li class="leaf menu-mlid-2500"><a href="/information/jobpostings/postdocpositionsithaca">Post-doc Position: Ithaca</a></li>
+<li class="leaf menu-mlid-343"><a href="https://www.hr.cornell.edu/jobs/positions.html" class="outlink">Staff/Technical Positions</a></li>
+<li class="last leaf menu-mlid-661"><a href="https://www.cs.cornell.edu/undergrad/ugradcoursestaff ">Ugrad Course Staff</a></li>
+</ul></li>
+<li class="leaf menu-mlid-246"><a href="/information/ithaca">Ithaca Info</a></li>
+<li class="last leaf menu-mlid-498"><a href="https://confluence.cornell.edu/display/csdinfo/CSD+Info+Home">Internal info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-324"><a href="/events">Events</a><ul class="menu"><li class="first leaf menu-mlid-986"><a href="/events/calendar">Calendar</a></li>
+<li class="leaf menu-mlid-3450"><a href="http://www.cs.cornell.edu/node/10412">Graduation Information</a></li>
+<li class="leaf menu-mlid-2499"><a href="/content/cornell-tech-colloquium-6">Cornell Tech Colloquium</a></li>
+<li class="leaf menu-mlid-2951"><a href="/content/student-colloquium">Student Colloquium</a></li>
+<li class="leaf menu-mlid-621"><a href="http://boom.cornell.edu/">BOOM</a></li>
+<li class="collapsed menu-mlid-3638"><a href="/content/fall-2019-colloquium">CS Colloquium</a></li>
+<li class="expanded menu-mlid-2502"><a href="/content/workshop/sonic">SoNIC Workshop</a><ul class="menu"><li class="first leaf menu-mlid-2503"><a href="http://www.cornell.edu/visiting/">Visiting Cornell University</a></li>
+<li class="leaf menu-mlid-2504"><a href="http://www.cs.cornell.edu">Cornell Computer Science</a></li>
+<li class="leaf menu-mlid-2505"><a href="http://www.visitithaca.com/group-attractions/">Ithaca Attractions</a></li>
+<li class="leaf menu-mlid-2507"><a href="http://www.ithacamenus.com/">Area Restaurants</a></li>
+<li class="leaf menu-mlid-2506"><a href="http://www.cs.cornell.edu/information/ithaca">Things to do in Ithaca</a></li>
+<li class="leaf menu-mlid-2508"><a href="https://www.cornell.edu/about/maps/">Campus Map</a></li>
+<li class="last leaf menu-mlid-2574"><a href="http://www.cs.cornell.edu/sites/default/files/shared/sonic_flyer_2019.pdf">SoNIC Flyer</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1711"><a href="/events/conway">Conway-Walker Lecture Series</a></li>
+<li class="leaf menu-mlid-1706"><a href="/events/saltonseries">Salton Lecture Series</a></li>
+<li class="expanded menu-mlid-292"><a href="/events/sems">Seminars / Lectures</a><ul class="menu"><li class="first leaf menu-mlid-3640"><a href="/content/fall-2019-artificial-intelligence-seminar">AI (Artificial Intelligence) Seminar</a></li>
+<li class="last leaf menu-mlid-3641"><a href="/content/fall-2019-theory-seminar">Theory Seminar</a></li>
+</ul></li>
+<li class="leaf menu-mlid-546"><a href="http://www.bigredhacks.com/">Big Red Hacks</a></li>
+<li class="expanded menu-mlid-516"><a href="/events/50years">50th Anniversary Symposium</a><ul class="menu"><li class="first leaf menu-mlid-551"><a href="/events/50years/speakers">Speaker Bios</a></li>
+<li class="leaf menu-mlid-561"><a href="/events/50years/abstracts">Titles/Abstracts</a></li>
+<li class="leaf menu-mlid-2434"><a href="https://www.flickr.com/gp/138617394@N06/L93xc4 ">Photos</a></li>
+<li class="last leaf menu-mlid-2433"><a href="http://www.cs.cornell.edu/events/50years/schedule">Schedule of talks with videos</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-507"><a href="/events/cornell-high-school-programming-contest">Cornell University High School Programming Contest</a></li>
+<li class="last leaf menu-mlid-459"><a href="http://gdiac.cis.cornell.edu/" class="outlink">Game Design Initiative</a></li>
+</ul></li>
+<li class="expanded menu-mlid-261"><a href="/people">People</a><ul class="menu"><li class="first leaf menu-mlid-262"><a href="/people/chair">Chair</a></li>
+<li class="leaf menu-mlid-766"><a href="/people/faculty">Faculty</a></li>
+<li class="leaf menu-mlid-771"><a href="/people/researchers">Researchers</a></li>
+<li class="expanded menu-mlid-776"><a href="/people/staff">Staff</a><ul class="menu"><li class="first last leaf menu-mlid-271"><a href="https://www.cs.cornell.edu/sites/default/files/shared/faculty_support_2019-2020.pdf">Faculty Admin Support</a></li>
+</ul></li>
+<li class="leaf menu-mlid-781"><a href="/people/phdstudents">Ph.D. Students</a></li>
+<li class="leaf menu-mlid-791"><a href="/people/msstudents">M.S. Students</a></li>
+<li class="leaf menu-mlid-786"><a href="/people/mengstudents">M.Eng. Students</a></li>
+<li class="last leaf menu-mlid-796"><a href="/people/phdalumni">Ph.D. Alumni</a></li>
+</ul></li>
+<li class="expanded active-trail menu-mlid-252"><a href="/courseinfo" class="active-trail active-trail">Courses</a><ul class="menu"><li class="first leaf menu-mlid-295"><a href="/courseinfo/listofcscourses">List of Courses</a></li>
+<li class="leaf menu-mlid-581"><a href="/courseinfo/enrollment">Enrollment</a></li>
+<li class="leaf active-trail active menu-mlid-312"><a href="/courseinfo/examschedules" class="active-trail active-trail active">Exams</a></li>
+<li class="leaf menu-mlid-308"><a href="/courseinfo/courseandroomroster">Course and Room Roster</a></li>
+<li class="leaf menu-mlid-2437"><a href="/courseinfo/homework-hand-back-room">Homework Hand Back Room</a></li>
+<li class="last leaf menu-mlid-3637"><a href="/courseinfo/placement">CS Advanced Standing Exam</a></li>
+</ul></li>
+<li class="expanded menu-mlid-257"><a href="/research">Research</a><ul class="menu"><li class="first leaf menu-mlid-243"><a href="/research/architecture">Architecture</a></li>
+<li class="leaf menu-mlid-274"><a href="/research/ai">Artificial Intelligence</a></li>
+<li class="leaf menu-mlid-248"><a href="/research/compbio">Computational Biology</a></li>
+<li class="leaf menu-mlid-285"><a href="/research/datasystems">Database Systems</a></li>
+<li class="leaf menu-mlid-298"><a href="/research/graphics">Graphics</a></li>
+<li class="leaf menu-mlid-631"><a href="/research/humaninteraction">Human Interaction</a></li>
+<li class="leaf menu-mlid-247"><a href="/research/lang">Programming Languages</a></li>
+<li class="leaf menu-mlid-283"><a href="http://robotics.cornell.edu">Robotics</a></li>
+<li class="leaf menu-mlid-303"><a href="/research/scientif">Scientific Computing</a></li>
+<li class="leaf menu-mlid-335"><a href="/research/security">Security</a></li>
+<li class="leaf menu-mlid-251"><a href="/research/systems">Systems and Networking</a></li>
+<li class="last leaf menu-mlid-270"><a href="/research/theory">Theory of Computing</a></li>
+</ul></li>
+<li class="expanded menu-mlid-291 student-menu-link"><a href="/undergrad">Undergraduate</a><ul class="menu"><li class="first expanded menu-mlid-306"><a href="/undergrad/uadmis">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-1691"><a href="/undergrad/uadmis/becoming-cs-major">Becoming a CS Major</a></li>
+</ul></li>
+<li class="expanded menu-mlid-250"><a href="/undergrad/ustaff">Contact Us</a><ul class="menu"><li class="first last leaf menu-mlid-3208"><a href="/undergrad/ustaff/contact-academic-advisor">Contact Academic Advisor</a></li>
+</ul></li>
+<li class="leaf menu-mlid-272"><a href="/undergrad/firstcscourse">Your First CS Course</a></li>
+<li class="expanded menu-mlid-290"><a href="/undergrad/csmajor">CS Major</a><ul class="menu"><li class="first leaf menu-mlid-255"><a href="/undergrad/csmajor/usefulforms">Useful Forms</a></li>
+<li class="leaf menu-mlid-284"><a href="/undergrad/rulesandproceduresengineering/choosingyourelectives">Electives</a></li>
+<li class="leaf menu-mlid-307"><a href="/undergrad/csmajor/technicalelectives">Technical Electives</a></li>
+<li class="leaf menu-mlid-326"><a href="/undergrad/csmajor/quickchart">Quick Chart</a></li>
+<li class="leaf menu-mlid-333"><a href="/undergrad/csmajor/cswithothermajorsareas">CS with Other Majors/Areas</a></li>
+<li class="leaf menu-mlid-266"><a href="/undergrad/csmajor/transfercredits">Transfer Credits</a></li>
+<li class="leaf menu-mlid-496"><a href="/undergrad/csmajor/cs-honors-program">CS Honors Program</a></li>
+<li class="last leaf menu-mlid-3707"><a href="/undergrad/csmajor/cpt-procedure">CPT for International CS Undergrads</a></li>
+</ul></li>
+<li class="expanded menu-mlid-286"><a href="/undergrad/rulesandproceduresengineering">CS Engineering</a><ul class="menu"><li class="first last leaf menu-mlid-287"><a href="/undergrad/rulesandproceduresengineering/engineeringchecklist">Checklist</a></li>
+</ul></li>
+<li class="expanded menu-mlid-249"><a href="/undergrad/rulesandproceduresarts">CS Arts &amp; Sciences</a><ul class="menu"><li class="first last leaf menu-mlid-315"><a href="/undergrad/rulesandproceduresarts/artschecklist">Checklist</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-497"><a href="/undergrad/graduation-information">Graduation Information</a></li>
+<li class="expanded menu-mlid-475"><a href="/undergrad/minors">Minors</a><ul class="menu"><li class="first leaf menu-mlid-279"><a href="/undergrad/csminor">CS Minor</a></li>
+<li class="last leaf menu-mlid-340"><a href="/undergrad/minors/game-design-minor">Game Design Minor</a></li>
+</ul></li>
+<li class="expanded menu-mlid-322"><a href="/undergrad/cscareers">Career Information</a><ul class="menu"><li class="first leaf menu-mlid-297"><a href="/undergrad/cscareers/co-opexperiences">Co-op Program</a></li>
+<li class="last leaf menu-mlid-338"><a href="/undergrad/cscareers/placementreport">Placement Report</a></li>
+</ul></li>
+<li class="expanded menu-mlid-256"><a href="/undergrad/uresch">Undergrad Research</a><ul class="menu"><li class="first last leaf menu-mlid-288"><a href="/undergrad/uresch/registeringforcs4999">Independent Research (CS 4999)</a></li>
+</ul></li>
+<li class="leaf menu-mlid-278"><a href="/undergrad/ugroups">Student Groups</a></li>
+<li class="leaf menu-mlid-316"><a href="/undergrad/uevents">Events</a></li>
+<li class="leaf menu-mlid-242"><a href="/undergrad/computerlab">Undergraduate Learning Center</a></li>
+<li class="last leaf menu-mlid-651"><a href="/undergrad/ugradcoursestaff">UGrad Course Staff Info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-328 student-menu-link"><a href="/masters">M Eng</a><ul class="menu"><li class="first expanded menu-mlid-300"><a href="/masters/apply">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-384"><a href="/masters/apply/prerequisites">Prerequisites</a></li>
+<li class="leaf menu-mlid-385"><a href="/masters/apply/application">The Application Process</a></li>
+<li class="leaf menu-mlid-386"><a href="/masters/apply/applicationreview">The Review Process</a></li>
+<li class="leaf menu-mlid-392"><a href="/masters/apply/earlyadmission">Early Admission</a></li>
+<li class="leaf menu-mlid-387"><a href="/masters/apply/financialaid">Financial Aid</a></li>
+<li class="last leaf menu-mlid-388"><a href="/masters/apply/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-477"><a href="/masters/academics">Academics</a><ul class="menu"><li class="first leaf menu-mlid-282"><a href="/masters/academics/degreerequirements">Degree Requirements</a></li>
+<li class="leaf menu-mlid-318"><a href="/masters/academics/preapprovedcourses">Pre-approved Electives</a></li>
+<li class="leaf menu-mlid-305"><a href="/masters/academics/projectinformation">The Project</a></li>
+<li class="last leaf menu-mlid-476"><a href="/masters/academics/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-455"><a href="/masters/current">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-310"><a href="/masters/current/courseenrollment">The Course Enrollment Process</a></li>
+<li class="leaf menu-mlid-479"><a href="/masters/current/advising-tips">Advising Tips</a></li>
+<li class="leaf menu-mlid-304"><a href="/masters/current/graduation-information">Graduation Information</a></li>
+<li class="leaf menu-mlid-244"><a href="/masters/current/faq">FAQ</a></li>
+<li class="leaf menu-mlid-506"><a href="/masters/current/meng-lab">M.Eng Lab</a></li>
+<li class="last leaf menu-mlid-510"><a href="/masters/current/meng-forms">MEng Forms</a></li>
+</ul></li>
+<li class="leaf menu-mlid-473"><a href="/masters/entrepreneurism">Entrepreneurship</a></li>
+<li class="leaf menu-mlid-472"><a href="/masters/nyc">Cornell Tech Programs</a></li>
+<li class="leaf menu-mlid-504"><a href="/masters/professional-development">Professional Development</a></li>
+<li class="leaf menu-mlid-616"><a href="/masters/contact-us">Contact Us</a></li>
+<li class="last leaf menu-mlid-2061"><a href="/masters/cs-meng-alumni">CS MEng Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-503 student-menu-link"><a href="/ms">MS</a><ul class="menu"><li class="first expanded menu-mlid-500"><a href="/ms/admissions" target="_parent">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-501"><a href="/ms/admissions/applicant-faq" target="_parent">Applicant FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2571"><a href="/ms/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-1686"><a href="http://test.cs.cornell.edu/sites/default/files/shared/MS%20Checklist.pdf">MS Degree Checklist</a></li>
+<li class="leaf menu-mlid-1681"><a href="/ms/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="last leaf menu-mlid-502"><a href="/ms/degree-requirements" target="_parent">Degree Requirements</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2821"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-1371"><a href="/ms/graduation-information">Graduation Information</a></li>
+<li class="last leaf menu-mlid-1361"><a href="/ms/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-269 student-menu-link"><a href="/phd">PhD</a><ul class="menu"><li class="first expanded menu-mlid-253"><a href="/phd/admissions">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-329"><a href="/phd/faq">Ph.D. Applicant FAQ</a></li>
+<li class="leaf menu-mlid-1301"><a href="/phd/admissions/non-degree-application-guidelines">Non-Degree Application Guidelines</a></li>
+<li class="leaf menu-mlid-489"><a href="https://gradschool.cornell.edu/admissions/admitted-students/living-in-ithaca/housing/" class="outlink">Graduate Housing</a></li>
+<li class="last leaf menu-mlid-487"><a href="http://www.cs.cornell.edu/projects/phdvisit/" class="outlink divider">Ph. D. Visit Day</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2570"><a href="/phd/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-2888"><a href="/phd/current-students/phd-requirements">Ph.D. Requirements</a></li>
+<li class="leaf menu-mlid-2051"><a href="/phd/current-students/special-committee-selection">Special Committee Selection</a></li>
+<li class="leaf menu-mlid-1306"><a href="/phd/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="leaf menu-mlid-491"><a href="http://www.cs.cornell.edu/grad/GradForms/A%20Exam%20Summary%20Form.pdf">Field A Exam Summary Form</a></li>
+<li class="leaf menu-mlid-1366"><a href="/phd/current-students/cornelltech">CornellTech</a></li>
+<li class="leaf menu-mlid-3204"><a href="/phd/current-students/travel-funding-opportunities">Travel Funding Opportunities</a></li>
+<li class="leaf menu-mlid-488"><a href="http://www.gradschool.cornell.edu/forms" class="outlink">Graduate School Forms</a></li>
+<li class="last leaf menu-mlid-3706"><a href="/phd/current-students/fellowship-opportunities">Fellowship Opportunities</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2820"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-336"><a href="/phd/graduation">Graduation Information</a></li>
+<li class="leaf menu-mlid-317"><a href="/phd/minor">Graduate Minor</a></li>
+<li class="leaf menu-mlid-3516"><a href="/phd/outreach-programs">Outreach Opportunities</a></li>
+<li class="leaf menu-mlid-1731"><a href="http://studentswithfamilies.cornell.edu/policies/parental-accommodation-policy/">Parental Accommodation Policy</a></li>
+<li class="leaf menu-mlid-273"><a href="/phd/specialmasters">Special Masters</a></li>
+<li class="last leaf menu-mlid-1356"><a href="/phd/contact-us">Contact Us</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+      </nav>
+    </div>
+  </main>
+
+<section id="bottom-content" class="container">
+  </section>
+
+<footer>
+    <div class="tint">
+        <div class="container">
+            <div class="footer row">
+                <div class="col-sm-4">
+                      <div class="region region-footer">
+    <div id="block-menu-menu-footer" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/saml_login?destination=home">NetID Login (internal use only)</a></li>
+<li class="last leaf"><a href="/information/contactus">Contact Us</a></li>
+</ul>  </div>
+</div>
+  </div>
+                </div>
+                <div class="col-sm-4 footer-logo">
+                    <a href="http://cis.cornell.edu/">
+                        <img alt="Cornell Computing and Information Science" src="/profiles/cu_cs/themes/awp_cs/images/cis_mark.png">
+                    </a>
+                </div>
+                <div class="col-sm-4 footer-logo footer-right">
+                    <a href="http://tech.cornell.edu/">
+                        <img alt=Cornell Tech" src="/profiles/cu_cs/themes/awp_cs/images/cornell_tech_mark.png">
+                    </a>
+                </div>
+            </div>
+            <div class="subfooter">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="footer-divider"></div>
+                    </div>
+                    <div class="col-sm-3">
+                        &copy; 2019                                                    Cornell University                                            </div>
+                    <div class="col-sm-6 footer-center">
+                                                    402 Gates Hall, Cornell University, Ithaca, NY 14853                                            </div>
+                    <div class="col-sm-3 footer-right">
+                          <div class="region region-sub-footer">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="social-links">
+	<li class="twitter"><a href="http://twitter.com/cs_cornell"><span aria-hidden="true" class="fa fa-twitter"><span class="sr-only">Follow us on Twitter</span></span></a></li>
+	<li class="facebook"><a href="http://fb.me/cscornell"><span aria-hidden="true" class="fa fa-facebook"><span class="sr-only">Like us on Facebook</span></span></a></li>
+</ul>
+  </div>
+</div>
+  </div>
+                    </div>
+                </div>
+
+                <div class="accessibility-statement">
+                                            If you have a disability and are having trouble accessing information on this website or need materials in an alternate format, contact <a href="mailto:web-accessibility@cornell.edu">web-accessibility@cornell.edu</a> for assistance.                                    </div>
+            </div>
+        </div>
+    </div>
+</footer>
+  <script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_dF8gZtzerefB4ycisHf9ri4JpFPblAQigxO1qTZfP9E.js"></script>
+</body>
+</html>

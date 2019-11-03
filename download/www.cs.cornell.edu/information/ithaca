@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" lang="en"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en"><!--<![endif]-->
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.cs.cornell.edu/information/ithaca" />
+<link rel="shortlink" href="/node/10" />
+<link rel="shortcut icon" href="https://www.cs.cornell.edu/profiles/cu_cs/themes/awp_cs/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Information about Ithaca | Department of Computer Science</title>
+  <link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_EPsgvacVXxxhwhLr4DGj8P1D4es4L_QnnRJPHn_TJHE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_xfVTEOnd6ViwoVCLsQuTjNv7zrf-KSi-vmQ9jeRnH8A.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_MO9SZDHEEo6xDKFoCg3L1ZH1jaFg7DSCG9fp_s9Y3Nc.css" media="all" />
+  <script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js"></script>
+<script type="text/javascript" src="https://embanner.univcomm.cornell.edu/OWC-emergency-banner.js"></script>
+<script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_rsGiM5M1ffe6EhN-RnhM5f3pDyJ8ZAPFJNKpfjtepLk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-42834021-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://use.typekit.net/sib4uwp.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load({ async: true });}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_mk2BZ4FJSGMod1wMQ3Ta37-dGpMuJIDYxJe17LhcUwQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"awp_cs","theme_token":"utBayNaEiG229R2b8szRPZo-DB9yx5DoVGbs3iB12gU","js":{"profiles\/cu_cs\/edit_protection.js":1,"profiles\/cu_cs\/proxy_workarounds.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"https:\/\/embanner.univcomm.cornell.edu\/OWC-emergency-banner.js":1,"profiles\/cu_cs\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"https:\/\/use.typekit.net\/sib4uwp.js":1,"1":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/vendor\/jquery.flexslider.min.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/admin.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/awards.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/caption.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/course_filter.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/events.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/header.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/listing.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/main_menu.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/research_area.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/search.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/search_results.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/slideshow.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/cu_cs\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/cu_cs\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/cu_cs\/modules\/contrib\/views\/css\/views.css":1,"profiles\/cu_cs\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/cu_cs\/themes\/awp_cs\/css\/default.css":1,"profiles\/cu_cs\/themes\/awp_cs\/css\/home.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/information\/ithaca":true}});
+//--><!]]>
+</script>
+  <script src="//use.fontawesome.com/fe8372e268.js"></script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-10 node-type-page" >
+  <nav class="skiplink" id="skip-link" aria-label="Skip to Content">
+	  			<a href="#main-content" class="element-invisible element-focusable">Skip to Content</a>
+			</nav>
+    
+<header aria-label="Site Header">
+    <div class="container">
+      <a href="/" class="site-logo">
+        <img alt="Cornell Computer Science" src="https://www.cs.cornell.edu/profiles/cu_cs/themes/awp_cs/logo.png" class="desktop-logo img-responsive">
+        <img alt="Cornell Computer Science" src="/profiles/cu_cs/themes/awp_cs/logo_mobile.png" class="mobile-logo img-responsive">
+      </a>
+        <div class="region region-header">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded active-trail menu-mlid-275"><a href="/information/about" class="active-trail">About</a><ul class="menu"><li class="first expanded menu-mlid-175"><a href="/information/news">News</a><ul class="menu"><li class="first last leaf menu-mlid-3512"><a href="http://www.cs.cornell.edu/sites/default/files/shared/cs_newsletter_spring_summer_2019.pdf">CS Newsletter Spring/Summer 2019</a></li>
+</ul></li>
+<li class="leaf menu-mlid-736"><a href="/information/research-news">Research News</a></li>
+<li class="leaf menu-mlid-320"><a href="/information/departmentlife">Department Life</a></li>
+<li class="expanded menu-mlid-325"><a href="/information/awards">Awards</a><ul class="menu"><li class="first leaf menu-mlid-961"><a href="/information/awards-by-recipient">Listed by Recipient</a></li>
+<li class="last leaf menu-mlid-966"><a href="/information/awards-by-category">Listed by Category</a></li>
+</ul></li>
+<li class="leaf menu-mlid-681"><a href="https://ecommons.cornell.edu/bitstream/handle/1813/44201/CS_Oral_History_Directory_v10Jun16.pdf?sequence=2&amp;isAllowed=y">Oral History of Cornell CS</a></li>
+<li class="expanded menu-mlid-245"><a href="/information/pubs">Publications</a><ul class="menu"><li class="first leaf menu-mlid-971"><a href="/information/publications-by-author">Books by Author</a></li>
+<li class="last leaf menu-mlid-976"><a href="/information/publications-by-year">Books Chronologically</a></li>
+</ul></li>
+<li class="expanded menu-mlid-571"><a href="/information/timeline">Department Timeline</a><ul class="menu"><li class="first leaf menu-mlid-586"><a href="http://www.cs.cornell.edu/information/timeline#60">The 60&#039;s</a></li>
+<li class="leaf menu-mlid-591"><a href="http://www.cs.cornell.edu/information/timeline#70">The 70&#039;s</a></li>
+<li class="leaf menu-mlid-596"><a href="http://www.cs.cornell.edu/information/timeline#80">The 80&#039;s</a></li>
+<li class="leaf menu-mlid-601"><a href="http://www.cs.cornell.edu/information/timeline#90">The 90&#039;s</a></li>
+<li class="leaf menu-mlid-606"><a href="http://www.cs.cornell.edu/information/timeline#00">The 00&#039;s</a></li>
+<li class="last leaf menu-mlid-611"><a href="http://www.cs.cornell.edu/information/timeline#10">The 2010&#039;s</a></li>
+</ul></li>
+<li class="leaf menu-mlid-277"><a href="/information/annualreports">Annual Reports</a></li>
+<li class="expanded menu-mlid-299"><a href="/information/jobpostings">Job Postings</a><ul class="menu"><li class="first leaf menu-mlid-323"><a href="/information/jobpostings/facultypositionsithaca">Faculty Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-2890"><a href="/information/jobpostings/lecturer-positions-ithaca">Lecturer Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-327"><a href="/information/jobpostings/facultypositionsnyctech">Faculty Positions: New York City</a></li>
+<li class="leaf menu-mlid-2500"><a href="/information/jobpostings/postdocpositionsithaca">Post-doc Position: Ithaca</a></li>
+<li class="leaf menu-mlid-343"><a href="https://www.hr.cornell.edu/jobs/positions.html" class="outlink">Staff/Technical Positions</a></li>
+<li class="last leaf menu-mlid-661"><a href="https://www.cs.cornell.edu/undergrad/ugradcoursestaff ">Ugrad Course Staff</a></li>
+</ul></li>
+<li class="leaf active-trail active menu-mlid-246"><a href="/information/ithaca" class="active-trail active">Ithaca Info</a></li>
+<li class="last leaf menu-mlid-498"><a href="https://confluence.cornell.edu/display/csdinfo/CSD+Info+Home">Internal info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-324"><a href="/events">Events</a><ul class="menu"><li class="first leaf menu-mlid-986"><a href="/events/calendar">Calendar</a></li>
+<li class="leaf menu-mlid-3450"><a href="http://www.cs.cornell.edu/node/10412">Graduation Information</a></li>
+<li class="leaf menu-mlid-2499"><a href="/content/cornell-tech-colloquium-6">Cornell Tech Colloquium</a></li>
+<li class="leaf menu-mlid-2951"><a href="/content/student-colloquium">Student Colloquium</a></li>
+<li class="leaf menu-mlid-621"><a href="http://boom.cornell.edu/">BOOM</a></li>
+<li class="collapsed menu-mlid-3638"><a href="/content/fall-2019-colloquium">CS Colloquium</a></li>
+<li class="expanded menu-mlid-2502"><a href="/content/workshop/sonic">SoNIC Workshop</a><ul class="menu"><li class="first leaf menu-mlid-2503"><a href="http://www.cornell.edu/visiting/">Visiting Cornell University</a></li>
+<li class="leaf menu-mlid-2504"><a href="http://www.cs.cornell.edu">Cornell Computer Science</a></li>
+<li class="leaf menu-mlid-2505"><a href="http://www.visitithaca.com/group-attractions/">Ithaca Attractions</a></li>
+<li class="leaf menu-mlid-2507"><a href="http://www.ithacamenus.com/">Area Restaurants</a></li>
+<li class="leaf menu-mlid-2506"><a href="http://www.cs.cornell.edu/information/ithaca">Things to do in Ithaca</a></li>
+<li class="leaf menu-mlid-2508"><a href="https://www.cornell.edu/about/maps/">Campus Map</a></li>
+<li class="last leaf menu-mlid-2574"><a href="http://www.cs.cornell.edu/sites/default/files/shared/sonic_flyer_2019.pdf">SoNIC Flyer</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1711"><a href="/events/conway">Conway-Walker Lecture Series</a></li>
+<li class="leaf menu-mlid-1706"><a href="/events/saltonseries">Salton Lecture Series</a></li>
+<li class="expanded menu-mlid-292"><a href="/events/sems">Seminars / Lectures</a><ul class="menu"><li class="first leaf menu-mlid-3640"><a href="/content/fall-2019-artificial-intelligence-seminar">AI (Artificial Intelligence) Seminar</a></li>
+<li class="last leaf menu-mlid-3641"><a href="/content/fall-2019-theory-seminar">Theory Seminar</a></li>
+</ul></li>
+<li class="leaf menu-mlid-546"><a href="http://www.bigredhacks.com/">Big Red Hacks</a></li>
+<li class="expanded menu-mlid-516"><a href="/events/50years">50th Anniversary Symposium</a><ul class="menu"><li class="first leaf menu-mlid-551"><a href="/events/50years/speakers">Speaker Bios</a></li>
+<li class="leaf menu-mlid-561"><a href="/events/50years/abstracts">Titles/Abstracts</a></li>
+<li class="leaf menu-mlid-2434"><a href="https://www.flickr.com/gp/138617394@N06/L93xc4 ">Photos</a></li>
+<li class="last leaf menu-mlid-2433"><a href="http://www.cs.cornell.edu/events/50years/schedule">Schedule of talks with videos</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-507"><a href="/events/cornell-high-school-programming-contest">Cornell University High School Pr

@@ -1,0 +1,1653 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" lang="en"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en"><!--<![endif]-->
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.cs.cornell.edu/information/publications-by-year" />
+<link rel="shortcut icon" href="https://www.cs.cornell.edu/profiles/cu_cs/themes/awp_cs/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Publications | Department of Computer Science</title>
+  <link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_EPsgvacVXxxhwhLr4DGj8P1D4es4L_QnnRJPHn_TJHE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_xfVTEOnd6ViwoVCLsQuTjNv7zrf-KSi-vmQ9jeRnH8A.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_MO9SZDHEEo6xDKFoCg3L1ZH1jaFg7DSCG9fp_s9Y3Nc.css" media="all" />
+  <script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js"></script>
+<script type="text/javascript" src="https://embanner.univcomm.cornell.edu/OWC-emergency-banner.js"></script>
+<script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_rsGiM5M1ffe6EhN-RnhM5f3pDyJ8ZAPFJNKpfjtepLk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-42834021-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://use.typekit.net/sib4uwp.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load({ async: true });}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_mk2BZ4FJSGMod1wMQ3Ta37-dGpMuJIDYxJe17LhcUwQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"awp_cs","theme_token":"dGtE01ze4XMR3jl855rUwiVID2CDrI5imKM7bYEQsj4","js":{"profiles\/cu_cs\/edit_protection.js":1,"profiles\/cu_cs\/proxy_workarounds.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"https:\/\/embanner.univcomm.cornell.edu\/OWC-emergency-banner.js":1,"profiles\/cu_cs\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"https:\/\/use.typekit.net\/sib4uwp.js":1,"1":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/vendor\/jquery.flexslider.min.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/admin.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/awards.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/caption.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/course_filter.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/events.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/header.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/listing.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/main_menu.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/research_area.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/search.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/search_results.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/slideshow.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/cu_cs\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/cu_cs\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/cu_cs\/modules\/contrib\/views\/css\/views.css":1,"profiles\/cu_cs\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/cu_cs\/themes\/awp_cs\/css\/default.css":1,"profiles\/cu_cs\/themes\/awp_cs\/css\/home.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/information\/publications-by-year":true}});
+//--><!]]>
+</script>
+  <script src="//use.fontawesome.com/fe8372e268.js"></script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-information page-information-publications-by-year" >
+  <nav class="skiplink" id="skip-link" aria-label="Skip to Content">
+	  			<a href="#main-content" class="element-invisible element-focusable">Skip to Content</a>
+			</nav>
+    
+<header aria-label="Site Header">
+    <div class="container">
+      <a href="/" class="site-logo">
+        <img alt="Cornell Computer Science" src="https://www.cs.cornell.edu/profiles/cu_cs/themes/awp_cs/logo.png" class="desktop-logo img-responsive">
+        <img alt="Cornell Computer Science" src="/profiles/cu_cs/themes/awp_cs/logo_mobile.png" class="mobile-logo img-responsive">
+      </a>
+        <div class="region region-header">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded active-trail menu-mlid-275"><a href="/information/about" class="active-trail">About</a><ul class="menu"><li class="first expanded menu-mlid-175"><a href="/information/news">News</a><ul class="menu"><li class="first last leaf menu-mlid-3512"><a href="http://www.cs.cornell.edu/sites/default/files/shared/cs_newsletter_spring_summer_2019.pdf">CS Newsletter Spring/Summer 2019</a></li>
+</ul></li>
+<li class="leaf menu-mlid-736"><a href="/information/research-news">Research News</a></li>
+<li class="leaf menu-mlid-320"><a href="/information/departmentlife">Department Life</a></li>
+<li class="expanded menu-mlid-325"><a href="/information/awards">Awards</a><ul class="menu"><li class="first leaf menu-mlid-961"><a href="/information/awards-by-recipient">Listed by Recipient</a></li>
+<li class="last leaf menu-mlid-966"><a href="/information/awards-by-category">Listed by Category</a></li>
+</ul></li>
+<li class="leaf menu-mlid-681"><a href="https://ecommons.cornell.edu/bitstream/handle/1813/44201/CS_Oral_History_Directory_v10Jun16.pdf?sequence=2&amp;isAllowed=y">Oral History of Cornell CS</a></li>
+<li class="expanded active-trail menu-mlid-245"><a href="/information/pubs" class="active-trail">Publications</a><ul class="menu"><li class="first leaf menu-mlid-971"><a href="/information/publications-by-author">Books by Author</a></li>
+<li class="last leaf active-trail active menu-mlid-976"><a href="/information/publications-by-year" class="active-trail active">Books Chronologically</a></li>
+</ul></li>
+<li class="expanded menu-mlid-571"><a href="/information/timeline">Department Timeline</a><ul class="menu"><li class="first leaf menu-mlid-586"><a href="http://www.cs.cornell.edu/information/timeline#60">The 60&#039;s</a></li>
+<li class="leaf menu-mlid-591"><a href="http://www.cs.cornell.edu/information/timeline#70">The 70&#039;s</a></li>
+<li class="leaf menu-mlid-596"><a href="http://www.cs.cornell.edu/information/timeline#80">The 80&#039;s</a></li>
+<li class="leaf menu-mlid-601"><a href="http://www.cs.cornell.edu/information/timeline#90">The 90&#039;s</a></li>
+<li class="leaf menu-mlid-606"><a href="http://www.cs.cornell.edu/information/timeline#00">The 00&#039;s</a></li>
+<li class="last leaf menu-mlid-611"><a href="http://www.cs.cornell.edu/information/timeline#10">The 2010&#039;s</a></li>
+</ul></li>
+<li class="leaf menu-mlid-277"><a href="/information/annualreports">Annual Reports</a></li>
+<li class="expanded menu-mlid-299"><a href="/information/jobpostings">Job Postings</a><ul class="menu"><li class="first leaf menu-mlid-323"><a href="/information/jobpostings/facultypositionsithaca">Faculty Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-2890"><a href="/information/jobpostings/lecturer-positions-ithaca">Lecturer Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-327"><a href="/information/jobpostings/facultypositionsnyctech">Faculty Positions: New York City</a></li>
+<li class="leaf menu-mlid-2500"><a href="/information/jobpostings/postdocpositionsithaca">Post-doc Position: Ithaca</a></li>
+<li class="leaf menu-mlid-343"><a href="https://www.hr.cornell.edu/jobs/positions.html" class="outlink">Staff/Technical Positions</a></li>
+<li class="last leaf menu-mlid-661"><a href="https://www.cs.cornell.edu/undergrad/ugradcoursestaff ">Ugrad Course Staff</a></li>
+</ul></li>
+<li class="leaf menu-mlid-246"><a href="/information/ithaca">Ithaca Info</a></li>
+<li class="last leaf menu-mlid-498"><a href="https://confluence.cornell.edu/display/csdinfo/CSD+Info+Home">Internal info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-324"><a href="/events">Events</a><ul class="menu"><li class="first leaf menu-mlid-986"><a href="/events/calendar">Calendar</a></li>
+<li class="leaf menu-mlid-3450"><a href="http://www.cs.cornell.edu/node/10412">Graduation Information</a></li>
+<li class="leaf menu-mlid-2499"><a href="/content/cornell-tech-colloquium-6">Cornell Tech Colloquium</a></li>
+<li class="leaf menu-mlid-2951"><a href="/content/student-colloquium">Student Colloquium</a></li>
+<li class="leaf menu-mlid-621"><a href="http://boom.cornell.edu/">BOOM</a></li>
+<li class="collapsed menu-mlid-3638"><a href="/content/fall-2019-colloquium">CS Colloquium</a></li>
+<li class="expanded menu-mlid-2502"><a href="/content/workshop/sonic">SoNIC Workshop</a><ul class="menu"><li class="first leaf menu-mlid-2503"><a href="http://www.cornell.edu/visiting/">Visiting Cornell University</a></li>
+<li class="leaf menu-mlid-2504"><a href="http://www.cs.cornell.edu">Cornell Computer Science</a></li>
+<li class="leaf menu-mlid-2505"><a href="http://www.visitithaca.com/group-attractions/">Ithaca Attractions</a></li>
+<li class="leaf menu-mlid-2507"><a href="http://www.ithacamenus.com/">Area Restaurants</a></li>
+<li class="leaf menu-mlid-2506"><a href="http://www.cs.cornell.edu/information/ithaca">Things to do in Ithaca</a></li>
+<li class="leaf menu-mlid-2508"><a href="https://www.cornell.edu/about/maps/">Campus Map</a></li>
+<li class="last leaf menu-mlid-2574"><a href="http://www.cs.cornell.edu/sites/default/files/shared/sonic_flyer_2019.pdf">SoNIC Flyer</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1711"><a href="/events/conway">Conway-Walker Lecture Series</a></li>
+<li class="leaf menu-mlid-1706"><a href="/events/saltonseries">Salton Lecture Series</a></li>
+<li class="expanded menu-mlid-292"><a href="/events/sems">Seminars / Lectures</a><ul class="menu"><li class="first leaf menu-mlid-3640"><a href="/content/fall-2019-artificial-intelligence-seminar">AI (Artificial Intelligence) Seminar</a></li>
+<li class="last leaf menu-mlid-3641"><a href="/content/fall-2019-theory-seminar">Theory Seminar</a></li>
+</ul></li>
+<li class="leaf menu-mlid-546"><a href="http://www.bigredhacks.com/">Big Red Hacks</a></li>
+<li class="expanded menu-mlid-516"><a href="/events/50years">50th Anniversary Symposium</a><ul class="menu"><li class="first leaf menu-mlid-551"><a href="/events/50years/speakers">Speaker Bios</a></li>
+<li class="leaf menu-mlid-561"><a href="/events/50years/abstracts">Titles/Abstracts</a></li>
+<li class="leaf menu-mlid-2434"><a href="https://www.flickr.com/gp/138617394@N06/L93xc4 ">Photos</a></li>
+<li class="last leaf menu-mlid-2433"><a href="http://www.cs.cornell.edu/events/50years/schedule">Schedule of talks with videos</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-507"><a href="/events/cornell-high-school-programming-contest">Cornell University High School Programming Contest</a></li>
+<li class="last leaf menu-mlid-459"><a href="http://gdiac.cis.cornell.edu/" class="outlink">Game Design Initiative</a></li>
+</ul></li>
+<li class="expanded menu-mlid-261"><a href="/people">People</a><ul class="menu"><li class="first leaf menu-mlid-262"><a href="/people/chair">Chair</a></li>
+<li class="leaf menu-mlid-766"><a href="/people/faculty">Faculty</a></li>
+<li class="leaf menu-mlid-771"><a href="/people/researchers">Researchers</a></li>
+<li class="expanded menu-mlid-776"><a href="/people/staff">Staff</a><ul class="menu"><li class="first last leaf menu-mlid-271"><a href="https://www.cs.cornell.edu/sites/default/files/shared/faculty_support_2019-2020.pdf">Faculty Admin Support</a></li>
+</ul></li>
+<li class="leaf menu-mlid-781"><a href="/people/phdstudents">Ph.D. Students</a></li>
+<li class="leaf menu-mlid-791"><a href="/people/msstudents">M.S. Students</a></li>
+<li class="leaf menu-mlid-786"><a href="/people/mengstudents">M.Eng. Students</a></li>
+<li class="last leaf menu-mlid-796"><a href="/people/phdalumni">Ph.D. Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-252"><a href="/courseinfo">Courses</a><ul class="menu"><li class="first leaf menu-mlid-295"><a href="/courseinfo/listofcscourses">List of Courses</a></li>
+<li class="leaf menu-mlid-581"><a href="/courseinfo/enrollment">Enrollment</a></li>
+<li class="leaf menu-mlid-312"><a href="/courseinfo/examschedules">Exams</a></li>
+<li class="leaf menu-mlid-308"><a href="/courseinfo/courseandroomroster">Course and Room Roster</a></li>
+<li class="leaf menu-mlid-2437"><a href="/courseinfo/homework-hand-back-room">Homework Hand Back Room</a></li>
+<li class="last leaf menu-mlid-3637"><a href="/courseinfo/placement">CS Advanced Standing Exam</a></li>
+</ul></li>
+<li class="expanded menu-mlid-257"><a href="/research">Research</a><ul class="menu"><li class="first leaf menu-mlid-243"><a href="/research/architecture">Architecture</a></li>
+<li class="leaf menu-mlid-274"><a href="/research/ai">Artificial Intelligence</a></li>
+<li class="leaf menu-mlid-248"><a href="/research/compbio">Computational Biology</a></li>
+<li class="leaf menu-mlid-285"><a href="/research/datasystems">Database Systems</a></li>
+<li class="leaf menu-mlid-298"><a href="/research/graphics">Graphics</a></li>
+<li class="leaf menu-mlid-631"><a href="/research/humaninteraction">Human Interaction</a></li>
+<li class="leaf menu-mlid-247"><a href="/research/lang">Programming Languages</a></li>
+<li class="leaf menu-mlid-283"><a href="http://robotics.cornell.edu">Robotics</a></li>
+<li class="leaf menu-mlid-303"><a href="/research/scientif">Scientific Computing</a></li>
+<li class="leaf menu-mlid-335"><a href="/research/security">Security</a></li>
+<li class="leaf menu-mlid-251"><a href="/research/systems">Systems and Networking</a></li>
+<li class="last leaf menu-mlid-270"><a href="/research/theory">Theory of Computing</a></li>
+</ul></li>
+<li class="expanded menu-mlid-291 student-menu-link"><a href="/undergrad">Undergraduate</a><ul class="menu"><li class="first expanded menu-mlid-306"><a href="/undergrad/uadmis">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-1691"><a href="/undergrad/uadmis/becoming-cs-major">Becoming a CS Major</a></li>
+</ul></li>
+<li class="expanded menu-mlid-250"><a href="/undergrad/ustaff">Contact Us</a><ul class="menu"><li class="first last leaf menu-mlid-3208"><a href="/undergrad/ustaff/contact-academic-advisor">Contact Academic Advisor</a></li>
+</ul></li>
+<li class="leaf menu-mlid-272"><a href="/undergrad/firstcscourse">Your First CS Course</a></li>
+<li class="expanded menu-mlid-290"><a href="/undergrad/csmajor">CS Major</a><ul class="menu"><li class="first leaf menu-mlid-255"><a href="/undergrad/csmajor/usefulforms">Useful Forms</a></li>
+<li class="leaf menu-mlid-284"><a href="/undergrad/rulesandproceduresengineering/choosingyourelectives">Electives</a></li>
+<li class="leaf menu-mlid-307"><a href="/undergrad/csmajor/technicalelectives">Technical Electives</a></li>
+<li class="leaf menu-mlid-326"><a href="/undergrad/csmajor/quickchart">Quick Chart</a></li>
+<li class="leaf menu-mlid-333"><a href="/undergrad/csmajor/cswithothermajorsareas">CS with Other Majors/Areas</a></li>
+<li class="leaf menu-mlid-266"><a href="/undergrad/csmajor/transfercredits">Transfer Credits</a></li>
+<li class="leaf menu-mlid-496"><a href="/undergrad/csmajor/cs-honors-program">CS Honors Program</a></li>
+<li class="last leaf menu-mlid-3707"><a href="/undergrad/csmajor/cpt-procedure">CPT for International CS Undergrads</a></li>
+</ul></li>
+<li class="expanded menu-mlid-286"><a href="/undergrad/rulesandproceduresengineering">CS Engineering</a><ul class="menu"><li class="first last leaf menu-mlid-287"><a href="/undergrad/rulesandproceduresengineering/engineeringchecklist">Checklist</a></li>
+</ul></li>
+<li class="expanded menu-mlid-249"><a href="/undergrad/rulesandproceduresarts">CS Arts &amp; Sciences</a><ul class="menu"><li class="first last leaf menu-mlid-315"><a href="/undergrad/rulesandproceduresarts/artschecklist">Checklist</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-497"><a href="/undergrad/graduation-information">Graduation Information</a></li>
+<li class="expanded menu-mlid-475"><a href="/undergrad/minors">Minors</a><ul class="menu"><li class="first leaf menu-mlid-279"><a href="/undergrad/csminor">CS Minor</a></li>
+<li class="last leaf menu-mlid-340"><a href="/undergrad/minors/game-design-minor">Game Design Minor</a></li>
+</ul></li>
+<li class="expanded menu-mlid-322"><a href="/undergrad/cscareers">Career Information</a><ul class="menu"><li class="first leaf menu-mlid-297"><a href="/undergrad/cscareers/co-opexperiences">Co-op Program</a></li>
+<li class="last leaf menu-mlid-338"><a href="/undergrad/cscareers/placementreport">Placement Report</a></li>
+</ul></li>
+<li class="expanded menu-mlid-256"><a href="/undergrad/uresch">Undergrad Research</a><ul class="menu"><li class="first last leaf menu-mlid-288"><a href="/undergrad/uresch/registeringforcs4999">Independent Research (CS 4999)</a></li>
+</ul></li>
+<li class="leaf menu-mlid-278"><a href="/undergrad/ugroups">Student Groups</a></li>
+<li class="leaf menu-mlid-316"><a href="/undergrad/uevents">Events</a></li>
+<li class="leaf menu-mlid-242"><a href="/undergrad/computerlab">Undergraduate Learning Center</a></li>
+<li class="last leaf menu-mlid-651"><a href="/undergrad/ugradcoursestaff">UGrad Course Staff Info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-328 student-menu-link"><a href="/masters">M Eng</a><ul class="menu"><li class="first expanded menu-mlid-300"><a href="/masters/apply">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-384"><a href="/masters/apply/prerequisites">Prerequisites</a></li>
+<li class="leaf menu-mlid-385"><a href="/masters/apply/application">The Application Process</a></li>
+<li class="leaf menu-mlid-386"><a href="/masters/apply/applicationreview">The Review Process</a></li>
+<li class="leaf menu-mlid-392"><a href="/masters/apply/earlyadmission">Early Admission</a></li>
+<li class="leaf menu-mlid-387"><a href="/masters/apply/financialaid">Financial Aid</a></li>
+<li class="last leaf menu-mlid-388"><a href="/masters/apply/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-477"><a href="/masters/academics">Academics</a><ul class="menu"><li class="first leaf menu-mlid-282"><a href="/masters/academics/degreerequirements">Degree Requirements</a></li>
+<li class="leaf menu-mlid-318"><a href="/masters/academics/preapprovedcourses">Pre-approved Electives</a></li>
+<li class="leaf menu-mlid-305"><a href="/masters/academics/projectinformation">The Project</a></li>
+<li class="last leaf menu-mlid-476"><a href="/masters/academics/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-455"><a href="/masters/current">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-310"><a href="/masters/current/courseenrollment">The Course Enrollment Process</a></li>
+<li class="leaf menu-mlid-479"><a href="/masters/current/advising-tips">Advising Tips</a></li>
+<li class="leaf menu-mlid-304"><a href="/masters/current/graduation-information">Graduation Information</a></li>
+<li class="leaf menu-mlid-244"><a href="/masters/current/faq">FAQ</a></li>
+<li class="leaf menu-mlid-506"><a href="/masters/current/meng-lab">M.Eng Lab</a></li>
+<li class="last leaf menu-mlid-510"><a href="/masters/current/meng-forms">MEng Forms</a></li>
+</ul></li>
+<li class="leaf menu-mlid-473"><a href="/masters/entrepreneurism">Entrepreneurship</a></li>
+<li class="leaf menu-mlid-472"><a href="/masters/nyc">Cornell Tech Programs</a></li>
+<li class="leaf menu-mlid-504"><a href="/masters/professional-development">Professional Development</a></li>
+<li class="leaf menu-mlid-616"><a href="/masters/contact-us">Contact Us</a></li>
+<li class="last leaf menu-mlid-2061"><a href="/masters/cs-meng-alumni">CS MEng Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-503 student-menu-link"><a href="/ms">MS</a><ul class="menu"><li class="first expanded menu-mlid-500"><a href="/ms/admissions" target="_parent">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-501"><a href="/ms/admissions/applicant-faq" target="_parent">Applicant FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2571"><a href="/ms/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-1686"><a href="http://test.cs.cornell.edu/sites/default/files/shared/MS%20Checklist.pdf">MS Degree Checklist</a></li>
+<li class="leaf menu-mlid-1681"><a href="/ms/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="last leaf menu-mlid-502"><a href="/ms/degree-requirements" target="_parent">Degree Requirements</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2821"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-1371"><a href="/ms/graduation-information">Graduation Information</a></li>
+<li class="last leaf menu-mlid-1361"><a href="/ms/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-269 student-menu-link"><a href="/phd">PhD</a><ul class="menu"><li class="first expanded menu-mlid-253"><a href="/phd/admissions">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-329"><a href="/phd/faq">Ph.D. Applicant FAQ</a></li>
+<li class="leaf menu-mlid-1301"><a href="/phd/admissions/non-degree-application-guidelines">Non-Degree Application Guidelines</a></li>
+<li class="leaf menu-mlid-489"><a href="https://gradschool.cornell.edu/admissions/admitted-students/living-in-ithaca/housing/" class="outlink">Graduate Housing</a></li>
+<li class="last leaf menu-mlid-487"><a href="http://www.cs.cornell.edu/projects/phdvisit/" class="outlink divider">Ph. D. Visit Day</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2570"><a href="/phd/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-2888"><a href="/phd/current-students/phd-requirements">Ph.D. Requirements</a></li>
+<li class="leaf menu-mlid-2051"><a href="/phd/current-students/special-committee-selection">Special Committee Selection</a></li>
+<li class="leaf menu-mlid-1306"><a href="/phd/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="leaf menu-mlid-491"><a href="http://www.cs.cornell.edu/grad/GradForms/A%20Exam%20Summary%20Form.pdf">Field A Exam Summary Form</a></li>
+<li class="leaf menu-mlid-1366"><a href="/phd/current-students/cornelltech">CornellTech</a></li>
+<li class="leaf menu-mlid-3204"><a href="/phd/current-students/travel-funding-opportunities">Travel Funding Opportunities</a></li>
+<li class="leaf menu-mlid-488"><a href="http://www.gradschool.cornell.edu/forms" class="outlink">Graduate School Forms</a></li>
+<li class="last leaf menu-mlid-3706"><a href="/phd/current-students/fellowship-opportunities">Fellowship Opportunities</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2820"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-336"><a href="/phd/graduation">Graduation Information</a></li>
+<li class="leaf menu-mlid-317"><a href="/phd/minor">Graduate Minor</a></li>
+<li class="leaf menu-mlid-3516"><a href="/phd/outreach-programs">Outreach Opportunities</a></li>
+<li class="leaf menu-mlid-1731"><a href="http://studentswithfamilies.cornell.edu/policies/parental-accommodation-policy/">Parental Accommodation Policy</a></li>
+<li class="leaf menu-mlid-273"><a href="/phd/specialmasters">Special Masters</a></li>
+<li class="last leaf menu-mlid-1356"><a href="/phd/contact-us">Contact Us</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/information/publications-by-year" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-UxKlqfN4W-4BxAA05kPAI-SLwbzdArQYHf5jCFbLtsY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+    </div>
+</header>
+<div class="modal-bg"></div>
+
+    <div role="banner" id="banner">
+            <!-- If no banner image, title banner is full width with inner container -->
+        <div class="title-banner">
+            <div class="container">
+                                <h1>Publications</h1>
+                <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> < <a href="/information/about">About</a> < <a href="/information/pubs">Publications</a></div>                                    </div> <!-- close inner container -->
+            </div> <!-- close title banner -->
+    <div class="container">
+            </div>
+</div>
+
+<main class="container view-page">
+    <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="view view-publications view-id-publications view-display-id-page_1 view-dom-id-ed01854dd58489c1f7728765833ca0ee">
+            <div class="view-header">
+      <h2>View Publications by</h2> <a href="publications-by-author" class="button blue">Author</a>OR<a class="button disabled">Year</a>    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>2010</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/home/kleinber/">
+  
+  Jon  <span class="person-last-name">Kleinberg</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Networks, Crowds, and Markets: Reasoning About a Highly Connected World</em>. </span>    
+          <span>Cambridge University Press, </span>    
+          <span class="pub-year">2010</span>    
+          <span>(With David Easley)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>2009</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Christopher  <span class="person-last-name">Koch</span>
+
+  </span>
+</span>    
+          <span><em>MayMBS: A System for Managing Large Uncertain and Probabalistic Databases</em>. </span>    
+          <span>Springer-Verlag, </span>    
+          <span class="pub-year">2009</span>    
+          <span>(in Managing and Mining Uncertain Data)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Christopher  <span class="person-last-name">Koch</span>
+
+  </span>
+</span>    
+          <span><em>Logical Foundations of Web Data Extraction (Encyclopedia of Database Systems)</em>. </span>    
+          <span>Springer, </span>    
+          <span class="pub-year">2009</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/johannes">
+  
+  Johannes  <span class="person-last-name">Gehrke</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Database Management Systems, Third Edition</em>. </span>    
+          <span>McGraw-Hill, </span>    
+          <span class="pub-year">2009</span>    
+          <span>(With Raghu Ramakrishnan)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>2008</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/home/llee">
+  
+  Lillian  <span class="person-last-name">Lee</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Opinion Mining and Sentiment Analysis (Foundations and Trends in Information Retrieval)</em>. </span>    
+          <span>Now, </span>    
+          <span class="pub-year">2008</span>    
+          <span>(2(1-2), pp. 1-135 With Bo Pang.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/johannes">
+  
+  Johannes  <span class="person-last-name">Gehrke</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Classification and Regression Trees,&quot; in Encyclopedia of Data Warehousing and Mining, Second Edition</em>. </span>    
+          <span>Information Science Publishing, </span>    
+          <span class="pub-year">2008</span>    
+          <span>(Edited by Jon Wong)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>2007</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/~eva/">
+  
+  Eva  <span class="person-last-name">Tardos</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Algorithmic Game Theory</em>. </span>    
+          <span>Cambridge Univesity Press, </span>    
+          <span class="pub-year">2007</span>    
+          <span>(With Noam Nisan, Tim Roughgarden and Vijay Vazirani)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>2006</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/~kb/">
+  
+  Kavita  <span class="person-last-name">Bala</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Advanced Global Illumination, Second Edition</em>. </span>    
+          <span>AK Peters, Ltd., </span>    
+          <span class="pub-year">2006</span>    
+          <span>(With Philip Dutre and Philippe Bekaert)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/~kozen/">
+  
+  Dexter  <span class="person-last-name">Kozen</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Theory of Computation (Texts in Computer Science)</em>. </span>    
+          <span>Springer-Verlag, </span>    
+          <span class="pub-year">2006</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>2005</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/~kb/">
+  
+  Kavita  <span class="person-last-name">Bala</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Ed. Rendering Techniques</em>. </span>    
+          <span>Springer-Verlag, </span>    
+          <span class="pub-year">2005</span>    
+          <span>(With Phil Dutre)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/home/kleinber/">
+  
+  Jon  <span class="person-last-name">Kleinberg</span>
+
+      </a>
+  </span>
+ and <span class="person-reference">
+      <a href="http://www.cs.cornell.edu/~eva/">
+  
+  Eva  <span class="person-last-name">Tardos</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Algorithm Design</em>. </span>    
+          <span>Addison-Wesley, </span>    
+          <span class="pub-year">2005</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/~srm">
+  
+  Steve  <span class="person-last-name">Marschner</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>&quot;Signal Processing,&quot; in Fundamentals of Computer Graphics, Second Edition</em>. </span>    
+          <span>A.K. Peters, Ltd, </span>    
+          <span class="pub-year">2005</span>    
+          <span>(With Peter Shirley, Michael Ashikhmin, Michael Gleicher, Erik Reinhard, Kevin Sung, William Thompson and Peter Willemsen)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>2004</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Multimedia Introduction to Programming Using Java</em>. </span>    
+          <span>Springer Verlag, NY, </span>    
+          <span class="pub-year">2004</span>    
+          <span>(With Paul Gries)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>2003</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/~kb/">
+  
+  Kavita  <span class="person-last-name">Bala</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Advanced Global Illumination</em>. </span>    
+          <span>AK Peters, Ltd., </span>    
+          <span class="pub-year">2003</span>    
+          <span>(With Philip Dutre and Philippe Bekaert)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/home/halpern/">
+  
+  Joseph  <span class="person-last-name">Halpern</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Reasoning About Uncertainty</em>. </span>    
+          <span>MIT Press, </span>    
+          <span class="pub-year">2003</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>2002</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/People/tj/">
+  
+  Thorsten  <span class="person-last-name">Joachims</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Learning to Classify Text using Support Vector Machines</em>. </span>    
+          <span>Kluwer/Springer, </span>    
+          <span class="pub-year">2002</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>2000</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/wya/">
+  
+  William  <span class="person-last-name">Arms</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Digital Libraries</em>. </span>    
+          <span>MIT Press, </span>    
+          <span class="pub-year">2000</span>    
+          <span>(ISBN 0-262-01180-8)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/~kozen/">
+  
+  Dexter  <span class="person-last-name">Kozen</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Dynamic Logic</em>. </span>    
+          <span>MIT Press, </span>    
+          <span class="pub-year">2000</span>    
+          <span>(With David Harel and Jerzy Tiyryn.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>ProgramLive</em>. </span>    
+          <span>Data Description, Ithaca, NY, </span>    
+          <span class="pub-year">2000</span>    
+          <span>(A CD with over 250 recorded lectures with synched animation. With Paul Gries)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1999</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/fbs/">
+  
+  Fred  <span class="person-last-name">Schneider</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Trust in Cyberspace</em>. </span>    
+          <span>National Academy Press, </span>    
+          <span class="pub-year">1999</span>    
+          <span>(Editor)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  David  <span class="person-last-name">Schwartz</span>
+
+  </span>
+</span>    
+          <span><em>Introduction to Unix</em>. </span>    
+          <span>Prentice Hall, </span>    
+          <span class="pub-year">1999</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  David  <span class="person-last-name">Schwartz</span>
+
+  </span>
+</span>    
+          <span><em>Introduction to Maple</em>. </span>    
+          <span>Prentice Hall, </span>    
+          <span class="pub-year">1999</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1998</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Programming Concepts and Methods, PROCOMET &#039;98</em>. </span>    
+          <span>Chapman and Hall, </span>    
+          <span class="pub-year">1998</span>    
+          <span>(With William-Paul de Roever.)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1997</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/ken/">
+  
+  Ken  <span class="person-last-name">Birman</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Building Secure and Reliable Network Applications</em>. </span>    
+          <span>Manning Publishing Company and Prentice Hall, Englewood Cliffs, NJ, </span>    
+          <span class="pub-year">1997</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/~kozen/">
+  
+  Dexter  <span class="person-last-name">Kozen</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Automata and Computability</em>. </span>    
+          <span>Springer Verlag, New York, NY, </span>    
+          <span class="pub-year">1997</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/fbs/">
+  
+  Fred  <span class="person-last-name">Schneider</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>On Concurrent Programming</em>. </span>    
+          <span>Springer Verlag, New York, NY, </span>    
+          <span class="pub-year">1997</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/cv/">
+  
+  Charles  <span class="person-last-name">Van Loan</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Introduction to Scientific Computing: A Matrix Approach Using MATLAB</em>. </span>    
+          <span>Prentice Hall, Englewood Cliffs, NJ, </span>    
+          <span class="pub-year">1997</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Srinivasan  <span class="person-last-name">Keshav</span>
+
+  </span>
+</span>    
+          <span><em>An Engineering Approach to Computer Networking: ATM Networks, the Internet, and the Telephone Network</em>. </span>    
+          <span>Addison-Wesley, </span>    
+          <span class="pub-year">1997</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Nick  <span class="person-last-name">Trefethen</span>
+
+  </span>
+</span>    
+          <span><em>Numerical Linear Algebra</em>. </span>    
+          <span>SIAM, </span>    
+          <span class="pub-year">1997</span>    
+          <span>(With David Bau III.)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1995</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/home/halpern/">
+  
+  Joseph  <span class="person-last-name">Halpern</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Reasoning About Knowledge</em>. </span>    
+          <span>MIT Press, </span>    
+          <span class="pub-year">1995</span>    
+          <span>(With Ronald Fagin, Yoran Moses and Moshe Vardi.)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1994</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/ken/">
+  
+  Ken  <span class="person-last-name">Birman</span>
+
+      </a>
+  </span>
+ and <span class="person-reference">
+      <a href="https://www.cs.cornell.edu/home/rvr/">
+  
+  Robbert  <span class="person-last-name">van Renesse</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Reliable Distributed Computing with Isis Toolkit</em>. </span>    
+          <span>IEEE Computer Society Press, </span>    
+          <span class="pub-year">1994</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1993</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+ and <span class="person-reference">
+      <a href="http://www.cs.cornell.edu/fbs/">
+  
+  Fred  <span class="person-last-name">Schneider</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>A Logical Approach to Discrete Math</em>. </span>    
+          <span>Springer-Verlag, </span>    
+          <span class="pub-year">1993</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+ and <span class="person-reference">
+      <a href="http://www.cs.cornell.edu/fbs/">
+  
+  Fred  <span class="person-last-name">Schneider</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>A Logical Approach to Discrete Math</em>. </span>    
+          <span>Springer-Verlag, </span>    
+          <span class="pub-year">1993</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Richard  <span class="person-last-name">Zippel</span>
+
+  </span>
+</span>    
+          <span><em>Effective Polynomial Computation</em>. </span>    
+          <span>Kluwer Academic Publishers, </span>    
+          <span class="pub-year">1993</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1992</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  B.R.  <span class="person-last-name">Donald</span>
+
+  </span>
+</span>    
+          <span><em>Symbolic and Numerical Computation for Artificial Intelligence</em>. </span>    
+          <span>Academic Press, </span>    
+          <span class="pub-year">1992</span>    
+          <span>(With Shyam Kapur and J.L. Mundy.)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1991</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/~kozen/">
+  
+  Dexter  <span class="person-last-name">Kozen</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>The Design and Analysis of Algorithms</em>. </span>    
+          <span>Springer-Verlag, </span>    
+          <span class="pub-year">1991</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Stephen  <span class="person-last-name">Vavasis</span>
+
+  </span>
+</span>    
+          <span><em>Nonlinear Optimization: Complexity Issues</em>. </span>    
+          <span>Oxford Science Publications, </span>    
+          <span class="pub-year">1991</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1990</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  B.R.  <span class="person-last-name">Donald</span>
+
+  </span>
+</span>    
+          <span><em>Robotics</em>. </span>    
+          <span>American Mathematical Society, </span>    
+          <span class="pub-year">1990</span>    
+          <span>(With J. Baillieul, R.W. Brockett, David Martin, Daniel Murray, Manish Raghavan and S. Shankar Sastry.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Thomas F.  <span class="person-last-name">Coleman</span>
+
+  </span>
+</span>    
+          <span><em>Large-Scale Numerical Optimization</em>. </span>    
+          <span>SIAM, </span>    
+          <span class="pub-year">1990</span>    
+          <span>(With Yunpeng Li.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Beauty is our Business</em>. </span>    
+          <span>Springer-Verlag, </span>    
+          <span class="pub-year">1990</span>    
+          <span>(Editors. With Wim Feijen, Dipendra Kumar Misra and A.J.M. van Gasteren.)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1989</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/cv/">
+  
+  Charles  <span class="person-last-name">Van Loan</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Matrix Computations</em>. </span>    
+          <span>John Hopkins University Press, </span>    
+          <span class="pub-year">1989</span>    
+          <span>(With Gene Golub.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/info/people/tt/tim_teitelbaum.html">
+  
+  Tim  <span class="person-last-name">Teitelbaum</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>The Synthesizer Generator: A System for Constructing Language-Based Editors</em>. </span>    
+          <span>Springer-Verlag, </span>    
+          <span class="pub-year">1989</span>    
+          <span>(With Thomas Reps.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Gerald  <span class="person-last-name">Salton</span>
+
+  </span>
+</span>    
+          <span><em>Automatic Text Processing: The Transformation, Analysis, and Retrieval of Information by Computer</em>. </span>    
+          <span>Addison-Wesley, </span>    
+          <span class="pub-year">1989</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1986</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/home/rc/">
+  
+  Robert  <span class="person-last-name">Constable</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Implementing Mathematics with the Nuprl Proof Development System</em>. </span>    
+          <span>Prentice Hall, </span>    
+          <span class="pub-year">1986</span>    
+          <span>(With Stuart Allen, H.M. Bromley, Walter Cleaveland, James Cremer, Robert Harper Douglas Howe, Todd Knoblock, Paul Mendler, P. Pandangaden, James Sasaki, and Scott Smith.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Nick  <span class="person-last-name">Trefethen</span>
+
+  </span>
+</span>    
+          <span><em>Numerical Conformal Mapping</em>. </span>    
+          <span>Elsevier Science Publishers, </span>    
+          <span class="pub-year">1986</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1984</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/cv/">
+  
+  Charles  <span class="person-last-name">Van Loan</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Matrix Computations</em>. </span>    
+          <span>John Hopkins University Press, </span>    
+          <span class="pub-year">1984</span>    
+          <span>(With Gene Golub.)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1983</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/jeh/">
+  
+  John  <span class="person-last-name">Hopcroft</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Data Structures and Algorithms</em>. </span>    
+          <span>Addison-Wesley, </span>    
+          <span class="pub-year">1983</span>    
+          <span>(With Alfred Aho and Jeffrey Ullman.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Gerald  <span class="person-last-name">Salton</span>
+
+  </span>
+</span>    
+          <span><em>Introduction to Modern Information Retrieval</em>. </span>    
+          <span>McGraw-Hill, </span>    
+          <span class="pub-year">1983</span>    
+          <span>(With Michael J. Mcgill.)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1981</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>The Science of Programming</em>. </span>    
+          <span>Springer-Verlag, </span>    
+          <span class="pub-year">1981</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+ and <span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>A Primer on PASCAL, 2nd edition</em>. </span>    
+          <span>Winthrop Publishing, </span>    
+          <span class="pub-year">1981</span>    
+          <span>(With Carl Zimmerman.)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1979</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/info/people/tt/tim_teitelbaum.html">
+  
+  Tim  <span class="person-last-name">Teitelbaum</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>The Cornell Program Synthesizer: A Tutorial Introduction</em>. </span>    
+          <span>Cornell University, </span>    
+          <span class="pub-year">1979</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+</span>    
+          <span><em>Programming for Poets: Using Basic</em>. </span>    
+          <span>Winthrop Press, </span>    
+          <span class="pub-year">1979</span>    
+          <span>(With James Archer.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+</span>    
+          <span><em>Programming for Poets: Using Pascal</em>. </span>    
+          <span>Winthrop Press, </span>    
+          <span class="pub-year">1979</span>    
+          <span>(With James Archer.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+ and <span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>An Introduction to Microprocessor Programming</em>. </span>    
+          <span>Winthrop Press, </span>    
+          <span class="pub-year">1979</span>    
+          <span>(With C. Bass and M. Fay.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+ and <span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+</span>    
+          <span><em>An Introduction to Programming: A Structured Approach Using PL/I and PL/C</em>. </span>    
+          <span>Winthrop Press, </span>    
+          <span class="pub-year">1979</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1978</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/home/rc/">
+  
+  Robert  <span class="person-last-name">Constable</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>A Programming Logic</em>. </span>    
+          <span>Winthrop Publishing, </span>    
+          <span class="pub-year">1978</span>    
+          <span>(With M.J. O&#039;Donnell.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/home/rc/">
+  
+  Robert  <span class="person-last-name">Constable</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>PL/CV2 Program Verifier Reference Manual. Computer Science Department</em>. </span>    
+          <span>Cornell University, </span>    
+          <span class="pub-year">1978</span>    
+          <span>(With Donald Johnson.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+</span>    
+          <span><em>Programming for Poets: A Gentle Introduction using PL/I</em>. </span>    
+          <span>Winthrop Press, </span>    
+          <span class="pub-year">1978</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+</span>    
+          <span><em>Programming for Poets: A Gentle Introduction using FORTRAN</em>. </span>    
+          <span>Winthrop Publishing, </span>    
+          <span class="pub-year">1978</span>    
+          <span>(With James Archer.)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1977</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+</span>    
+          <span><em>A Primer on Disciplined Programming</em>. </span>    
+          <span>Winthrop Publishing, </span>    
+          <span class="pub-year">1977</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+ and <span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Introduction to Structured Programming, Using SP/k</em>. </span>    
+          <span>Winthrop Publishing, </span>    
+          <span class="pub-year">1977</span>    
+          <span>(With D. Wortman.)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1976</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+ and <span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Primer on Structured Programming</em>. </span>    
+          <span>Winthrop Publishing, </span>    
+          <span class="pub-year">1976</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+ and <span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Primer on PASCAL</em>. </span>    
+          <span>Winthrop Publishing, </span>    
+          <span class="pub-year">1976</span>    
+          <span>(With Carl Zimmerman.)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1975</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Gerald  <span class="person-last-name">Salton</span>
+
+  </span>
+</span>    
+          <span><em>Dynamic Information and Library Processing</em>. </span>    
+          <span>Prentice Hall, </span>    
+          <span class="pub-year">1975</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+ and <span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+</span>    
+          <span><em>An Introduction to Programming - A Structured Approach. 2nd edition</em>. </span>    
+          <span>Winthrop Publishing, </span>    
+          <span class="pub-year">1975</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1974</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/jeh/">
+  
+  John  <span class="person-last-name">Hopcroft</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>The Design and Analysis of Computer Algorithms</em>. </span>    
+          <span>Addison-Wesley, </span>    
+          <span class="pub-year">1974</span>    
+          <span>(With Alfred Aho and Jeffrey Ullman.)</span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1973</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+ and <span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>An Introduction to Programming: A Structured Approach Using PL/I and PL/C</em>. </span>    
+          <span>Winthrop Publishing, </span>    
+          <span class="pub-year">1973</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+ and <span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+</span>    
+          <span><em> An Introduction to Programming</em>. </span>    
+          <span>Winthrop Publishing, </span>    
+          <span class="pub-year">1973</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1971</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Gerald  <span class="person-last-name">Salton</span>
+
+  </span>
+</span>    
+          <span><em>The SMART Retrieval System - Experiments in Automatic Document Processing</em>. </span>    
+          <span>Prentice Hall, </span>    
+          <span class="pub-year">1971</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+      <a href="http://www.cs.cornell.edu/gries/">
+  
+  David  <span class="person-last-name">Gries</span>
+
+      </a>
+  </span>
+</span>    
+          <span><em>Compiler Construction for Digital Computers</em>. </span>    
+          <span>John Wiley & Sons, </span>    
+          <span class="pub-year">1971</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1968</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  Gerald  <span class="person-last-name">Salton</span>
+
+  </span>
+</span>    
+          <span><em>Automatic Information Organization and Retrieval</em>. </span>    
+          <span>McGraw-Hill, </span>    
+          <span class="pub-year">1968</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  P.  <span class="person-last-name">Wegner</span>
+
+  </span>
+</span>    
+          <span><em>Programming Languages, Information Structures and Machine Organization</em>. </span>    
+          <span>McGraw-Hill, </span>    
+          <span class="pub-year">1968</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div><div class="listing">  <div class="row">
+          <div class="col-sm-4">
+        <h5>1967</h5>
+      </div>
+        <div class="col-sm-8">
+      <ul>                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  R.  <span class="person-last-name">Conway</span>
+
+  </span>
+</span>    
+          <span><em>Theory of Scheduling</em>. </span>    
+          <span>Addison-Wesley, </span>    
+          <span class="pub-year">1967</span>    
+          <span>(With W.L. Maxwell and L.W. Miller.)</span>    
+          <span class="edit-link"></span>  </li>
+                  <li class="">  
+          <span class="pub-authors"><span class="person-reference">
+  
+  P.  <span class="person-last-name">Wegner</span>
+
+  </span>
+</span>    
+          <span><em>The Structure of Programming Languages</em>. </span>    
+          <span>McGraw-Hill, </span>    
+          <span class="pub-year">1967</span>    
+          <span></span>    
+          <span class="edit-link"></span>  </li>
+              </ul>    </div>
+  </div>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+</main>
+
+<section id="bottom-content" class="container">
+  </section>
+
+<footer>
+    <div class="tint">
+        <div class="container">
+            <div class="footer row">
+                <div class="col-sm-4">
+                      <div class="region region-footer">
+    <div id="block-menu-menu-footer" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/saml_login?destination=home">NetID Login (internal use only)</a></li>
+<li class="last leaf"><a href="/information/contactus">Contact Us</a></li>
+</ul>  </div>
+</div>
+  </div>
+                </div>
+                <div class="col-sm-4 footer-logo">
+                    <a href="http://cis.cornell.edu/">
+                        <img alt="Cornell Computing and Information Science" src="/profiles/cu_cs/themes/awp_cs/images/cis_mark.png">
+                    </a>
+                </div>
+                <div class="col-sm-4 footer-logo footer-right">
+                    <a href="http://tech.cornell.edu/">
+                        <img alt=Cornell Tech" src="/profiles/cu_cs/themes/awp_cs/images/cornell_tech_mark.png">
+                    </a>
+                </div>
+            </div>
+            <div class="subfooter">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="footer-divider"></div>
+                    </div>
+                    <div class="col-sm-3">
+                        &copy; 2019                                                    Cornell University                                            </div>
+                    <div class="col-sm-6 footer-center">
+                                                    402 Gates Hall, Cornell University, Ithaca, NY 14853                                            </div>
+                    <div class="col-sm-3 footer-right">
+                          <div class="region region-sub-footer">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="social-links">
+	<li class="twitter"><a href="http://twitter.com/cs_cornell"><span aria-hidden="true" class="fa fa-twitter"><span class="sr-only">Follow us on Twitter</span></span></a></li>
+	<li class="facebook"><a href="http://fb.me/cscornell"><span aria-hidden="true" class="fa fa-facebook"><span class="sr-only">Like us on Facebook</span></span></a></li>
+</ul>
+  </div>
+</div>
+  </div>
+                    </div>
+                </div>
+
+                <div class="accessibility-statement">
+                                            If you have a disability and are having trouble accessing information on this website or need materials in an alternate format, contact <a href="mailto:web-accessibility@cornell.edu">web-accessibility@cornell.edu</a> for assistance.                                    </div>
+            </div>
+        </div>
+    </div>
+</footer>
+  <script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_dF8gZtzerefB4ycisHf9ri4JpFPblAQigxO1qTZfP9E.js"></script>
+</body>
+</html>

@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" lang="en"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en"><!--<![endif]-->
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.cs.cornell.edu/research/ai" />
+<link rel="shortlink" href="/node/58" />
+<link rel="shortcut icon" href="https://www.cs.cornell.edu/profiles/cu_cs/themes/awp_cs/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Artificial Intelligence | Department of Computer Science</title>
+  <link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_EPsgvacVXxxhwhLr4DGj8P1D4es4L_QnnRJPHn_TJHE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_xfVTEOnd6ViwoVCLsQuTjNv7zrf-KSi-vmQ9jeRnH8A.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cs.cornell.edu/sites/default/files/css/css_MO9SZDHEEo6xDKFoCg3L1ZH1jaFg7DSCG9fp_s9Y3Nc.css" media="all" />
+  <script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js"></script>
+<script type="text/javascript" src="https://embanner.univcomm.cornell.edu/OWC-emergency-banner.js"></script>
+<script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_rsGiM5M1ffe6EhN-RnhM5f3pDyJ8ZAPFJNKpfjtepLk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-42834021-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript" src="https://use.typekit.net/sib4uwp.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load({ async: true });}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_mk2BZ4FJSGMod1wMQ3Ta37-dGpMuJIDYxJe17LhcUwQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"awp_cs","theme_token":"35IgCYDMT6XmwRK2w6RXPPl_NOG-j6d5t4M1xUzNUHM","js":{"profiles\/cu_cs\/edit_protection.js":1,"profiles\/cu_cs\/proxy_workarounds.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"https:\/\/embanner.univcomm.cornell.edu\/OWC-emergency-banner.js":1,"profiles\/cu_cs\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"profiles\/cu_cs\/modules\/contrib\/field_group\/field_group.js":1,"https:\/\/use.typekit.net\/sib4uwp.js":1,"1":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/vendor\/jquery.flexslider.min.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/admin.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/awards.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/caption.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/course_filter.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/events.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/header.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/listing.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/main_menu.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/research_area.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/search.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/search_results.js":1,"profiles\/cu_cs\/themes\/awp_cs\/js\/custom\/slideshow.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/cu_cs\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/cu_cs\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/cu_cs\/modules\/contrib\/views\/css\/views.css":1,"profiles\/cu_cs\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/cu_cs\/themes\/awp_cs\/css\/default.css":1,"profiles\/cu_cs\/themes\/awp_cs\/css\/home.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/research\/ai":true},"field_group":{"html-element":"full"}});
+//--><!]]>
+</script>
+  <script src="//use.fontawesome.com/fe8372e268.js"></script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-58 node-type-research-area" >
+  <nav class="skiplink" id="skip-link" aria-label="Skip to Content">
+	  			<a href="#main-content" class="element-invisible element-focusable">Skip to Content</a>
+			</nav>
+    
+<header aria-label="Site Header">
+    <div class="container">
+      <a href="/" class="site-logo">
+        <img alt="Cornell Computer Science" src="https://www.cs.cornell.edu/profiles/cu_cs/themes/awp_cs/logo.png" class="desktop-logo img-responsive">
+        <img alt="Cornell Computer Science" src="/profiles/cu_cs/themes/awp_cs/logo_mobile.png" class="mobile-logo img-responsive">
+      </a>
+        <div class="region region-header">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-275"><a href="/information/about">About</a><ul class="menu"><li class="first expanded menu-mlid-175"><a href="/information/news">News</a><ul class="menu"><li class="first last leaf menu-mlid-3512"><a href="http://www.cs.cornell.edu/sites/default/files/shared/cs_newsletter_spring_summer_2019.pdf">CS Newsletter Spring/Summer 2019</a></li>
+</ul></li>
+<li class="leaf menu-mlid-736"><a href="/information/research-news">Research News</a></li>
+<li class="leaf menu-mlid-320"><a href="/information/departmentlife">Department Life</a></li>
+<li class="expanded menu-mlid-325"><a href="/information/awards">Awards</a><ul class="menu"><li class="first leaf menu-mlid-961"><a href="/information/awards-by-recipient">Listed by Recipient</a></li>
+<li class="last leaf menu-mlid-966"><a href="/information/awards-by-category">Listed by Category</a></li>
+</ul></li>
+<li class="leaf menu-mlid-681"><a href="https://ecommons.cornell.edu/bitstream/handle/1813/44201/CS_Oral_History_Directory_v10Jun16.pdf?sequence=2&amp;isAllowed=y">Oral History of Cornell CS</a></li>
+<li class="expanded menu-mlid-245"><a href="/information/pubs">Publications</a><ul class="menu"><li class="first leaf menu-mlid-971"><a href="/information/publications-by-author">Books by Author</a></li>
+<li class="last leaf menu-mlid-976"><a href="/information/publications-by-year">Books Chronologically</a></li>
+</ul></li>
+<li class="expanded menu-mlid-571"><a href="/information/timeline">Department Timeline</a><ul class="menu"><li class="first leaf menu-mlid-586"><a href="http://www.cs.cornell.edu/information/timeline#60">The 60&#039;s</a></li>
+<li class="leaf menu-mlid-591"><a href="http://www.cs.cornell.edu/information/timeline#70">The 70&#039;s</a></li>
+<li class="leaf menu-mlid-596"><a href="http://www.cs.cornell.edu/information/timeline#80">The 80&#039;s</a></li>
+<li class="leaf menu-mlid-601"><a href="http://www.cs.cornell.edu/information/timeline#90">The 90&#039;s</a></li>
+<li class="leaf menu-mlid-606"><a href="http://www.cs.cornell.edu/information/timeline#00">The 00&#039;s</a></li>
+<li class="last leaf menu-mlid-611"><a href="http://www.cs.cornell.edu/information/timeline#10">The 2010&#039;s</a></li>
+</ul></li>
+<li class="leaf menu-mlid-277"><a href="/information/annualreports">Annual Reports</a></li>
+<li class="expanded menu-mlid-299"><a href="/information/jobpostings">Job Postings</a><ul class="menu"><li class="first leaf menu-mlid-323"><a href="/information/jobpostings/facultypositionsithaca">Faculty Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-2890"><a href="/information/jobpostings/lecturer-positions-ithaca">Lecturer Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-327"><a href="/information/jobpostings/facultypositionsnyctech">Faculty Positions: New York City</a></li>
+<li class="leaf menu-mlid-2500"><a href="/information/jobpostings/postdocpositionsithaca">Post-doc Position: Ithaca</a></li>
+<li class="leaf menu-mlid-343"><a href="https://www.hr.cornell.edu/jobs/positions.html" class="outlink">Staff/Technical Positions</a></li>
+<li class="last leaf menu-mlid-661"><a href="https://www.cs.cornell.edu/undergrad/ugradcoursestaff ">Ugrad Course Staff</a></li>
+</ul></li>
+<li class="leaf menu-mlid-246"><a href="/information/ithaca">Ithaca Info</a></li>
+<li class="last leaf menu-mlid-498"><a href="https://confluence.cornell.edu/display/csdinfo/CSD+Info+Home">Internal info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-324"><a href="/events">Events</a><ul class="menu"><li class="first leaf menu-mlid-986"><a href="/events/calendar">Calendar</a></li>
+<li class="leaf menu-mlid-3450"><a href="http://www.cs.cornell.edu/node/10412">Graduation Information</a></li>
+<li class="leaf menu-mlid-2499"><a href="/content/cornell-tech-colloquium-6">Cornell Tech Colloquium</a></li>
+<li class="leaf menu-mlid-2951"><a href="/content/student-colloquium">Student Colloquium</a></li>
+<li class="leaf menu-mlid-621"><a href="http://boom.cornell.edu/">BOOM</a></li>
+<li class="collapsed menu-mlid-3638"><a href="/content/fall-2019-colloquium">CS Colloquium</a></li>
+<li class="expanded menu-mlid-2502"><a href="/content/workshop/sonic">SoNIC Workshop</a><ul class="menu"><li class="first leaf menu-mlid-2503"><a href="http://www.cornell.edu/visiting/">Visiting Cornell University</a></li>
+<li class="leaf menu-mlid-2504"><a href="http://www.cs.cornell.edu">Cornell Computer Science</a></li>
+<li class="leaf menu-mlid-2505"><a href="http://www.visitithaca.com/group-attractions/">Ithaca Attractions</a></li>
+<li class="leaf menu-mlid-2507"><a href="http://www.ithacamenus.com/">Area Restaurants</a></li>
+<li class="leaf menu-mlid-2506"><a href="http://www.cs.cornell.edu/information/ithaca">Things to do in Ithaca</a></li>
+<li class="leaf menu-mlid-2508"><a href="https://www.cornell.edu/about/maps/">Campus Map</a></li>
+<li class="last leaf menu-mlid-2574"><a href="http://www.cs.cornell.edu/sites/default/files/shared/sonic_flyer_2019.pdf">SoNIC Flyer</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1711"><a href="/events/conway">Conway-Walker Lecture Series</a></li>
+<li class="leaf menu-mlid-1706"><a href="/events/saltonseries">Salton Lecture Series</a></li>
+<li class="expanded menu-mlid-292"><a href="/events/sems">Seminars / Lectures</a><ul class="menu"><li class="first leaf menu-mlid-3640"><a href="/content/fall-2019-artificial-intelligence-seminar">AI (Artificial Intelligence) Seminar</a></li>
+<li class="last leaf menu-mlid-3641"><a href="/content/fall-2019-theory-seminar">Theory Seminar</a></li>
+</ul></li>
+<li class="leaf menu-mlid-546"><a href="http://www.bigredhacks.com/">Big Red Hacks</a></li>
+<li class="expanded menu-mlid-516"><a href="/events/50years">50th Anniversary Symposium</a><ul class="menu"><li class="first leaf menu-mlid-551"><a href="/events/50years/speakers">Speaker Bios</a></li>
+<li class="leaf menu-mlid-561"><a href="/events/50years/abstracts">Titles/Abstracts</a></li>
+<li class="leaf menu-mlid-2434"><a href="https://www.flickr.com/gp/138617394@N06/L93xc4 ">Photos</a></li>
+<li class="last leaf menu-mlid-2433"><a href="http://www.cs.cornell.edu/events/50years/schedule">Schedule of talks with videos</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-507"><a href="/events/cornell-high-school-programming-contest">Cornell University High School Programming Contest</a></li>
+<li class="last leaf menu-mlid-459"><a href="http://gdiac.cis.cornell.edu/" class="outlink">Game Design Initiative</a></li>
+</ul></li>
+<li class="expanded menu-mlid-261"><a href="/people">People</a><ul class="menu"><li class="first leaf menu-mlid-262"><a href="/people/chair">Chair</a></li>
+<li class="leaf menu-mlid-766"><a href="/people/faculty">Faculty</a></li>
+<li class="leaf menu-mlid-771"><a href="/people/researchers">Researchers</a></li>
+<li class="expanded menu-mlid-776"><a href="/people/staff">Staff</a><ul class="menu"><li class="first last leaf menu-mlid-271"><a href="https://www.cs.cornell.edu/sites/default/files/shared/faculty_support_2019-2020.pdf">Faculty Admin Support</a></li>
+</ul></li>
+<li class="leaf menu-mlid-781"><a href="/people/phdstudents">Ph.D. Students</a></li>
+<li class="leaf menu-mlid-791"><a href="/people/msstudents">M.S. Students</a></li>
+<li class="leaf menu-mlid-786"><a href="/people/mengstudents">M.Eng. Students</a></li>
+<li class="last leaf menu-mlid-796"><a href="/people/phdalumni">Ph.D. Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-252"><a href="/courseinfo">Courses</a><ul class="menu"><li class="first leaf menu-mlid-295"><a href="/courseinfo/listofcscourses">List of Courses</a></li>
+<li class="leaf menu-mlid-581"><a href="/courseinfo/enrollment">Enrollment</a></li>
+<li class="leaf menu-mlid-312"><a href="/courseinfo/examschedules">Exams</a></li>
+<li class="leaf menu-mlid-308"><a href="/courseinfo/courseandroomroster">Course and Room Roster</a></li>
+<li class="leaf menu-mlid-2437"><a href="/courseinfo/homework-hand-back-room">Homework Hand Back Room</a></li>
+<li class="last leaf menu-mlid-3637"><a href="/courseinfo/placement">CS Advanced Standing Exam</a></li>
+</ul></li>
+<li class="expanded active-trail menu-mlid-257"><a href="/research" class="active-trail">Research</a><ul class="menu"><li class="first leaf menu-mlid-243"><a href="/research/architecture">Architecture</a></li>
+<li class="leaf active-trail active menu-mlid-274"><a href="/research/ai" class="active-trail active">Artificial Intelligence</a></li>
+<li class="leaf menu-mlid-248"><a href="/research/compbio">Computational Biology</a></li>
+<li class="leaf menu-mlid-285"><a href="/research/datasystems">Database Systems</a></li>
+<li class="leaf menu-mlid-298"><a href="/research/graphics">Graphics</a></li>
+<li class="leaf menu-mlid-631"><a href="/research/humaninteraction">Human Interaction</a></li>
+<li class="leaf menu-mlid-247"><a href="/research/lang">Programming Languages</a></li>
+<li class="leaf menu-mlid-283"><a href="http://robotics.cornell.edu">Robotics</a></li>
+<li class="leaf menu-mlid-303"><a href="/research/scientif">Scientific Computing</a></li>
+<li class="leaf menu-mlid-335"><a href="/research/security">Security</a></li>
+<li class="leaf menu-mlid-251"><a href="/research/systems">Systems and Networking</a></li>
+<li class="last leaf menu-mlid-270"><a href="/research/theory">Theory of Computing</a></li>
+</ul></li>
+<li class="expanded menu-mlid-291 student-menu-link"><a href="/undergrad">Undergraduate</a><ul class="menu"><li class="first expanded menu-mlid-306"><a href="/undergrad/uadmis">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-1691"><a href="/undergrad/uadmis/becoming-cs-major">Becoming a CS Major</a></li>
+</ul></li>
+<li class="expanded menu-mlid-250"><a href="/undergrad/ustaff">Contact Us</a><ul class="menu"><li class="first last leaf menu-mlid-3208"><a href="/undergrad/ustaff/contact-academic-advisor">Contact Academic Advisor</a></li>
+</ul></li>
+<li class="leaf menu-mlid-272"><a href="/undergrad/firstcscourse">Your First CS Course</a></li>
+<li class="expanded menu-mlid-290"><a href="/undergrad/csmajor">CS Major</a><ul class="menu"><li class="first leaf menu-mlid-255"><a href="/undergrad/csmajor/usefulforms">Useful Forms</a></li>
+<li class="leaf menu-mlid-284"><a href="/undergrad/rulesandproceduresengineering/choosingyourelectives">Electives</a></li>
+<li class="leaf menu-mlid-307"><a href="/undergrad/csmajor/technicalelectives">Technical Electives</a></li>
+<li class="leaf menu-mlid-326"><a href="/undergrad/csmajor/quickchart">Quick Chart</a></li>
+<li class="leaf menu-mlid-333"><a href="/undergrad/csmajor/cswithothermajorsareas">CS with Other Majors/Areas</a></li>
+<li class="leaf menu-mlid-266"><a href="/undergrad/csmajor/transfercredits">Transfer Credits</a></li>
+<li class="leaf menu-mlid-496"><a href="/undergrad/csmajor/cs-honors-program">CS Honors Program</a></li>
+<li class="last leaf menu-mlid-3707"><a href="/undergrad/csmajor/cpt-procedure">CPT for International CS Undergrads</a></li>
+</ul></li>
+<li class="expanded menu-mlid-286"><a href="/undergrad/rulesandproceduresengineering">CS Engineering</a><ul class="menu"><li class="first last leaf menu-mlid-287"><a href="/undergrad/rulesandproceduresengineering/engineeringchecklist">Checklist</a></li>
+</ul></li>
+<li class="expanded menu-mlid-249"><a href="/undergrad/rulesandproceduresarts">CS Arts &amp; Sciences</a><ul class="menu"><li class="first last leaf menu-mlid-315"><a href="/undergrad/rulesandproceduresarts/artschecklist">Checklist</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-497"><a href="/undergrad/graduation-information">Graduation Information</a></li>
+<li class="expanded menu-mlid-475"><a href="/undergrad/minors">Minors</a><ul class="menu"><li class="first leaf menu-mlid-279"><a href="/undergrad/csminor">CS Minor</a></li>
+<li class="last leaf menu-mlid-340"><a href="/undergrad/minors/game-design-minor">Game Design Minor</a></li>
+</ul></li>
+<li class="expanded menu-mlid-322"><a href="/undergrad/cscareers">Career Information</a><ul class="menu"><li class="first leaf menu-mlid-297"><a href="/undergrad/cscareers/co-opexperiences">Co-op Program</a></li>
+<li class="last leaf menu-mlid-338"><a href="/undergrad/cscareers/placementreport">Placement Report</a></li>
+</ul></li>
+<li class="expanded menu-mlid-256"><a href="/undergrad/uresch">Undergrad Research</a><ul class="menu"><li class="first last leaf menu-mlid-288"><a href="/undergrad/uresch/registeringforcs4999">Independent Research (CS 4999)</a></li>
+</ul></li>
+<li class="leaf menu-mlid-278"><a href="/undergrad/ugroups">Student Groups</a></li>
+<li class="leaf menu-mlid-316"><a href="/undergrad/uevents">Events</a></li>
+<li class="leaf menu-mlid-242"><a href="/undergrad/computerlab">Undergraduate Learning Center</a></li>
+<li class="last leaf menu-mlid-651"><a href="/undergrad/ugradcoursestaff">UGrad Course Staff Info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-328 student-menu-link"><a href="/masters">M Eng</a><ul class="menu"><li class="first expanded menu-mlid-300"><a href="/masters/apply">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-384"><a href="/masters/apply/prerequisites">Prerequisites</a></li>
+<li class="leaf menu-mlid-385"><a href="/masters/apply/application">The Application Process</a></li>
+<li class="leaf menu-mlid-386"><a href="/masters/apply/applicationreview">The Review Process</a></li>
+<li class="leaf menu-mlid-392"><a href="/masters/apply/earlyadmission">Early Admission</a></li>
+<li class="leaf menu-mlid-387"><a href="/masters/apply/financialaid">Financial Aid</a></li>
+<li class="last leaf menu-mlid-388"><a href="/masters/apply/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-477"><a href="/masters/academics">Academics</a><ul class="menu"><li class="first leaf menu-mlid-282"><a href="/masters/academics/degreerequirements">Degree Requirements</a></li>
+<li class="leaf menu-mlid-318"><a href="/masters/academics/preapprovedcourses">Pre-approved Electives</a></li>
+<li class="leaf menu-mlid-305"><a href="/masters/academics/projectinformation">The Project</a></li>
+<li class="last leaf menu-mlid-476"><a href="/masters/academics/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-455"><a href="/masters/current">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-310"><a href="/masters/current/courseenrollment">The Course Enrollment Process</a></li>
+<li class="leaf menu-mlid-479"><a href="/masters/current/advising-tips">Advising Tips</a></li>
+<li class="leaf menu-mlid-304"><a href="/masters/current/graduation-information">Graduation Information</a></li>
+<li class="leaf menu-mlid-244"><a href="/masters/current/faq">FAQ</a></li>
+<li class="leaf menu-mlid-506"><a href="/masters/current/meng-lab">M.Eng Lab</a></li>
+<li class="last leaf menu-mlid-510"><a href="/masters/current/meng-forms">MEng Forms</a></li>
+</ul></li>
+<li class="leaf menu-mlid-473"><a href="/masters/entrepreneurism">Entrepreneurship</a></li>
+<li class="leaf menu-mlid-472"><a href="/masters/nyc">Cornell Tech Programs</a></li>
+<li class="leaf menu-mlid-504"><a href="/masters/professional-development">Professional Development</a></li>
+<li class="leaf menu-mlid-616"><a href="/masters/contact-us">Contact Us</a></li>
+<li class="last leaf menu-mlid-2061"><a href="/masters/cs-meng-alumni">CS MEng Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-503 student-menu-link"><a href="/ms">MS</a><ul class="menu"><li class="first expanded menu-mlid-500"><a href="/ms/admissions" target="_parent">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-501"><a href="/ms/admissions/applicant-faq" target="_parent">Applicant FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2571"><a href="/ms/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-1686"><a href="http://test.cs.cornell.edu/sites/default/files/shared/MS%20Checklist.pdf">MS Degree Checklist</a></li>
+<li class="leaf menu-mlid-1681"><a href="/ms/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="last leaf menu-mlid-502"><a href="/ms/degree-requirements" target="_parent">Degree Requirements</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2821"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-1371"><a href="/ms/graduation-information">Graduation Information</a></li>
+<li class="last leaf menu-mlid-1361"><a href="/ms/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-269 student-menu-link"><a href="/phd">PhD</a><ul class="menu"><li class="first expanded menu-mlid-253"><a href="/phd/admissions">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-329"><a href="/phd/faq">Ph.D. Applicant FAQ</a></li>
+<li class="leaf menu-mlid-1301"><a href="/phd/admissions/non-degree-application-guidelines">Non-Degree Application Guidelines</a></li>
+<li class="leaf menu-mlid-489"><a href="https://gradschool.cornell.edu/admissions/admitted-students/living-in-ithaca/housing/" class="outlink">Graduate Housing</a></li>
+<li class="last leaf menu-mlid-487"><a href="http://www.cs.cornell.edu/projects/phdvisit/" class="outlink divider">Ph. D. Visit Day</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2570"><a href="/phd/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-2888"><a href="/phd/current-students/phd-requirements">Ph.D. Requirements</a></li>
+<li class="leaf menu-mlid-2051"><a href="/phd/current-students/special-committee-selection">Special Committee Selection</a></li>
+<li class="leaf menu-mlid-1306"><a href="/phd/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="leaf menu-mlid-491"><a href="http://www.cs.cornell.edu/grad/GradForms/A%20Exam%20Summary%20Form.pdf">Field A Exam Summary Form</a></li>
+<li class="leaf menu-mlid-1366"><a href="/phd/current-students/cornelltech">CornellTech</a></li>
+<li class="leaf menu-mlid-3204"><a href="/phd/current-students/travel-funding-opportunities">Travel Funding Opportunities</a></li>
+<li class="leaf menu-mlid-488"><a href="http://www.gradschool.cornell.edu/forms" class="outlink">Graduate School Forms</a></li>
+<li class="last leaf menu-mlid-3706"><a href="/phd/current-students/fellowship-opportunities">Fellowship Opportunities</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2820"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-336"><a href="/phd/graduation">Graduation Information</a></li>
+<li class="leaf menu-mlid-317"><a href="/phd/minor">Graduate Minor</a></li>
+<li class="leaf menu-mlid-3516"><a href="/phd/outreach-programs">Outreach Opportunities</a></li>
+<li class="leaf menu-mlid-1731"><a href="http://studentswithfamilies.cornell.edu/policies/parental-accommodation-policy/">Parental Accommodation Policy</a></li>
+<li class="leaf menu-mlid-273"><a href="/phd/specialmasters">Special Masters</a></li>
+<li class="last leaf menu-mlid-1356"><a href="/phd/contact-us">Contact Us</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/research/ai" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-sGfKGfx4M1h5jY8kMP2Htw7zL4XwarD_2GSDpTZXLUQ" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+    </div>
+</header>
+<div class="modal-bg"></div>
+
+    <div role="banner" id="banner" class="warm">
+            <div class="field field-name-field-banner-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://www.cs.cornell.edu/sites/default/files/styles/banner_image/public/StudentsLaptopCrop_0.jpg?itok=wj3V9YGg" width="2560" height="700" alt="" /></div></div></div>        <!-- If ther is a banner image, title banner is container-width underneath -->
+        <div class="container title-banner">
+                                <h1>Artificial Intelligence</h1>
+                <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> < <a href="/research">Research</a></div>                            </div> <!-- close title banner -->
+    <div class="container">
+            </div>
+</div>
+
+  <main id="main-content" class="container">
+        <div class="row">
+      <div class="col-sm-9 col-sm-push-3 main-content">
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-58" class="node node-research-area clearfix">
+  <div class="content clearfix">
+    <div class="related-content"><div class="field field-name-field-sidebar field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Related links</h2>
+
+<ul class="simple">
+	<li><a href="http://courses.cs.cornell.edu/cs7790">The AI seminar</a></li>
+	<li><a href="https://www.cornellcogsci.com/">Cognitive Science</a></li>
+	<li><a href="http://www.infosci.cornell.edu/">Information Science</a></li>
+	<li><a href="http://linguistics.cornell.edu/">Linguistics</a></li>
+	<li><a href="https://www.mlim-cornell.club/">Machine Learning in Medicine</a></li>
+	<li><a href="http://www.psych.cornell.edu/">Psychology</a></li>
+	<li><a href="http://www.stat.cornell.edu/">Statistics</a></li>
+</ul>
+
+<h2>Selected highlights (2002-)</h2>
+
+<h4>Best paper awards</h4>
+<style type="text/css">ul.simple { font-size: 80% }
+</style>
+<ul class="simple">
+	<li>2018: <a href="https://www.cs.cornell.edu/information/news/newsitem10034/vitaly-shmatikovs-work-privacy-machine-learning-recently-received">Caspar Bowden Award for Outstanding Rsearch in Privacy Enhancing Technologies</a></li>
+	<li>2018: <a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Data-Mining/Data-Mining-Best-Applied-Paper">INFORMS Data Mining Best Applied Paper</a></li>
+	<li>2018:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem9990/cs-phd-student-dylan-foster-awarded-best-student-paper-award-colt-2018">COLT best student paper award</a></li>
+	<li>2017: <a href="http://www.kdd.org/awards/view/2017-sigkdd-test-of-time-award-winners">KDD Test of Time Award</a></li>
+	<li>2017:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem9549/alane-suhr-cornell-mike-lewis-fair-james-yeh-cornell-and-yoav-artzi">ACL Best Resource Paper</a></li>
+	<li>2017:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem9550/gao-huang-cornell-zhuang-liu-tsinghua-kilian-weinberger-cornell-and">CVPR Best Paper Award</a></li>
+	<li>2017:<a href="https://www.cs.cornell.edu/information/news/newsitem9401/cornell-makes-strides-2017-acm-conference-web-search-and-data-mining"> WSDM Best Paper Award</a></li>
+	<li>2017: <a href="https://www.infosci.cornell.edu/information/news/newsitem347/understanding-trolling-virus">CSCW Best Paper&nbsp;Award</a></li>
+	<li>2017 INFORMS Undergraduate OR Prize</li>
+	<li>2016: <a href="https://www.cs.cornell.edu/information/news/newsitem2316/thorsten-grad-students-shuo-chen-and-tobias-schnabel-receive-awards">ICTIR Best Presentation Award</a></li>
+	<li>2016:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem2241/joachims-co-wins-sigir-test-time-award">SIGIR Test of Time award</a></li>
+	<li>2016:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem2221/leskovec-faloutsos-and-kleinberg-win-2016-sigkdd-test-time-award">KDD Test of Time award</a></li>
+	<li>2016:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem2186/ashesh-jain-wins-best-student-paper-award-cvpr">CVPR best student paper award</a></li>
+	<li>2016:&nbsp;<a href="http://www.aaai.org/Awards/classic.php">AAAI Classic Paper Award</a>&nbsp;</li>
+	<li>2016: INORMS 2016 Data Mining and Decision Analytics workshop</li>
+	<li>2016: <a href="http://www.cs.cornell.edu/information/news/newsitem2181/best-paper-award-and-invited-talk-2016-ijcai-nlp-meets-journalism">IJCAI &quot;NLP meets journalism&quot; workshop best paper award</a></li>
+	<li>2015:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem1751/serge-belongie-wins-helmholtz-prize-iccv-2015">ICCV Helmholtz Prize</a>&nbsp;(formerly Test of Time Award)&nbsp;</li>
+	<li>2015: <a href="http://www.cs.cornell.edu/information/news/newsitem1621/yoav-artzi-wins-best-paper-award-emnlp-2015">EMNLP best paper award</a></li>
+	<li>2015:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem1521/thorsten-joachims-has-won-one-three-2015-sigkdd-test-time-awards-his">KDD Test of Time award</a></li>
+	<li>2015: <a href="http://www.cs.cornell.edu/information/news/newsitem1566/kdd-2015-best-student-paper-award">KDD best student paper award</a></li>
+	<li>2015: <a href="http://www.cs.cornell.edu/information/news/newsitem1471/cornell-wins-ec-best-paper-award-second-year-running">EC best paper award</a></li>
+	<li>2015:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem1266/serge-belongie-and-colleagues-win-wacv-2015-best-paper-award">WACV vision and learning best paper award</a></li>
+	<li>2015: <a href="http://www.cccblog.org/2015/08/03/blue-sky-ideas-aaai-rss-special-workshop-on-the-50th-anniversary-of-shakey/">AAAI-RSS Special Workshop on the 50th Anniversary of Shakey Blue Skies Ideas Track Competition best paper</a></li>
+	<li>2015: INFORMS Social Media Analyitcs Best Paper competition</li>
+	<li>2014: <a href="http://www.cs.cornell.edu/information/news/newsitem1206/graduating-phd-student-anshumali-shrivastava-received-one-two-best">NIPS best paper award</a></li>
+	<li>2014:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem1151/cucs-phd-student-joshua-moore-thorsten-joachims-received-best-student">ISMIR best student paper award</a></li>
+	<li>2014:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem1021/mevlana-gemici-phd-student-won-best-paper-award-iros14-cognitive">IROS CoTeSys Cognitive Robotics Best Paper Award</a></li>
+	<li>2014:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem1016/kevin-matzen-and-noah-snavelys-paper-scene-chronology-won-one-two-best">Best paper award, ECCV</a></li>
+	<li>2014: <a href="http://www.cs.cornell.edu/information/news/newsitem966/ross-knepper-received-best-paper-award-summer-robotics-science-and">Best paper award, RSS</a></li>
+	<li>2014: <a href="http://www.cs.cornell.edu/information/news/newsitem986/paper-maximizing-spread-influence-through-social-network-2003-david">Inaugural Test of Time award, KDD</a></li>
+	<li>2014:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem856/jon-kleinberg-and-robert-kleinberg-won-best-paper-award-2014-acm">Best paper award, EC 2014</a></li>
+	<li>2013:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem730/karthik-raman-won-best-student-paper-award-sigir-2013">Best student paper award, SIGIR&nbsp;</a></li>
+	<li>2013:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem723/hema-koppula-and-ashutosh-saxena-win-best-student-paper-award" target="_blank">Best student paper award, RSS (Robotics: Science and Systems)</a></li>
+	<li>2012:&nbsp;<a href="/Information/News/NewsItem1529.htm" target="_blank">ECCV Koenderink Prize</a></li>
+	<li>2012: <a href="/Information/News/NewsItem1509.htm" target="_blank">Ray Reiter prize, KR&nbsp;</a></li>
+	<li>2012: <a href="/Information/News/NewsItem1494.htm" target="_blank">ICCV Test of Time award</a></li>
+	<li>2010: <a href="/Information/News/NewsItem1399.htm">Best paper, International Conference on Image Processing (ICIP)</a></li>
+	<li>2010: <a href="/Information/News/NewsItem1391.htm">Best student paper, Constraint Programming (CP)</a></li>
+	<li>2010: <a href="/Information/News/PedroFelzenszwalbDanHuttenlocherreceiveprizeatCVPR2010/">Longuet-Higgins (10-year paper) prize, CVPR</a></li>
+	<li>2010: Best paper, International Conference on Machine Learning and Applications (ICMLA)</li>
+	<li>2010: <a href="/Information/News/BKleinberg%2CSlivkinsandBabaioffwinBestPaperAward/">Best paper, Electronic Commerce (EC)</a></li>
+	<li>2009: <a href="/Information/News/ThorstenJoachimsandChun-NamYuwinBestPaperAward">Best paper, ECML</a></li>
+	<li>2009: <a href="/Information/News/JoeHalpernawardedtheEdsgerWDijkstraprize">Dijkstra Prize</a></li>
+	<li>2009: <a href="/Information/News/ThorstenJoachimswinsBest10-YearPaperAward">Best 10-year paper award, ICML</a></li>
+	<li>2008: <a href="/Information/News/AlexNiculescu-MizilandYogiSharmawinbestpaperaward">Best student paper, COLT</a></li>
+	<li>2007: <a href="/Information/News/CSstudentwinsBestStudentPaperAwardatECML07">Best student paper, ECML</a></li>
+	<li>2006: <a href="/Information/News/IISIresearcherswinbestpaperawardatCP2006">Best paper, Constraint Programming (CP)</a></li>
+	<li>2006: <a href="/Information/News/JoachimsreceivesKDD-06BestPaperAward">Best paper, KDD</a></li>
+	<li>2006: <a href="/Information/News/JoeHalpernwinsbestpaperaward">Best paper, KR</a></li>
+	<li>2006: <a href="/Information/News/Gomes,SabharwalandSelmantoreceiveawardatAAAI">Best paper, AAAI</a></li>
+	<li>2005: <a href="/Information/News/FiveBestPaperAwards">Best student paper, KDD</a></li>
+	<li>2005: <a href="/Information/News/FiveBestPaperAwards">Best paper, ICML</a></li>
+	<li>2005: <a href="/Information/News/FiveBestPaperAwards">Best student paper, ICML</a> (Cornell won 2 of 4)</li>
+	<li>2005: <a href="/Information/News/TechnologyResearchNewsTopPicksof2004">Citation, Technology Research News Top Picks</a></li>
+	<li>2004: <a href="/Information/News/CarlaGomesandBartSelmanreceiveDistinguishedPaperAward">Best paper, Constraint Programming</a></li>
+	<li>2004: <a href="/Information/News/ReginaBarzilayandLillianLeewinbestpaperatHLT-NAACL04">Best paper, HLT-NAACL</a></li>
+	<li>2003: Best research paper, KDD</li>
+	<li>2002: Best paper, ECCV</li>
+</ul>
+
+<h4>Other awards</h4>
+
+<ul class="simple">
+	<li>All: Multiple&nbsp;<a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5262">NSF CAREER / Young Investigator Awards</a></li>
+	<li>All: Five&nbsp;<a href="http://www.aaai.org/Awards/fellows.php">AAAI Fellows</a></li>
+	<li>All: Six<a href="http://www.sloan.org/fellowships">&nbsp;Sloan Fellows</a></li>
+	<li>All: Seven&nbsp;<a href="http://fellows.acm.org/">ACM Fellows</a></li>
+	<li>All: Five&nbsp;<a href="http://www.aaas.org/aboutaaas/fellows/">AAAS Fellows</a></li>
+	<li>All: Two NAE Fellows</li>
+	<li>All: Two IEEE Fellows</li>
+	<li>All: Two&nbsp;<a href="http://research.microsoft.com/en-us/collaboration/awards/msrff_all.aspx">Microsoft Faculty Fellows</a></li>
+	<li>All: 2&nbsp;<a href="http://www.aclweb.org/aclwiki/index.php?title=ACL_Fellows">ACL fellow</a>s</li>
+	<li>Al: 1 IMS fellow</li>
+	<li>2018: <a href="http://www.cs.cornell.edu/information/news/newsitem10180/cs-phd-student-rediet-abebe-bloombergs-ones-watch-list-associated">Bloomberg&#39;s 2018 &quot;Ones to Watch&quot;</a></li>
+	<li>2018:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem10168/phd-student-maithra-raghu-named-forbes-30-under-30-science">Forbes 30 under 30 in Science</a></li>
+	<li>2018: <a href="https://www.cs.cornell.edu/information/news/newsitem10132/bart-selman-named-president-elect-aaai">Election to AAAI President&nbsp;</a></li>
+	<li>2018: <a href="https://www.cs.cornell.edu/information/news/newsitem9980/lillian-lee-and-co-authors-bo-pang-and-shivakumar-vaithyanathan">ACL 2002-2012 Test of Time Award</a></li>
+	<li>2017: MyBridge&#39;s<a href="https://www.cs.cornell.edu/information/news/newsitem9777/phd-student-fujun-luan-and-prof-kavita-bala-project-named-2-30-amazing" style="background-color: rgb(244, 244, 244);">30 Amazing Machine Learning Projects</a></li>
+	<li>2017:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem9381/carla-gomes-group-wins-innovation-application-award-iaai-2017">IAAI Deployed Applications Award</a></li>
+	<li>2017 <a href="https://www.informs.org/ORMS-Today/Public-Articles/December-Volume-44-Number-6/INFORMS-News-Reddy-Soret-win-Undergraduate-Operations-Research-Prize">INFORMS Undergraduate Operations Research Prize</a></li>
+	<li>2017:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem8976/grokstyle-selected-cb-insights-artificial-intelligence-100-list">CB Insights AI 100 list</a></li>
+	<li>2017:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem8966/cis-professors-selected-top-10-most-influential-scholars-arnet-miner">Arnet Miner 2016 Top 10 Most Influential Scholars</a></li>
+	<li>2017: <a href="https://www.cs.cornell.edu/information/news/newsitem8941/eoin-omahony-cs-phd-15-received-informs-george-b-dantzig-dissertation">INFORMS George B. Dantzig Dissertation Award</a></li>
+	<li>2016: <a href="http://www.cs.cornell.edu/information/news/newsitem8296/cornell-techs-ramin-zabih-receives-pami-everingham-prize">PAMI Everingham&nbsp;Prize</a></li>
+	<li>2016:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem2106/cornell-founded-grokstyle-wins-ldv-vision-summit-2016-entrepreneurial">LDV Vision Summit Entrepreneurial Computer Vision Challenge</a></li>
+	<li>2016:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem1991/joseph-halpern-receives-kampé-de-fériet-award-2016">Kampé&nbsp;de Fériet Award</a></li>
+	<li>2016: <a href="http://www.cs.cornell.edu/information/news/newsitem1781/carla-gomes-heads-new-nsf-expeditions-computing-project-form">NSF Expeditions</a></li>
+	<li>2016: <a href="http://www.cs.cornell.edu/information/news/newsitem1861/robobrain-project-named-top-10-breakthrough-technologies-2016-mit">MIT Technology Review top 10 breakthrough technologies</a></li>
+	<li>2015: <a href="http://www.smithsonianmag.com/innovation/Eight-innovators-watch-2015-180953770/?no-ist">Smithsonian Top 8 Innovators</a></li>
+	<li>2015: <a href="http://www.cs.cornell.edu/information/news/newsitem1761/phd-student-sean-bell-wins-best-student-entry-microsoft-coco-2015">Microsoft COCO Detection Challenge Best Student Entry</a></li>
+	<li>2015: <a href="https://www.cs.cornell.edu/information/news/newsitem1301/keynote-and-outstanding-reviewer-awards-wsdm-2015">Outstanding Reviewer Award, WSDM</a></li>
+	<li>2014: <a href="http://www.news.cornell.edu/stories/2015/04/kleinberg-receive-allen-newell-award">ACM-AAAI Allen Newell Award</a></li>
+	<li>2013: <a href="http://www.cs.cornell.edu/information/news/newsitem725/jon-kleinberg-won-2013-acm-sigkdd-innovation-award">SIGKDD Innovation Award</a></li>
+	<li>2011: <a href="/Information/News/NewsItem1466.htm" target="_blank">Technology Review&#39;s TR35</a></li>
+	<li>2011: <a href="/Information/News/NewsItem1426.htm" target="_blank">ACM SIGART Autonomous Agents Research Award</a></li>
+	<li>2010: <a href="/Information/News/NewsItem1390.htm">White House Leading Practices Award</a></li>
+	<li>2009: <a href="http://www.news.cornell.edu/stories/May09/massive.ws.html">ONR Young Investigator Award</a></li>
+	<li>2009: <a href="/Information/News/JoachimsreceivesHumboldtFoundationsFraunhofer-BesselAward">Fraunhofer-Bessel Research Award</a></li>
+	<li>2008: <a href="http://www.news.cornell.edu/stories/Sept08/compSustain.ws.html">NSF Expeditions in Computing Award</a></li>
+	<li>2008: <a href="/Information/News/JoeHalpernco-winstheACMAAAIAllenNewellAward">Allen Newell Award</a></li>
+	<li>2007: <a href="/Information/News/2007DARPAUrbanChallengenews">DARPA Urban Challenge Finalists</a></li>
+	<li>2004: <a href="https://www.technologyreview.com/s/403122/tr-100-computing/">MIT Technology Review TR100</a></li>
+</ul>
+
+<h4>Press mentions (2009-)</h4>
+
+<ul class="simple">
+	<li>2019: <a href="http://www.cs.cornell.edu/information/news/newsitem10371/rediet-abebes-contributions-correct-ais-diversity-problem-highlighted">Boston Globe</a></li>
+	<li>2019:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem10219/uncertain-ai-more-ethical-ai-cs-professor-carla-gomes-responds">MIT Technology Review</a></li>
+	<li>2018: <a href="https://doi.org/10.1038/s41563-018-0238-7">Nature Materials</a></li>
+	<li>2018: <a href="http://www.cs.cornell.edu/information/news/newsitem10179/cs-professor-thorsten-joachims-was-interviewed-part-week-machine">This Week in Machine Learning &amp; AI&nbsp;</a></li>
+	<li>2018:&nbsp;<a href="https://www.forbes.com/sites/insights-intelai/2018/11/29/why-ai-needs-to-reflect-society/#4d6eb700450c">Forbes</a></li>
+	<li>2018:&nbsp;<a href="https://www.futurity.org/artificial-intelligence-minecraft-1906842/">Futurity</a></li>
+	<li>2018:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem10004/cs-prof-kilian-weinberger-was-recently-quoted-live-science-article">Live Science</a></li>
+	<li>2018:&nbsp;<a href="https://news.cgtn.com/news/7a6b444f326b7a6333566d54/share_p.html">CGTN</a></li>
+	<li>2018:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem9984/knepper-quoted-both-scientific-american-and-nyt-ikea-robots">New York Times</a></li>
+	<li>2018:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem9984/knepper-quoted-both-scientific-american-and-nyt-ikea-robots">Scientific American</a></li>
+	<li>2018: <a href="https://us.cnn.com/2018/04/03/health/good-people-bad-online-partner/index.html">CNN</a></li>
+	<li>2018:&nbsp;<a href="https://money.cnn.com/2018/03/21/technology/self-driving-car-safety/index.html">CNN</a></li>
+	<li>2018: <a href="https://campustechnology.com/articles/2018/03/26/what-was-that-math-student-thinking.aspx">Campus Technology</a>/THE Journal</li>
+	<li>2018: <a href="https://www.cs.cornell.edu/information/news/newsitem9978/bala-quoted-observer-ai-design-industry">The Observer</a></li>
+	<li>2018:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem9968/jon-kleinberg-quoted-spread-false-news-new-york-times-article">New York Times</a></li>
+	<li>2018:&nbsp;<a href="https://techcrunch.com/2018/03/16/grokstyles-visual-search-tech-makes-it-into-ikeas-place-ar-app/">TechCrunch</a></li>
+	<li>2017: <a href="https://www.cs.cornell.edu/information/news/newsitem9746/kavita-bala-quoted-cnn-money-article-fashion-and-technology">CNN</a></li>
+	<li>2017:&nbsp;<a href="https://www.wired.com/story/future-of-artificial-intelligence-2018">Wired</a></li>
+	<li>2017:&nbsp;<a href="https://techcrunch.com/gallery/dispatches-from-the-cutting-edge-of-computer-vision/slide/6/">TechCrunch</a></li>
+	<li>2017: <a href="https://www.cs.cornell.edu/information/news/newsitem9730/alane-suhr-interviewed-nlp-highlights-recent-work-natural-language">NLP Highlights</a></li>
+	<li>2017: <a href="https://infosci.cornell.edu/information/news/newsitem350/ny-times-brilliant-work-cornell-nlp-scholars">New York Times</a></li>
+	<li>2017: <a href="https://www.cs.cornell.edu/information/news/newsitem9694/bart-selman-quoted-two-wired-articles-tesla-crash-and-defining-hate">Wired</a></li>
+	<li>2017: <a href="https://www.technologyreview.com/s/608668/amazon-has-developed-an-ai-fashion-designer/">Technology Review</a></li>
+	<li>2017: <a href="https://www.cs.cornell.edu/information/news/newsitem9543/serge-belongie-interviewed-after-ldv-vision-summit">The Visionary</a></li>
+	<li>2017: <a href="https://www.technologyreview.com/s/608116/data-mining-100-million-instagram-photos-reveals-global-clothing-patterns/">Technology Review</a></li>
+	<li>2017: <a href="https://www.facebook.com/CornellInfoSci/posts/1364247530296292">NPR&#39;s Planet Money</a></li>
+	<li>2017: <a href="http://oe1.orf.at/programm/20170512/474372">Austria&#39;s radio station Oe1</a></li>
+	<li>2017: <a href="http://gizmodo.com/one-day-photoshop-might-let-you-instantly-copy-another-1793889339">Gizmodo</a></li>
+	<li>2017: <a href="https://www.engadget.com/2017/03/30/adobes-experimental-app-copies-one-photos-style-to-another/">Engadget</a></li>
+	<li>2017: <a href="http://www.theverge.com/2017/3/30/15124466/ai-photo-style-transfer-deep-neural-nets-adobe">The Verge</a></li>
+	<li>2017:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem9501/serge-belongie-interviewed-recent-nat-and-friends-episode">Nat and Friends</a></li>
+	<li>2017: <a href="https://www.cs.cornell.edu/information/news/newsitem9491/bart-selman-quoted-wired-article-using-human-input-training-ai-models">Wired</a></li>
+	<li>2017: <a href="https://www.cs.cornell.edu/information/news/newsitem9431/grokstyle-featured-techcrunch-article-using-computer-vision">TechCrunch</a></li>
+	<li>2017: <a href="https://www.technologyreview.com/s/603763/how-to-upgrade-judges-with-machine-learning/">Technology Review</a></li>
+	<li>2017: <a href="https://www.theatlantic.com/technology/archive/2017/03/guys-its-time-for-some-troll-theory/521046/">The Atlantic</a></li>
+	<li>2017: Public Radio International&#39;s<a href="http://blogs.wgbh.org/innovation-hub/2017/10/19/the-mind-behind-an-online-troll/"> Innovation Hub</a></li>
+	<li>2017: <a href="https://www.wsj.com/articles/were-all-internet-trolls-sometimes-1488718803">Wall Street Journal</a></li>
+	<li>2017: <a href="https://www.cs.cornell.edu/information/news/newsitem9276/selman-quoted-ny-times-tech-hospitality-industry">New York Times</a></li>
+	<li>2017:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem8971/joachims-quoted-information-week-recommendation-engines">Information Week</a></li>
+	<li>2017:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem8951/cs-prof-bart-selman-was-interviewed-recently-sirius-xm-insight-news">Sirius XM Insight News and Issues</a></li>
+	<li>2017:<a href="https://www.cs.cornell.edu/information/news/newsitem8936/cornell-cs-airwaves-ross-knepper-has-done-two-radio-interviews"> It&#39;s All About You!</a></li>
+	<li>2017: <a href="https://www.cs.cornell.edu/information/news/newsitem8936/cornell-cs-airwaves-ross-knepper-has-done-two-radio-interviews">Tech Minute with Kyle Robertson</a></li>
+	<li>2016: <a href="https://www.cs.cornell.edu/information/news/newsitem8911/selman-quoted-wsj-article-competition-computer-scientists-academia-and">Wall Street&nbsp;Journal</a></li>
+	<li>2016: <a href="https://www.wired.com/2016/09/how-to-steal-an-ai/">Wired</a></li>
+	<li>2016: <a href="https://www.cs.cornell.edu/information/news/newsitem8376/selman-quoted-science-news-article-artificial-intelligence">Science News</a></li>
+	<li>2016:&nbsp;<a href="https://www.infosci.cornell.edu/information/news/newsitem419/you-are-not-so-smart-podcast-calls-cornell-nlp-pros">You Are Not So Smart</a></li>
+	<li>2016:&nbsp;<a href="http://www.cs.cornell.edu/information/news">ScienceDaily</a></li>
+	<li>2016:&nbsp;<a href="https://www.inverse.com/article/20376-uc-berkeley-center-for-human-compatible-artificial-intelligence">Inverse</a></li>
+	<li>2016:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem2226/press-coverage-chess-and-human-mistakes-paper-anderson-kleinberg-and">Technology Review</a></li>
+	<li>2016: <a href="http://www.cs.cornell.edu/information/news/newsitem2181/best-paper-award-and-invited-talk-2016-ijcai-nlp-meets-journalism">Pacific Standard Magazine</a></li>
+	<li>2016:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem2061/bart-selman-quoted-live-science-tay-and-challenges-ai">Live Science</a></li>
+	<li>2016:&nbsp;<a href="http://ensia.com/features/three-ways-artificial-intelligence-is-helping-to-save-the-world/">Ensia</a></li>
+	<li>2016:&nbsp;<a href="https://www.cs.cornell.edu/information/news/newsitem1931/wall-street-journal-covers-work-linguistic-indicators-betrayal">Wall Steet Journal</a></li>
+	<li>2016: <a href="https://www.washingtonpost.com/news/wonk/wp/2016/02/10/how-to-change-someones-mind-according-to-science/">Washington Post</a></li>
+	<li>2016: <a href="http://www.slate.com/articles/technology/future_tense/2016/02/cornell_research_into_winning_arguments_shows_how_to_win_fights.html">Slate</a></li>
+	<li>2016: <a href="https://www.washingtonpost.com/news/the-intersect/wp/2016/02/11/how-to-win-a-facebook-argument-according-to-science/">Washington Post</a></li>
+	<li>2016: <a href="http://nymag.com/scienceofus/2016/02/subreddit-sparked-a-study-on-changing-minds.html">New York Magazine</a></li>
+	<li>2016:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem1861/robobrain-project-named-top-10-breakthrough-technologies-2016-mit">MIT Technology Review</a>&nbsp;</li>
+	<li>2015:&nbsp;<a href="http://www.technologyreview.com/news/541866/this-car-knows-your-next-misstep-before-you-make-it/">MIT Technology Review</a></li>
+	<li>2016: <a href="https://www.infosci.cornell.edu/information/news/newsitem529/talking-machines-covers-lillian-lees-wiml-keynote">Talking Machines</a></li>
+	<li>2015:&nbsp;<a href="http://www.washingtonpost.com/politics/5-things-to-know-about-artificial-intelligence-and-its-use/2015/07/28/fc6ae680-3574-11e5-b835-61ddaa99c73e_story.html">Washington Post</a></li>
+	<li>2015: <a href="http://www.cs.cornell.edu/information/news/newsitem1786/bart-selman-quoted-new-yorker-will-ai-bring-us-utopia-or-destruction">The New Yorker</a></li>
+	<li>2015:&nbsp;<a href="http://fusion.net/story/160196/the-google-photos-gorilla-fail-wont-be-the-last-time-ais-offend-us/">Fusion</a></li>
+	<li>2015: <a href="https://www.cs.cornell.edu/information/news/newsitem1721/david-mimno-talks-talking-machines-about-his-work-digital-humanities">Talking Machines</a></li>
+	<li>2015: <a href="http://www.cs.cornell.edu/information/news/newsitem1776/bart-selman-quoted-unintelligent-artificial-intelligence-business">Tech Insider</a></li>
+	<li>2015:&nbsp;<a href="http://www.cbsnews.com/news/want-your-tweets-to-go-viral-this-website-can-help/">CBS News</a></li>
+	<li>2015: <a href="http://www.cs.cornell.edu/information/news/newsitem1576/science-news-reports-vlad-niculae-and-cristian-danescu-niculesu-mizils">Science News</a>&nbsp;</li>
+	<li>2015: <a href="http://www.washingtonpost.com/news/grade-point/wp/2015/02/13/plz-rt-twitter-advice-why-comets-are-like-deep-fried-ice-cream-and-other-new-research/">Washington Post</a></li>
+	<li>2015: <a href="https://www.fastcompany.com/3042372/these-researchers-say-they-can-predict-which-tweets-will-go-viral">Fast Company</a></li>
+	<li>2015:&nbsp;<a href="http://www.wired.com/2015/01/simple-pictures-state-art-ai-still-cant-recognize/">Wired</a></li>
+	<li>2015: <a href="http://www.technologyreview.com/news/533596/smart-software-can-be-tricked-into-seeing-what-isnt-there/">MIT Technology Review</a></li>
+	<li>2015: <a href="http://www.cs.cornell.edu/information/news/newsitem1721/david-mimno-talks-talking-machines-about-his-work-digital-humanities">Talking Machines</a></li>
+	<li>2014:&nbsp;<a href="http://www.theatlantic.com/technology/archive/2014/12/how-to-fool-a-computer-with-optical-illusions/383779/">The Atlantic</a></li>
+	<li>2014:&nbsp;<a href="http://www.newscientist.com/article/dn26691-optical-illusions-fool-computers-into-seeing-things.html">New Scientist</a></li>
+	<li>2014:&nbsp;<a href="http://www.wired.com/2014/08/robobrain/">Wired</a></li>
+	<li>2014:&nbsp;<a href="http://www.cs.cornell.edu/information/news/newsitem926/upshot-section-new-york-times-recently-featured-paper-chenhao-tan">NYTimes</a></li>
+	<li>2014: <a href="http://www.cs.cornell.edu/information/news/newsitem793/ashutoshs-robot-learning-lab-featured-bbc-world-news">BBC World News</a></li>
+	<li>2013: <a href="http://www.cs.cornell.edu/information/news/newsitem765/claire-cardie-and-jiwei-lis-research-extracts-life-stories-twitter">Technology Review</a></li>
+	<li>2013:&nbsp;<a href="http://cacm.acm.org/magazines/2013/7/165484-all-the-items-fit-to-print/fulltext">CACM</a></li>
+	<li>2013: <a href="http://www.cbsnews.com/8301-205_162-57586654/robot-knows-when-to-pour-you-a-beer/">CBS</a></li>
+	<li>2013:&nbsp;<!--<a href="http://www.nbcnews.com/technology/robot-predicts-your-actions-so-it-can-help-or-pour-6C10105026">-->NBC</li>
+	<li>2013: <a href="http://techland.time.com/2013/05/29/wish-granted-this-robot-knows-when-to-pour-you-a-brewski/">Time</a></li>
+	<li>2013: <a href="http://www.economist.com/news/technology-quarterly/21578518-sensor-technology-microphones-are-designed-capture-sound-they-turn-out">The Economist</a></li>
+	<li>2012:&nbsp;<a href="/Information/News/NewsItem1530.htm" target="_blank">NYTimes</a></li>
+	<li>2012: <a href="/Information/News/NewsItem1522.htm" target="_blank">NYTimes</a></li>
+	<li>2012: <a href="/Information/News/NewsItem1521.htm" target="_blank">Nature News</a></li>
+	<li>2012: <a href="/Information/News/NewsItem1520.htm" target="_blank">Huffington Post</a></li>
+	<li>2012: <a href="/Information/News/NewsItem1514.htm" target="_blank">Slate</a></li>
+	<li>2012: <a href="/Information/News/NewsItem1503.htm" target="_blank">CACM</a></li>
+	<li>2012: <a href="/Information/News/NewsItem1499.htm" target="_blank">NBC&#39;s Today Show</a></li>
+	<li>2012: <a href="/Information/News/NewsItem1499.htm" target="_blank">NPR&#39;s Alll Things Considered</a></li>
+	<li>2011: <a href="/Information/News/NewsItem1463.htm" target="_blank">NYTimes</a></li>
+	<li>2011: <a href="https://www.fastcompany.com/1678760/get-some-therapy-from-an-app-that-reads-your-feelings-through-your-voice" target="_blank">FastCompany Co.Exist</a></li>
+	<li>2011: <a href="/Information/News/NewsItem1474.htm" target="_blank">NPR</a></li>
+	<li>2011: <a href="http://news.cnet.com/8301-17938_105-20083200-1/cornell-software-fingers-fake-online-reviews/" target="_blank">CNet</a></li>
+	<li>2011: <a href="http://cacm.acm.org/magazines/2011/7/109887-weighing-watsons-impact/fulltext" target="_blank">CACM</a></li>
+	<li>2011: <a href="http://www.nature.com/news/2011/110624/full/news.2011.378.html" target="_blank">Nature news</a></li>
+	<li>2011: <a href="/Information/News/NewsItem1454.htm" target="_blank">New Scientist</a></li>
+	<li>2010: <a href="/Information/News/LillianLeequotedinnewscientist">New Scientist</a></li>
+	<li>2010: <a href="/Information/News/SnavelyfeaturedintheNYTimes">NYTimes</a></li>
+	<li>2009: <a href="/Information/News/Tardos,RKleinberg,JKleinbergandothersinthenews">NYTimes</a></li>
+	<li>2009: <a href="/Information/News/KleinbergquotedinTheNewYorkTimes">NYTimes</a>&nbsp;(front page)</li>
+	<li>2009: <a href="http://www.nytimes.com/2009/08/24/technology/internet/24emotion.html?_r=2%26;hpw=%26;pagewanted=all">NYTimes</a></li>
+	<li>2009: <a href="/Information/News/BartSelmaninterviewedonBBCToday">BBC Today</a></li>
+	<li>2009: <a href="/Information/News/NoahSnavelyfeaturedoncnncom">CNN.com</a></li>
+	<!--<li>2008: <a href="http://www.nytimes.com/external/readwriteweb/2008/11/26/26readwriteweb-embed_ads_in_user-generated_videos_with_zunavisio.html?scp=1&amp;sq=zunavision&amp;st=cse">NYTimes</a></li>
+	<li>2007: <a href="http://www.wired.com/science/discoveries/magazine/15-12/mf_robothand?currentPage=all">Wired</a></li>
+	<li>2006: <a href="/Information/News/BartSelmanquotedinNYTimes">NYTimes</a></li>
+	<li>2005: <a href="/Information/News/SelmanandKleinberginthenews">ComputerWorld</a></li>
+	<li>2005: <a href="/Information/News/CSprofessorsinthenews">Forbes.com</a></li>
+	<li>2005: <a href="/Information/News/SelmanquotedinFortuneMagazine">Fortune</a></li>
+	<li>2005: New Scientist</li>
+	<li>2004: <a href="/Information/News/CarlaGomesquotedinChicagoTribune">Chicago Tribune</a></li>
+	<li>2003: <a href="http://www.nytimes.com/2003/12/25/technology/circuits/25next.html?ex=1387688400&amp;en=81342834d422fd23&amp;ei=5007&amp;partner=USERLAND">NYTimes</a></li>--></ul>
+</div></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><style type="text/css">ul.ailist li {list-style: none; list-style-position: inside}
+ ul.ailist { background-color: #eee; margin: 0; padding: 0.5ex 0.5ex 0 0.25ex }
+</style>
+<p>Since the early 1990&#39;s, the Cornell CS department has developed one of the leading AI groups in the world, as can be seen by our record of awards, press mentions, and other recognition. Yet, our relatively small size makes for a collaborative and cooperative environment within which a broad set of research groups flourish.&nbsp;</p>
+
+<h2>Some research groups</h2>
+
+<p>Terminology notes: a &quot;CS field member&quot; is a Cornell faculty member who can serve as the official PhD advisor (in Cornell lingo, &quot;Special Committee chair&quot;) of Cornell CS PhD students.</p>
+
+<h3>AI, ethics, and policy</h3>
+
+<ul class="ailist">
+	<li><em>Group pages:&nbsp;</em><a href="http://aipp.cis.cornell.edu/">Artificial Intelligence, Policy, and Practice (AIPP)</a>; <a href="http://www.cs.cornell.edu/courses/cs4732">Ethical and Social Issues in AI</a></li>
+	<li><em>CS field members:&nbsp;</em>&nbsp;<a href="https://www.cs.cornell.edu/~nika/">Nika Haghtalab</a>,&nbsp;<a href="https://www.cs.cornell.edu/home/halpern/">Joe Halpern</a>,&nbsp;<a href="http://www.cs.cornell.edu/home/kleinber/">Jon Kleinberg</a>, <a href="http://www.cs.cornell.edu/selman/">Bart Selman</a></li>
+	<li><em>Affiliated faculty</em>: <a href="http://solon.barocas.org/">Solon Barocas</a> (Information Science), <a href="http://www.karen-levy.net/">Karen Levy</a> (Information Science), <a href="https://nissenbaum.tech.cornell.edu/">Helen Nissenbaum</a> (Information Science)</li>
+</ul>
+
+<h3>Combinatorial search, connections to operations research and statistical physics</h3>
+
+<ul class="ailist">
+	<li><em>CS field members:</em> <a href="https://www.cs.cornell.edu/gomes/">Carla Gomes</a>, <a href="http://www.cs.cornell.edu/selman/">Bart Selman</a>, <a href="http://legacy.orie.cornell.edu/~shmoys/">David Shmoys</a></li>
+</ul>
+
+<h3>Computational sustainability</h3>
+
+<ul class="ailist">
+	<li><em>Group page:</em> <a href="http://computational-sustainability.cis.cornell.edu/">Institute for Computational Sustainability (ICS)</a></li>
+	<li><em>CS field members:</em> <a href="http://www.cs.cornell.edu/gomes/">Carla Gomes</a>, <a href="http://www.cs.cornell.edu/jeh/">John Hopcroft</a>, <a href="http://www.cs.cornell.edu/selman/">Bart Selman</a>, <a href="http://legacy.orie.cornell.edu/~shmoys/">David Shmoys</a></li>
+	<li><em>Affiliated faculty</em>: (many across Cornell and other institutions --- see ICS homepage link above)</li>
+</ul>
+
+<h3>Game and decision theory, connections to economics</h3>
+
+<ul class="ailist">
+	<li><em>CS field members:</em>&nbsp;<a href="https://people.orie.cornell.edu/sbanerjee/index.html">Siddhartha Banerjee</a>, <a href="http://www.cs.cornell.edu/~nika/">Nika Haghtalab</a>,&nbsp;<a href="http://www.cs.cornell.edu/home/halpern/">Joe Halpern</a>, <a href="http://www.cs.cornell.edu/home/kleinber/">Jon Kleinberg</a>, <a href="http://www.cs.cornell.edu/~rdk/">Robert Kleinberg</a>, <a href="http://www.cs.cornell.edu/~rafael/">Rafael Pass</a>, <a href="http://www.cs.cornell.edu/home/eva/eva.html">Eva Tardos</a></li>
+	<li><em>Affiliated faculty</em>: <a href="http://www.santafe.edu/~leb/">Larry Blume</a> (economics), <a href="https://easley.economics.cornell.edu/">David Easley</a> (economics)</li>
+</ul>
+
+<h3>Knowledge representation and reasoning</h3>
+
+<ul class="ailist">
+	<li><em>CS field members:</em>&nbsp;<a href="http://www.brachman.org/home.html">Ron Brachman</a>,&nbsp;<a href="http://www.cs.cornell.edu/home/rc/">Robert L. Constable</a>, <a href="http://www.cs.cornell.edu/home/halpern/">Joe Halpern</a>, <a href="http://www.cs.cornell.edu/selman/">Bart Selman</a></li>
+</ul>
+
+<h3>Machine learning</h3>
+
+<ul class="ailist">
+	<li><em>Group page:</em> <a href="http://machinelearning.cis.cornell.edu/index.php">Machine learning homepage</a></li>
+	<li><em>CS field members:</em>&nbsp;<a href="https://www.ece.cornell.edu/faculty-directory/jayadev-acharya">Jayadev Acharya</a>,&nbsp;<a href="http://yoavartzi.com/">Yoav Artzi</a>, <a href="http://www.cs.cornell.edu/~kb/">Kavita Bala</a>,&nbsp;<a href="http://blogs.cornell.edu/techfaculty/serge-belongie/">Serge Belongie</a>, <a href="http://www.cs.cornell.edu/~arb/">Austin Benson</a>,&nbsp;<a href="http://www.cs.cornell.edu/home/cardie/">Claire Cardie</a>, <a href="http://people.orie.cornell.edu/yudong.chen/">Yudong Chen</a>,&nbsp;<a href="http://www.cs.cornell.edu/~tanzeem/">Tanzeem Choudhury</a>, &nbsp;<a href="http://www.cs.cornell.edu/~cristian">Cristian Danescu-Niculescu-Mizil</a>, <a href="http://www.cs.cornell.edu/~cdesa/">Christopher De Sa</a>,&nbsp;<a href="http://kybele.psych.cornell.edu/~edelman/">Shimon Edelman</a>, <a href="http://www.cs.cornell.edu/gomes">Carla Gomes</a>, <a href="https://www.cs.cornell.edu/~nika/">Nika Haghtalab</a>,&nbsp;<a href="https://www.cs.cornell.edu/~hirsh/">Haym Hirsch</a>, <a href="http://www.cs.cornell.edu/jeh/">John Hopcroft</a>,&nbsp;<a href="http://www.cs.cornell.edu/People/tj/">Thorsten Joachims</a>, <a href="http://www.cs.cornell.edu/~rdk/">Bobby Kleinberg</a>,&nbsp;<a href="http://www.cs.cornell.edu/home/kleinber/">Jon Kleinberg</a>, <a href="https://dblp.org/pers/hd/k/Kuleshov:Volodymyr">Volodymyr Kuleshov</a> (joining Spring 2020)&nbsp;<a href="http://www.cs.cornell.edu/home/llee/">Lillian Lee</a>,&nbsp;<a href="https://mimno.infosci.cornell.edu/">David Mimno</a>, <a href="http://nlp.seas.harvard.edu/rush.html">Alexander M. Rush</a>,&nbsp;&nbsp;<a href="http://www.cs.cornell.edu/%7Esridharan/">Karthik Sridharan</a>, <a href="https://wensun.github.io">Wen Sun</a> (joining Fall 2020),&nbsp;<a href="https://people.orie.cornell.edu/mru8/">Madeleine Udell</a>,&nbsp;<a href="http://www.cs.cornell.edu/~kilian/">Kilian Weinberger</a></li>
+	<li><em>Affiliated faculty</em>: <a href="http://faculty.bscb.cornell.edu/~basu/">Sumanta Basu</a> (stats),&nbsp;<a href="http://www.stat.cornell.edu/~bunea/">Florentina Bunea</a> (stats),&nbsp;<a href="http://www.psych.cornell.edu/people/Faculty/mhc27.html">&nbsp;Morten Christiansen</a> (psychology), <a href="https://www.mae.cornell.edu/faculty-directory/silvia-ferrari
+">Silvia Ferrari</a> (MechE),&nbsp;&nbsp;<a href="http://people.orie.cornell.edu/pfrazier/">Peter Frazier</a> (ORIE),&nbsp;<a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> (stats), <a href="http://www.nathankallus.com/">Nathan Kallus</a> (ORIE), <a href="https://tech.cornell.edu/people/daniel-d-lee-2/">Daniel Lee</a> (ECE)&nbsp;<a href="https://davidsmatteson.com/">David Matteson</a> (stats), <a href="http://yangning.stat.cornell.edu/">Yang Ning</a> (stats),&nbsp;&nbsp;<a href="http://conf.ling.cornell.edu/mr249/">Mats Rooth</a> (linguistics), <a href="http://legacy.orie.cornell.edu/~davidr/index.html">David Ruppert</a> (ORIE/stats), <a href="http://sabuncu.engineering.cornell.edu/">Mert&nbsp;Rory Sabuncu</a> (ECE, biomedical engineering),&nbsp;<a href="http://www.math.cornell.edu/~marten/">Martin Wegkamp</a> (stats),&nbsp;<a href="https://www.ece.cornell.edu/faculty-directory/qing-zhao">Qing Zhao</a> (ECE)</li>
+</ul>
+
+<h3>Natural language processing, computational linguistics and information retrieval</h3>
+
+<ul class="ailist">
+	<li><em>Group pages:</em> <a href="http://nlp.cornell.edu">NLP homepage</a>,&nbsp;<a href="http://conf.ling.cornell.edu/compling/">Computational linguistics lab</a></li>
+	<li><em>CS field members: </em><a href="http://yoavartzi.com">Yoav Artzi</a>,&nbsp;<a href="http://www.cs.cornell.edu/home/cardie/">Claire Cardie</a>, <a href="http://www.cs.cornell.edu/~cristian/">Cristian Danescu-Niculescu-Mizil</a>,&nbsp;<a href="http://kybele.psych.cornell.edu/~edelman/">Shimon Edelman</a>, <a href="http://www.cs.cornell.edu/People/tj/">Thorsten Joachims</a>,&nbsp;<a href="http://www.cs.cornell.edu/home/llee">Lillian Lee</a>, &nbsp;<a href="http://mimno.infosci.cornell.edu">David Mimno</a>, Martha Pollack,&nbsp;<a href="http://nlp.seas.harvard.edu/rush.html">Alexander M. Rush</a>,&nbsp;&nbsp;<a href="http://www.itrummer.org/">Immanuel Trummer</a></li>
+	<li><em>Affiliated faculty</em>: <a href="http://www.psych.cornell.edu/people/Faculty/mhc27.html">Morten Christiansen</a> (psychology), <a href="https://physics.cornell.edu/paul-ginsparg">Paul Ginsparg</a> (physics, information science), &nbsp;<a href="http://conf.ling.cornell.edu/mr249/">Mats Rooth</a> (linguistics), <a href="https://vansky.github.io/">Marten van Schijndel</a> (linguistics)</li>
+</ul>
+
+<h3>Robotics</h3>
+
+<ul class="ailist">
+	<li><em>Group pages:</em> <a href="http://robotics.cornell.edu/">Robotics homepage</a>, <a href="https://riglab.infosci.cornell.edu">Robots in Groups homepage</a></li>
+	<li><em>CS field members:</em>&nbsp;<a href="http://guyhoffman.com/">Guy Hoffman</a>,&nbsp;<a href="http://www.cs.cornell.edu/~dph/">Dan Huttenlocher</a>, Malte Jung,&nbsp;&nbsp;<a href="http://www.cs.cornell.edu/~rak/">Ross Knepper</a>,&nbsp;<a href="http://verifiablerobotics.com">Hadas Kress-Gazit</a>, <a href="https://cei.ece.cornell.edu/members/kirstin-h-petersen/">Kirstin Peterson</a>,&nbsp;<a href="https://wensun.github.io">Wen Sun</a> (joining Fall 2020)</li>
+	<li><em>Affiliated faculty</em>: <a href="https://campbell.mae.cornell.edu/">Mark Campbell</a> (mechanical and aerospace engineering), <a href="https://www.mae.cornell.edu/faculty-directory/silvia-ferrari">Silvia Ferrari</a>, <a href="https://tech.cornell.edu/people/daniel-d-lee-2/">Daniel Lee</a> (ECE)&nbsp;&nbsp;<a href="http://ruina.tam.cornell.edu/">Andy Ruina</a> (mechanical and aerospace engineering), <a href="https://orl.mae.cornell.edu">Robert Shepherd</a>&nbsp;(mechanical and aerospace engineering)</li>
+</ul>
+
+<h3>Vision</h3>
+
+<ul class="ailist">
+	<li><em>Group pages:</em> <a href="http://vision.cornell.edu">Computer vision homepage</a></li>
+	<li><em>CS field members:</em>&nbsp;<a href="http://www.cs.cornell.edu/~kb">Kavita Bala</a>,&nbsp;<a href="http://blogs.cornell.edu/techfaculty/serge-belongie/">Serge Belongie</a>, &nbsp;<a href="http://kybele.psych.cornell.edu/~edelman/">Shimon Edelman</a>, &nbsp;<a href="http://home.bharathh.info">Bharath Hariharan</a>,&nbsp;<a href="http://www.cs.cornell.edu/~snavely/">Noah Snavely</a>, <a href="http://www.cs.cornell.edu/rdz/">Ramin Zabih </a></li>
+	<li><em>Affiliated faculty</em>: <a href="http://www.via.cornell.edu/people/reeves.html">Anthony Reeves</a> (ECE)</li>
+</ul>
+</div></div></div>  </div>
+</div>
+  </div>
+</div>
+  </div>
+      </div>
+      <nav class="col-sm-3 col-sm-pull-9 sidebar" aria-label="Sidebar">
+          <div class="region region-sidebar">
+    <div id="block-menu-block-1--2" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-275"><a href="/information/about">About</a><ul class="menu"><li class="first expanded menu-mlid-175"><a href="/information/news">News</a><ul class="menu"><li class="first last leaf menu-mlid-3512"><a href="http://www.cs.cornell.edu/sites/default/files/shared/cs_newsletter_spring_summer_2019.pdf">CS Newsletter Spring/Summer 2019</a></li>
+</ul></li>
+<li class="leaf menu-mlid-736"><a href="/information/research-news">Research News</a></li>
+<li class="leaf menu-mlid-320"><a href="/information/departmentlife">Department Life</a></li>
+<li class="expanded menu-mlid-325"><a href="/information/awards">Awards</a><ul class="menu"><li class="first leaf menu-mlid-961"><a href="/information/awards-by-recipient">Listed by Recipient</a></li>
+<li class="last leaf menu-mlid-966"><a href="/information/awards-by-category">Listed by Category</a></li>
+</ul></li>
+<li class="leaf menu-mlid-681"><a href="https://ecommons.cornell.edu/bitstream/handle/1813/44201/CS_Oral_History_Directory_v10Jun16.pdf?sequence=2&amp;isAllowed=y">Oral History of Cornell CS</a></li>
+<li class="expanded menu-mlid-245"><a href="/information/pubs">Publications</a><ul class="menu"><li class="first leaf menu-mlid-971"><a href="/information/publications-by-author">Books by Author</a></li>
+<li class="last leaf menu-mlid-976"><a href="/information/publications-by-year">Books Chronologically</a></li>
+</ul></li>
+<li class="expanded menu-mlid-571"><a href="/information/timeline">Department Timeline</a><ul class="menu"><li class="first leaf menu-mlid-586"><a href="http://www.cs.cornell.edu/information/timeline#60">The 60&#039;s</a></li>
+<li class="leaf menu-mlid-591"><a href="http://www.cs.cornell.edu/information/timeline#70">The 70&#039;s</a></li>
+<li class="leaf menu-mlid-596"><a href="http://www.cs.cornell.edu/information/timeline#80">The 80&#039;s</a></li>
+<li class="leaf menu-mlid-601"><a href="http://www.cs.cornell.edu/information/timeline#90">The 90&#039;s</a></li>
+<li class="leaf menu-mlid-606"><a href="http://www.cs.cornell.edu/information/timeline#00">The 00&#039;s</a></li>
+<li class="last leaf menu-mlid-611"><a href="http://www.cs.cornell.edu/information/timeline#10">The 2010&#039;s</a></li>
+</ul></li>
+<li class="leaf menu-mlid-277"><a href="/information/annualreports">Annual Reports</a></li>
+<li class="expanded menu-mlid-299"><a href="/information/jobpostings">Job Postings</a><ul class="menu"><li class="first leaf menu-mlid-323"><a href="/information/jobpostings/facultypositionsithaca">Faculty Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-2890"><a href="/information/jobpostings/lecturer-positions-ithaca">Lecturer Positions: Ithaca</a></li>
+<li class="leaf menu-mlid-327"><a href="/information/jobpostings/facultypositionsnyctech">Faculty Positions: New York City</a></li>
+<li class="leaf menu-mlid-2500"><a href="/information/jobpostings/postdocpositionsithaca">Post-doc Position: Ithaca</a></li>
+<li class="leaf menu-mlid-343"><a href="https://www.hr.cornell.edu/jobs/positions.html" class="outlink">Staff/Technical Positions</a></li>
+<li class="last leaf menu-mlid-661"><a href="https://www.cs.cornell.edu/undergrad/ugradcoursestaff ">Ugrad Course Staff</a></li>
+</ul></li>
+<li class="leaf menu-mlid-246"><a href="/information/ithaca">Ithaca Info</a></li>
+<li class="last leaf menu-mlid-498"><a href="https://confluence.cornell.edu/display/csdinfo/CSD+Info+Home">Internal info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-324"><a href="/events">Events</a><ul class="menu"><li class="first leaf menu-mlid-986"><a href="/events/calendar">Calendar</a></li>
+<li class="leaf menu-mlid-3450"><a href="http://www.cs.cornell.edu/node/10412">Graduation Information</a></li>
+<li class="leaf menu-mlid-2499"><a href="/content/cornell-tech-colloquium-6">Cornell Tech Colloquium</a></li>
+<li class="leaf menu-mlid-2951"><a href="/content/student-colloquium">Student Colloquium</a></li>
+<li class="leaf menu-mlid-621"><a href="http://boom.cornell.edu/">BOOM</a></li>
+<li class="collapsed menu-mlid-3638"><a href="/content/fall-2019-colloquium">CS Colloquium</a></li>
+<li class="expanded menu-mlid-2502"><a href="/content/workshop/sonic">SoNIC Workshop</a><ul class="menu"><li class="first leaf menu-mlid-2503"><a href="http://www.cornell.edu/visiting/">Visiting Cornell University</a></li>
+<li class="leaf menu-mlid-2504"><a href="http://www.cs.cornell.edu">Cornell Computer Science</a></li>
+<li class="leaf menu-mlid-2505"><a href="http://www.visitithaca.com/group-attractions/">Ithaca Attractions</a></li>
+<li class="leaf menu-mlid-2507"><a href="http://www.ithacamenus.com/">Area Restaurants</a></li>
+<li class="leaf menu-mlid-2506"><a href="http://www.cs.cornell.edu/information/ithaca">Things to do in Ithaca</a></li>
+<li class="leaf menu-mlid-2508"><a href="https://www.cornell.edu/about/maps/">Campus Map</a></li>
+<li class="last leaf menu-mlid-2574"><a href="http://www.cs.cornell.edu/sites/default/files/shared/sonic_flyer_2019.pdf">SoNIC Flyer</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1711"><a href="/events/conway">Conway-Walker Lecture Series</a></li>
+<li class="leaf menu-mlid-1706"><a href="/events/saltonseries">Salton Lecture Series</a></li>
+<li class="expanded menu-mlid-292"><a href="/events/sems">Seminars / Lectures</a><ul class="menu"><li class="first leaf menu-mlid-3640"><a href="/content/fall-2019-artificial-intelligence-seminar">AI (Artificial Intelligence) Seminar</a></li>
+<li class="last leaf menu-mlid-3641"><a href="/content/fall-2019-theory-seminar">Theory Seminar</a></li>
+</ul></li>
+<li class="leaf menu-mlid-546"><a href="http://www.bigredhacks.com/">Big Red Hacks</a></li>
+<li class="expanded menu-mlid-516"><a href="/events/50years">50th Anniversary Symposium</a><ul class="menu"><li class="first leaf menu-mlid-551"><a href="/events/50years/speakers">Speaker Bios</a></li>
+<li class="leaf menu-mlid-561"><a href="/events/50years/abstracts">Titles/Abstracts</a></li>
+<li class="leaf menu-mlid-2434"><a href="https://www.flickr.com/gp/138617394@N06/L93xc4 ">Photos</a></li>
+<li class="last leaf menu-mlid-2433"><a href="http://www.cs.cornell.edu/events/50years/schedule">Schedule of talks with videos</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-507"><a href="/events/cornell-high-school-programming-contest">Cornell University High School Programming Contest</a></li>
+<li class="last leaf menu-mlid-459"><a href="http://gdiac.cis.cornell.edu/" class="outlink">Game Design Initiative</a></li>
+</ul></li>
+<li class="expanded menu-mlid-261"><a href="/people">People</a><ul class="menu"><li class="first leaf menu-mlid-262"><a href="/people/chair">Chair</a></li>
+<li class="leaf menu-mlid-766"><a href="/people/faculty">Faculty</a></li>
+<li class="leaf menu-mlid-771"><a href="/people/researchers">Researchers</a></li>
+<li class="expanded menu-mlid-776"><a href="/people/staff">Staff</a><ul class="menu"><li class="first last leaf menu-mlid-271"><a href="https://www.cs.cornell.edu/sites/default/files/shared/faculty_support_2019-2020.pdf">Faculty Admin Support</a></li>
+</ul></li>
+<li class="leaf menu-mlid-781"><a href="/people/phdstudents">Ph.D. Students</a></li>
+<li class="leaf menu-mlid-791"><a href="/people/msstudents">M.S. Students</a></li>
+<li class="leaf menu-mlid-786"><a href="/people/mengstudents">M.Eng. Students</a></li>
+<li class="last leaf menu-mlid-796"><a href="/people/phdalumni">Ph.D. Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-252"><a href="/courseinfo">Courses</a><ul class="menu"><li class="first leaf menu-mlid-295"><a href="/courseinfo/listofcscourses">List of Courses</a></li>
+<li class="leaf menu-mlid-581"><a href="/courseinfo/enrollment">Enrollment</a></li>
+<li class="leaf menu-mlid-312"><a href="/courseinfo/examschedules">Exams</a></li>
+<li class="leaf menu-mlid-308"><a href="/courseinfo/courseandroomroster">Course and Room Roster</a></li>
+<li class="leaf menu-mlid-2437"><a href="/courseinfo/homework-hand-back-room">Homework Hand Back Room</a></li>
+<li class="last leaf menu-mlid-3637"><a href="/courseinfo/placement">CS Advanced Standing Exam</a></li>
+</ul></li>
+<li class="expanded active-trail menu-mlid-257"><a href="/research" class="active-trail active-trail">Research</a><ul class="menu"><li class="first leaf menu-mlid-243"><a href="/research/architecture">Architecture</a></li>
+<li class="leaf active-trail active menu-mlid-274"><a href="/research/ai" class="active-trail active-trail active">Artificial Intelligence</a></li>
+<li class="leaf menu-mlid-248"><a href="/research/compbio">Computational Biology</a></li>
+<li class="leaf menu-mlid-285"><a href="/research/datasystems">Database Systems</a></li>
+<li class="leaf menu-mlid-298"><a href="/research/graphics">Graphics</a></li>
+<li class="leaf menu-mlid-631"><a href="/research/humaninteraction">Human Interaction</a></li>
+<li class="leaf menu-mlid-247"><a href="/research/lang">Programming Languages</a></li>
+<li class="leaf menu-mlid-283"><a href="http://robotics.cornell.edu">Robotics</a></li>
+<li class="leaf menu-mlid-303"><a href="/research/scientif">Scientific Computing</a></li>
+<li class="leaf menu-mlid-335"><a href="/research/security">Security</a></li>
+<li class="leaf menu-mlid-251"><a href="/research/systems">Systems and Networking</a></li>
+<li class="last leaf menu-mlid-270"><a href="/research/theory">Theory of Computing</a></li>
+</ul></li>
+<li class="expanded menu-mlid-291 student-menu-link"><a href="/undergrad">Undergraduate</a><ul class="menu"><li class="first expanded menu-mlid-306"><a href="/undergrad/uadmis">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-1691"><a href="/undergrad/uadmis/becoming-cs-major">Becoming a CS Major</a></li>
+</ul></li>
+<li class="expanded menu-mlid-250"><a href="/undergrad/ustaff">Contact Us</a><ul class="menu"><li class="first last leaf menu-mlid-3208"><a href="/undergrad/ustaff/contact-academic-advisor">Contact Academic Advisor</a></li>
+</ul></li>
+<li class="leaf menu-mlid-272"><a href="/undergrad/firstcscourse">Your First CS Course</a></li>
+<li class="expanded menu-mlid-290"><a href="/undergrad/csmajor">CS Major</a><ul class="menu"><li class="first leaf menu-mlid-255"><a href="/undergrad/csmajor/usefulforms">Useful Forms</a></li>
+<li class="leaf menu-mlid-284"><a href="/undergrad/rulesandproceduresengineering/choosingyourelectives">Electives</a></li>
+<li class="leaf menu-mlid-307"><a href="/undergrad/csmajor/technicalelectives">Technical Electives</a></li>
+<li class="leaf menu-mlid-326"><a href="/undergrad/csmajor/quickchart">Quick Chart</a></li>
+<li class="leaf menu-mlid-333"><a href="/undergrad/csmajor/cswithothermajorsareas">CS with Other Majors/Areas</a></li>
+<li class="leaf menu-mlid-266"><a href="/undergrad/csmajor/transfercredits">Transfer Credits</a></li>
+<li class="leaf menu-mlid-496"><a href="/undergrad/csmajor/cs-honors-program">CS Honors Program</a></li>
+<li class="last leaf menu-mlid-3707"><a href="/undergrad/csmajor/cpt-procedure">CPT for International CS Undergrads</a></li>
+</ul></li>
+<li class="expanded menu-mlid-286"><a href="/undergrad/rulesandproceduresengineering">CS Engineering</a><ul class="menu"><li class="first last leaf menu-mlid-287"><a href="/undergrad/rulesandproceduresengineering/engineeringchecklist">Checklist</a></li>
+</ul></li>
+<li class="expanded menu-mlid-249"><a href="/undergrad/rulesandproceduresarts">CS Arts &amp; Sciences</a><ul class="menu"><li class="first last leaf menu-mlid-315"><a href="/undergrad/rulesandproceduresarts/artschecklist">Checklist</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-497"><a href="/undergrad/graduation-information">Graduation Information</a></li>
+<li class="expanded menu-mlid-475"><a href="/undergrad/minors">Minors</a><ul class="menu"><li class="first leaf menu-mlid-279"><a href="/undergrad/csminor">CS Minor</a></li>
+<li class="last leaf menu-mlid-340"><a href="/undergrad/minors/game-design-minor">Game Design Minor</a></li>
+</ul></li>
+<li class="expanded menu-mlid-322"><a href="/undergrad/cscareers">Career Information</a><ul class="menu"><li class="first leaf menu-mlid-297"><a href="/undergrad/cscareers/co-opexperiences">Co-op Program</a></li>
+<li class="last leaf menu-mlid-338"><a href="/undergrad/cscareers/placementreport">Placement Report</a></li>
+</ul></li>
+<li class="expanded menu-mlid-256"><a href="/undergrad/uresch">Undergrad Research</a><ul class="menu"><li class="first last leaf menu-mlid-288"><a href="/undergrad/uresch/registeringforcs4999">Independent Research (CS 4999)</a></li>
+</ul></li>
+<li class="leaf menu-mlid-278"><a href="/undergrad/ugroups">Student Groups</a></li>
+<li class="leaf menu-mlid-316"><a href="/undergrad/uevents">Events</a></li>
+<li class="leaf menu-mlid-242"><a href="/undergrad/computerlab">Undergraduate Learning Center</a></li>
+<li class="last leaf menu-mlid-651"><a href="/undergrad/ugradcoursestaff">UGrad Course Staff Info</a></li>
+</ul></li>
+<li class="expanded menu-mlid-328 student-menu-link"><a href="/masters">M Eng</a><ul class="menu"><li class="first expanded menu-mlid-300"><a href="/masters/apply">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-384"><a href="/masters/apply/prerequisites">Prerequisites</a></li>
+<li class="leaf menu-mlid-385"><a href="/masters/apply/application">The Application Process</a></li>
+<li class="leaf menu-mlid-386"><a href="/masters/apply/applicationreview">The Review Process</a></li>
+<li class="leaf menu-mlid-392"><a href="/masters/apply/earlyadmission">Early Admission</a></li>
+<li class="leaf menu-mlid-387"><a href="/masters/apply/financialaid">Financial Aid</a></li>
+<li class="last leaf menu-mlid-388"><a href="/masters/apply/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-477"><a href="/masters/academics">Academics</a><ul class="menu"><li class="first leaf menu-mlid-282"><a href="/masters/academics/degreerequirements">Degree Requirements</a></li>
+<li class="leaf menu-mlid-318"><a href="/masters/academics/preapprovedcourses">Pre-approved Electives</a></li>
+<li class="leaf menu-mlid-305"><a href="/masters/academics/projectinformation">The Project</a></li>
+<li class="last leaf menu-mlid-476"><a href="/masters/academics/faq">FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-455"><a href="/masters/current">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-310"><a href="/masters/current/courseenrollment">The Course Enrollment Process</a></li>
+<li class="leaf menu-mlid-479"><a href="/masters/current/advising-tips">Advising Tips</a></li>
+<li class="leaf menu-mlid-304"><a href="/masters/current/graduation-information">Graduation Information</a></li>
+<li class="leaf menu-mlid-244"><a href="/masters/current/faq">FAQ</a></li>
+<li class="leaf menu-mlid-506"><a href="/masters/current/meng-lab">M.Eng Lab</a></li>
+<li class="last leaf menu-mlid-510"><a href="/masters/current/meng-forms">MEng Forms</a></li>
+</ul></li>
+<li class="leaf menu-mlid-473"><a href="/masters/entrepreneurism">Entrepreneurship</a></li>
+<li class="leaf menu-mlid-472"><a href="/masters/nyc">Cornell Tech Programs</a></li>
+<li class="leaf menu-mlid-504"><a href="/masters/professional-development">Professional Development</a></li>
+<li class="leaf menu-mlid-616"><a href="/masters/contact-us">Contact Us</a></li>
+<li class="last leaf menu-mlid-2061"><a href="/masters/cs-meng-alumni">CS MEng Alumni</a></li>
+</ul></li>
+<li class="expanded menu-mlid-503 student-menu-link"><a href="/ms">MS</a><ul class="menu"><li class="first expanded menu-mlid-500"><a href="/ms/admissions" target="_parent">Admissions</a><ul class="menu"><li class="first last leaf menu-mlid-501"><a href="/ms/admissions/applicant-faq" target="_parent">Applicant FAQ</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2571"><a href="/ms/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-1686"><a href="http://test.cs.cornell.edu/sites/default/files/shared/MS%20Checklist.pdf">MS Degree Checklist</a></li>
+<li class="leaf menu-mlid-1681"><a href="/ms/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="last leaf menu-mlid-502"><a href="/ms/degree-requirements" target="_parent">Degree Requirements</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2821"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-1371"><a href="/ms/graduation-information">Graduation Information</a></li>
+<li class="last leaf menu-mlid-1361"><a href="/ms/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-269 student-menu-link"><a href="/phd">PhD</a><ul class="menu"><li class="first expanded menu-mlid-253"><a href="/phd/admissions">Admissions</a><ul class="menu"><li class="first leaf menu-mlid-329"><a href="/phd/faq">Ph.D. Applicant FAQ</a></li>
+<li class="leaf menu-mlid-1301"><a href="/phd/admissions/non-degree-application-guidelines">Non-Degree Application Guidelines</a></li>
+<li class="leaf menu-mlid-489"><a href="https://gradschool.cornell.edu/admissions/admitted-students/living-in-ithaca/housing/" class="outlink">Graduate Housing</a></li>
+<li class="last leaf menu-mlid-487"><a href="http://www.cs.cornell.edu/projects/phdvisit/" class="outlink divider">Ph. D. Visit Day</a></li>
+</ul></li>
+<li class="expanded menu-mlid-2570"><a href="/phd/current-students">Current Students</a><ul class="menu"><li class="first leaf menu-mlid-2888"><a href="/phd/current-students/phd-requirements">Ph.D. Requirements</a></li>
+<li class="leaf menu-mlid-2051"><a href="/phd/current-students/special-committee-selection">Special Committee Selection</a></li>
+<li class="leaf menu-mlid-1306"><a href="/phd/current-students/exam-scheduling-guidelines">Exam Scheduling Guidelines</a></li>
+<li class="leaf menu-mlid-491"><a href="http://www.cs.cornell.edu/grad/GradForms/A%20Exam%20Summary%20Form.pdf">Field A Exam Summary Form</a></li>
+<li class="leaf menu-mlid-1366"><a href="/phd/current-students/cornelltech">CornellTech</a></li>
+<li class="leaf menu-mlid-3204"><a href="/phd/current-students/travel-funding-opportunities">Travel Funding Opportunities</a></li>
+<li class="leaf menu-mlid-488"><a href="http://www.gradschool.cornell.edu/forms" class="outlink">Graduate School Forms</a></li>
+<li class="last leaf menu-mlid-3706"><a href="/phd/current-students/fellowship-opportunities">Fellowship Opportunities</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2820"><a href="http://diversity.cornell.edu/?utm_source=Announcements+-+April+30%2C+2018&amp;utm_campaign=Announcements-7%2F17%2F17&amp;utm_medium=email">Diversity and Inclusion</a></li>
+<li class="leaf menu-mlid-336"><a href="/phd/graduation">Graduation Information</a></li>
+<li class="leaf menu-mlid-317"><a href="/phd/minor">Graduate Minor</a></li>
+<li class="leaf menu-mlid-3516"><a href="/phd/outreach-programs">Outreach Opportunities</a></li>
+<li class="leaf menu-mlid-1731"><a href="http://studentswithfamilies.cornell.edu/policies/parental-accommodation-policy/">Parental Accommodation Policy</a></li>
+<li class="leaf menu-mlid-273"><a href="/phd/specialmasters">Special Masters</a></li>
+<li class="last leaf menu-mlid-1356"><a href="/phd/contact-us">Contact Us</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+      </nav>
+    </div>
+  </main>
+
+<section id="bottom-content" class="container">
+  </section>
+
+<footer>
+    <div class="tint">
+        <div class="container">
+            <div class="footer row">
+                <div class="col-sm-4">
+                      <div class="region region-footer">
+    <div id="block-menu-menu-footer" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/saml_login?destination=home">NetID Login (internal use only)</a></li>
+<li class="last leaf"><a href="/information/contactus">Contact Us</a></li>
+</ul>  </div>
+</div>
+  </div>
+                </div>
+                <div class="col-sm-4 footer-logo">
+                    <a href="http://cis.cornell.edu/">
+                        <img alt="Cornell Computing and Information Science" src="/profiles/cu_cs/themes/awp_cs/images/cis_mark.png">
+                    </a>
+                </div>
+                <div class="col-sm-4 footer-logo footer-right">
+                    <a href="http://tech.cornell.edu/">
+                        <img alt=Cornell Tech" src="/profiles/cu_cs/themes/awp_cs/images/cornell_tech_mark.png">
+                    </a>
+                </div>
+            </div>
+            <div class="subfooter">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="footer-divider"></div>
+                    </div>
+                    <div class="col-sm-3">
+                        &copy; 2019                                                    Cornell University                                            </div>
+                    <div class="col-sm-6 footer-center">
+                                                    402 Gates Hall, Cornell University, Ithaca, NY 14853                                            </div>
+                    <div class="col-sm-3 footer-right">
+                          <div class="region region-sub-footer">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <ul class="social-links">
+	<li class="twitter"><a href="http://twitter.com/cs_cornell"><span aria-hidden="true" class="fa fa-twitter"><span class="sr-only">Follow us on Twitter</span></span></a></li>
+	<li class="facebook"><a href="http://fb.me/cscornell"><span aria-hidden="true" class="fa fa-facebook"><span class="sr-only">Like us on Facebook</span></span></a></li>
+</ul>
+  </div>
+</div>
+  </div>
+                    </div>
+                </div>
+
+                <div class="accessibility-statement">
+                                            If you have a disability and are having trouble accessing information on this website or need materials in an alternate format, contact <a href="mailto:web-accessibility@cornell.edu">web-accessibility@cornell.edu</a> for assistance.                                    </div>
+            </div>
+        </div>
+    </div>
+</footer>
+  <script type="text/javascript" src="https://www.cs.cornell.edu/sites/default/files/js/js_dF8gZtzerefB4ycisHf9ri4JpFPblAQigxO1qTZfP9E.js"></script>
+</body>
+</html>
